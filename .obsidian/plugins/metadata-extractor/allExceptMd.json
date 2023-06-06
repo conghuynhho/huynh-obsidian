@@ -5,6 +5,10 @@
       "relativePath": "/"
     },
     {
+      "name": "Excalidraw",
+      "relativePath": "Excalidraw"
+    },
+    {
       "name": "Temp",
       "relativePath": "Temp"
     },
@@ -19,10 +23,6 @@
     {
       "name": "Working",
       "relativePath": "Working"
-    },
-    {
-      "name": "Excalidraw",
-      "relativePath": "Excalidraw"
     }
   ],
   "nonMdFiles": [
