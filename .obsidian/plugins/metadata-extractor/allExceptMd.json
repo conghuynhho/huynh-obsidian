@@ -1,0 +1,35 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "Temp",
+      "relativePath": "Temp"
+    },
+    {
+      "name": "Templates",
+      "relativePath": "Templates"
+    },
+    {
+      "name": "Today I Learned",
+      "relativePath": "Today I Learned"
+    },
+    {
+      "name": "Working",
+      "relativePath": "Working"
+    },
+    {
+      "name": "Excalidraw",
+      "relativePath": "Excalidraw"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "CleanShot 2023-06-02 at 16.09.04.png",
+      "basename": "CleanShot 2023-06-02 at 16.09.04",
+      "relativePath": "CleanShot 2023-06-02 at 16.09.04.png"
+    }
+  ]
+}
