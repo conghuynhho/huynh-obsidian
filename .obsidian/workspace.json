@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "045b246c22f1faaf",
+        "id": "2fa2cc539377db06",
         "type": "tabs",
         "children": [
           {
-            "id": "f9c04c21db04614d",
+            "id": "c23ef5789ca8586b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Today I Learned/Explore Mono Turbo Repo.md",
+                "file": "Today I Learned/Git Alias (Multiple Command).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Today I Learned/Explore Mono Turbo Repo.md",
+                "file": "Today I Learned/Git Alias (Multiple Command).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Today I Learned/Explore Mono Turbo Repo.md",
+                "file": "Today I Learned/Git Alias (Multiple Command).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Today I Learned/Explore Mono Turbo Repo.md"
+                "file": "Today I Learned/Git Alias (Multiple Command).md"
               }
             }
           },
@@ -157,11 +157,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9c04c21db04614d",
+  "active": "c23ef5789ca8586b",
   "lastOpenFiles": [
+    "Today I Learned/Explore Mono Turbo Repo.md",
     "Working/Turbo Repo.md",
     "CleanShot 2023-06-02 at 16.09.04.png",
-    "Today I Learned/Explore Mono Turbo Repo.md",
     "Today I Learned/Create an alfred workflow.md",
     "Templates/Quicknotes.md",
     "Excalidraw/test.md",
