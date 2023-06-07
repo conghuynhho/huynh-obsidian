@@ -231,16 +231,6 @@
     ]
   },
   {
-    "fileName": "Create an alfred workflow",
-    "relativePath": "Today I Learned/Create an alfred workflow.md",
-    "headings": [
-      {
-        "heading": "Alfred with obsidian",
-        "level": 2
-      }
-    ]
-  },
-  {
     "fileName": "Deep copy",
     "relativePath": "Today I Learned/Deep copy.md",
     "headings": [
@@ -259,6 +249,16 @@
       {
         "heading": "[Exceptions](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone#exceptions)",
         "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Create an alfred workflow",
+    "relativePath": "Today I Learned/Create an alfred workflow.md",
+    "headings": [
+      {
+        "heading": "Alfred with obsidian",
+        "level": 2
       }
     ]
   },
