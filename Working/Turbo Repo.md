@@ -31,3 +31,14 @@
 ### Advanced
 - Xử lý node 10
 - Remote cache? 
+
+
+### Issue different node version
+
+1. Node-sass at step 4 in `yarn install` was run under `v18.16.0`
+```
+[4/4] Building fresh packages...
+```
+
+**Possible Solutions**
+- Make node-sass install inside `realtrade` folder
