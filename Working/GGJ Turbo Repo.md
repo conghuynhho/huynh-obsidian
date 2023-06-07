@@ -41,7 +41,6 @@
 ```
 
 **Possible Solutions**
-- Make node-sass install inside `realtrade` folder
 
 
 
