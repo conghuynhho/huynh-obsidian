@@ -239,6 +239,10 @@
       {
         "heading": "2. How `workspaces` work with dependencies in node_modules",
         "level": 3
+      },
+      {
+        "heading": "References",
+        "level": 3
       }
     ]
   },
