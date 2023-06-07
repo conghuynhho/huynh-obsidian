@@ -116,7 +116,7 @@ Conclusion:
 
 - [ ] Error message mapping through i18n
 - [x] Redirect 24 show toast cancel payment
-- [ ] Correct timeout every 10s and stop after 5 times -> if not response -> show fail
+- [x] Correct timeout every 10s and stop after 5 times -> if not response -> show fail
 - [x] Pending screen show inquiry button
 - [ ] i18n
 - [x] Fix spinner
