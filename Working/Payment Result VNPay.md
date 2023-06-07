@@ -114,6 +114,10 @@ Conclusion:
 
 # Remains:
 
+- [ ] Error message mapping through i18n
+- [ ] Redirect 24 show toast cancel payment\
+- [ ] Correct timeout every 10s and stop after 5 times -> if not response -> show fail
+- [ ] Pending screen show inquiry button
 - [x] Button go to transaction
 - [x] Handle redirect to Step 1 case User Cancel Payment
 - [x] Style of stepper. 
