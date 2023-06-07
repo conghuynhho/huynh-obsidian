@@ -118,7 +118,7 @@ Conclusion:
 - [ ] Redirect 24 show toast cancel payment\
 - [ ] Correct timeout every 10s and stop after 5 times -> if not response -> show fail
 - [ ] Pending screen show inquiry button
-- [ ] Fix spinner
+- [x] Fix spinner
 - [x] Correct stepper
 - [x] Button go to transaction
 - [x] Handle redirect to Step 1 case User Cancel Payment
