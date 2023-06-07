@@ -42,3 +42,22 @@
 
 **Possible Solutions**
 - Make node-sass install inside `realtrade` folder
+
+
+
+# Doubt
+- Should we apply it for all services.
+- What is its benefit.
+- Which feature we can use from it.
+
+
+
+
+
+
+
+
+
+
+
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Today I Learned/Explore Mono Turbo Repo.md",
+                "file": "Working/Turbo Repo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Today I Learned/Explore Mono Turbo Repo.md",
+                "file": "Working/Turbo Repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Today I Learned/Explore Mono Turbo Repo.md",
+                "file": "Working/Turbo Repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Today I Learned/Explore Mono Turbo Repo.md"
+                "file": "Working/Turbo Repo.md"
               }
             }
           },
@@ -159,13 +159,13 @@
   },
   "active": "c23ef5789ca8586b",
   "lastOpenFiles": [
-    "Working/Turbo Repo.md",
     "Today I Learned/Explore Mono Turbo Repo.md",
+    "Excalidraw/test.md",
+    "Working/Turbo Repo.md",
     "Today I Learned/Git Alias (Multiple Command).md",
     "CleanShot 2023-06-02 at 16.09.04.png",
     "Today I Learned/Create an alfred workflow.md",
     "Templates/Quicknotes.md",
-    "Excalidraw/test.md",
     "Working/Infinite scroll in community attachment.md",
     "Working/Add Paging for EA list.md",
     "Today I Learned/Deep copy.md",
