@@ -40,6 +40,10 @@
       {
         "heading": "Advanced",
         "level": 3
+      },
+      {
+        "heading": "Issue different node version",
+        "level": 3
       }
     ]
   },
@@ -226,6 +230,14 @@
     "headings": [
       {
         "heading": "First look",
+        "level": 2
+      },
+      {
+        "heading": "1. Workspace task dependency with handy customization using this [strategy](https://turbo.build/repo/docs/core-concepts/monorepos/task-dependencies#from-arbitrary-workspaces)",
+        "level": 3
+      },
+      {
+        "heading": "2. How `workspaces` work with dependencies in node_modules",
         "level": 3
       }
     ]
