@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c59cb75ce97a703",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Today I Learned/Ideavim config for clipboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/Payment Result VNPay.md",
+                "file": "Today I Learned/Ideavim config for clipboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/Payment Result VNPay.md",
+                "file": "Today I Learned/Ideavim config for clipboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/Payment Result VNPay.md"
+                "file": "Today I Learned/Ideavim config for clipboard.md"
               }
             }
           },
@@ -157,10 +170,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c23ef5789ca8586b",
+  "active": "1c59cb75ce97a703",
   "lastOpenFiles": [
-    "Working/GGJ Turbo Repo.md",
     "Working/Payment Result VNPay.md",
+    "Today I Learned/Ideavim config for clipboard.md",
+    "Working/GGJ Turbo Repo.md",
     "Today I Learned/Explore Mono Turbo Repo.md",
     "Excalidraw/test.md",
     "Today I Learned/Git Alias (Multiple Command).md",
