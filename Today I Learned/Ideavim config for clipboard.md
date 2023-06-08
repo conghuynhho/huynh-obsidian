@@ -12,3 +12,8 @@ How to manage clipboard and buffer with `ideavim`
 
 ### Not doing anything
 - [ ] Delete without yank
+
+
+
+Solved. Just misunderstanding
+I map all the key
