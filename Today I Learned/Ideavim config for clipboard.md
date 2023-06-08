@@ -2,18 +2,19 @@
 How to manage clipboard and buffer with `ideavim`
 
 ### Buffer
-- [ ] Yank
-- [ ] Paste fron buffer
+- [x] Yank
+- [x] Paste fron buffer
 
 
 ### Clipboard
-- [ ] Copy to clipboard
-- [ ] Paste from clipboard
+- [x] Copy to clipboard
+- [x] Paste from clipboard
 
 ### Not doing anything
-- [ ] Delete without yank
+- [x] Delete without yank
 
 
 
 Solved. Just misunderstanding
-I map all the key
+I map all the key related to clipboard with `leader` + `c`
+with prefix `c` (clipboard)
