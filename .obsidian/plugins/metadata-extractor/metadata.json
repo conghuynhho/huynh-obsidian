@@ -205,6 +205,24 @@
     ]
   },
   {
+    "fileName": "Ideavim config for clipboard",
+    "relativePath": "Today I Learned/Ideavim config for clipboard.md",
+    "headings": [
+      {
+        "heading": "Buffer",
+        "level": 3
+      },
+      {
+        "heading": "Clipboard",
+        "level": 3
+      },
+      {
+        "heading": "Not doing anything",
+        "level": 3
+      }
+    ]
+  },
+  {
     "fileName": "Tmux Prefix",
     "relativePath": "Today I Learned/Tmux Prefix.md",
     "headings": [
