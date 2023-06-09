@@ -1,8 +1,4 @@
 {
-	"nodes":[
-		{"type":"text","text":"This is new canvas","id":"1901cc733453adc1","x":-520,"y":980,"width":250,"height":60,"color":"3"},
-		{"id":"676d6010596b560d","x":-520,"y":1100,"width":400,"height":209,"type":"file","file":"CleanShot 2023-06-02 at 16.09.04.png"},
-		{"id":"6aa31d1411a65f09","x":-520,"y":871,"width":250,"height":60,"type":"text","text":"dsfasdfasdfasdf"}
-	],
+	"nodes":[],
 	"edges":[]
 }
