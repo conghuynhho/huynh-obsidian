@@ -132,7 +132,7 @@ Conclusion:
 - [ ] rem code for table paidOption and Coupons
 - [ ] Change time to 24h format.
 - [ ] Rearrange inquiry button.
-- [ ] 
+- [ ] Change text error message.
 
 
 ## Centralize code for multiple language
