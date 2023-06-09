@@ -147,8 +147,7 @@ Conclusion:
 	- `csid ` -> get paymentInfo
 	- `csid` -> get payment complete
 
-
-```
+```js
 
 ```
 
