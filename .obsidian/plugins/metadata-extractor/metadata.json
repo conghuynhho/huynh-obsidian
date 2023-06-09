@@ -165,6 +165,20 @@
     "relativePath": "Working/Add Paging for EA list.md"
   },
   {
+    "fileName": "React useTransition and useDeferredValue",
+    "relativePath": "Today I Learned/React useTransition and useDeferredValue.md",
+    "headings": [
+      {
+        "heading": "`useTransition`",
+        "level": 2
+      },
+      {
+        "heading": "`useDeferredValue`",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "Typescript Generic Auto Inter Type",
     "relativePath": "Today I Learned/Typescript Generic Auto Inter Type.md",
     "headings": [

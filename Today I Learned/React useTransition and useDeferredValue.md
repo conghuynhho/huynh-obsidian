@@ -22,3 +22,6 @@ With above code `setTab` will be call inside `startTransition`
 
 
 ## `useDeferredValue`
+Useful in case need the state has delay to render to UI.
+
+React docs is very well explained about these.
