@@ -11,14 +11,11 @@
             "id": "c23ef5789ca8586b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -320,
-                  "y": 1199.7989135742187,
-                  "zoom": 0
-                }
+                "file": "Today I Learned/Ideavim config for clipboard.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.50260543823242
+    "width": 250.50260543823242
   },
   "right": {
     "id": "10fe1423611578e8",
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CleanShot 2023-06-02 at 16.09.04.png",
+                "file": "Today I Learned/Ideavim config for clipboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CleanShot 2023-06-02 at 16.09.04.png",
+                "file": "Today I Learned/Ideavim config for clipboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CleanShot 2023-06-02 at 16.09.04.png"
+                "file": "Today I Learned/Ideavim config for clipboard.md"
               }
             }
           },
@@ -160,10 +157,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c23ef5789ca8586b",
+  "active": "c8b5f0bb14a8b5da",
   "lastOpenFiles": [
-    "2023-06-09.md",
     "Untitled.canvas",
+    "2023-06-09.md",
     "Working/Payment Result VNPay.md",
     "Working/GGJ Turbo Repo.md",
     "Today I Learned/Ideavim config for clipboard.md",
