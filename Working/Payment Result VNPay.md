@@ -130,9 +130,9 @@ Conclusion:
 - [x] Hotline
 - [x] GGJ Business error message 
 - [x] rem code for table paidOption and Coupons
-- [ ] Change time to 24h format.
+- [x] Change time to 24h format.
 - [x] Rearrange inquiry button.
-- [ ] Change text error message.
+- [x] Change text error message.
 
 
 ## Centralize code for multiple language
