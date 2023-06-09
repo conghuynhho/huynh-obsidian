@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23e0bf66c55bae65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Today I Learned/React useTransition and useDeferredValue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Today I Learned/Ideavim config for clipboard.md",
+                "file": "Today I Learned/React useTransition and useDeferredValue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Today I Learned/Ideavim config for clipboard.md",
+                "file": "Today I Learned/React useTransition and useDeferredValue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Today I Learned/Ideavim config for clipboard.md"
+                "file": "Today I Learned/React useTransition and useDeferredValue.md"
               }
             }
           },
@@ -157,13 +170,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8b5f0bb14a8b5da",
+  "active": "23e0bf66c55bae65",
   "lastOpenFiles": [
+    "Today I Learned/Ideavim config for clipboard.md",
+    "Today I Learned/React useTransition and useDeferredValue.md",
     "Untitled.canvas",
     "2023-06-09.md",
     "Working/Payment Result VNPay.md",
     "Working/GGJ Turbo Repo.md",
-    "Today I Learned/Ideavim config for clipboard.md",
     "Today I Learned/Explore Mono Turbo Repo.md",
     "Excalidraw/test.md",
     "Today I Learned/Git Alias (Multiple Command).md",
