@@ -126,6 +126,10 @@ Conclusion:
 - [x] Style of stepper. 
 - [x] Session Id
 
+**Improve:**
+- [ ] Hotline
+- [ ] GGJ Business error message
+
 
 ## Centralize code for multiple language
 
