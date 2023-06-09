@@ -127,8 +127,8 @@ Conclusion:
 - [x] Session Id
 
 **Improve:**
-- [ ] Hotline
-- [ ] GGJ Business error message
+- [ ] Hotline ( not implement yet )
+- [ ] GGJ Business error message 
 
 
 ## Centralize code for multiple language
