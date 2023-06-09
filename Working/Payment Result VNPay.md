@@ -127,11 +127,11 @@ Conclusion:
 - [x] Session Id
 
 **Improve:**
-- [ ] Hotline ( not implement yet )
+- [x] Hotline
 - [x] GGJ Business error message 
-- [ ] rem code for table paidOption and Coupons
+- [x] rem code for table paidOption and Coupons
 - [ ] Change time to 24h format.
-- [ ] Rearrange inquiry button.
+- [x] Rearrange inquiry button.
 - [ ] Change text error message.
 
 
