@@ -128,7 +128,11 @@ Conclusion:
 
 **Improve:**
 - [ ] Hotline ( not implement yet )
-- [ ] GGJ Business error message 
+- [x] GGJ Business error message 
+- [ ] rem code for table paidOption and Coupons
+- [ ] Change time to 24h format.
+- [ ] Rearrange inquiry button.
+- [ ] 
 
 
 ## Centralize code for multiple language
