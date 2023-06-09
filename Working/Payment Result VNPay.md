@@ -125,23 +125,7 @@ Conclusion:
 - [x] Handle redirect to Step 1 case User Cancel Payment
 - [x] Style of stepper. 
 - [x] Session Id
-```tsx
-export const ListSteps = [
-  {
-    step: Steps.Step1,
-    label: 'step-1',
-  },
-  {
-    step: Steps.Step2,
-    label: 'step-2',
-  },
-  {
-    step: Steps.Step3,
-    label: 'step-3',
-  },
-]
 
-```
 
 ## Centralize code for multiple language
 
