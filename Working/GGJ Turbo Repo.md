@@ -9,7 +9,7 @@
 	- [ ] yarn global add turbo
 	- [ ] brew install graphviz
 
-### Fundamental
+### Basic
 - [x] create Config surface demo
 - [x] create Config surface + API skijan ja
 - Build lib dependent ( remove lib configs)
@@ -32,32 +32,35 @@
 - Xử lý node 10
 - Remote cache? 
 
+# Test & Verified
+- `run` and `build` (`gui-skijan`)
+- `run` and `build` (`api-skijan`)
+- 
 
-### Issue different node version
+
+# Issue 
 
 1. Node-sass at step 4 in `yarn install` was run under `v18.16.0`
-```
-[4/4] Building fresh packages...
-```
+	```
+	[4/4] Building fresh packages...
+	```
 
-**Possible Solutions**
+	**Possible Solutions**
 
 
 # Implement Strategy
 - Config run for dev
+	- `api`
+	- `gui-skijan`
 - Config 
 	- `eslint` 
 	- `typescript`
-	- 
-
-
-# Doubt
-- Should we apply it for all services.
-- What is its benefit.
-- Which feature we can use from it.
-
-# Consider
-- [ ] common shared UI component have such a big dependencies like MUI, redux,...
+	- `husky` & `lintstaged`
+- Shared code
+	- constants
+	- logic code
+	- UI componens
+- Config build for `production`
 
 
 # Issues
@@ -67,15 +70,14 @@
 	- `yarn cache clean` solved the issue
 
 
+### Production build
+- Reduce node_modules size on server
+- Maybe can using `yarn <custome_package.json>`
+
 # Notes
 
 1. Because some packages will be hoist to the root node_modules and it also create new `yarn.lock` file. Therefore, some package with `caret range` will be update when using `workspaces`
 	Example: 
 	- `@mui/lab`
-
-
-
-
-
 
 

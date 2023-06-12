@@ -113,7 +113,7 @@
         "level": 3
       },
       {
-        "heading": "Fundamental",
+        "heading": "Basic",
         "level": 3
       },
       {
@@ -129,15 +129,11 @@
         "level": 3
       },
       {
-        "heading": "Issue different node version",
-        "level": 3
-      },
-      {
-        "heading": "Doubt",
+        "heading": "Issue",
         "level": 1
       },
       {
-        "heading": "Consider",
+        "heading": "Implement Strategy",
         "level": 1
       },
       {
@@ -146,6 +142,10 @@
       },
       {
         "heading": "Gui skijan",
+        "level": 3
+      },
+      {
+        "heading": "Production build",
         "level": 3
       },
       {
