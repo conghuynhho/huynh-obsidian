@@ -43,6 +43,13 @@
 **Possible Solutions**
 
 
+# Implement Strategy
+- Config run for dev
+- Config 
+	- `eslint` 
+	- `typescript`
+	- 
+
 
 # Doubt
 - Should we apply it for all services.

@@ -149,20 +149,8 @@
         "level": 3
       },
       {
-        "heading": "Solved",
+        "heading": "Notes",
         "level": 1
-      },
-      {
-        "heading": "Gui skijan",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "#^8b59a9",
-        "relativePath": "Working/GGJ Turbo Repo.md",
-        "cleanLink": "GGJ Turbo Repo",
-        "displayText": "Solution"
       }
     ]
   },
@@ -387,6 +375,34 @@
   {
     "fileName": "Roadmap",
     "relativePath": "Roadmap.md"
+  },
+  {
+    "fileName": "Drawing 2023-06-12 18.00.40.excalidraw",
+    "relativePath": "Excalidraw/Drawing 2023-06-12 18.00.40.excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Text Elements",
+        "level": 1
+      }
+    ]
   },
   {
     "fileName": "Sketch VNPay Result",
