@@ -49,6 +49,8 @@
 - What is its benefit.
 - Which feature we can use from it.
 
+# Consider
+- [ ] common shared UI component have such a big dependencies like MUI, redux,...
 
 
 
