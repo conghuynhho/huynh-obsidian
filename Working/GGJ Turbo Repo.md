@@ -55,9 +55,12 @@
 # Issues
 
 ### Gui skijan
-- [ ] Import icon from `@mui/material-icons/{}` failed
-- [ ] 
+- [x] Import icon from `@mui/material-icons/{}` failed **[[#^8b59a9|Solution]]**
 
+
+# Solved
+### Gui skijan
+- `yarn cache clean` ^8b59a9
 
 
 
