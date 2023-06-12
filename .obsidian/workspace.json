@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Today I Learned/Ideavim config for clipboard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23e0bf66c55bae65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Working/Payment Result VNPay.md",
+                "file": "Working/GGJ Turbo Repo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/Payment Result VNPay.md",
+                "file": "Working/GGJ Turbo Repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/Payment Result VNPay.md",
+                "file": "Working/GGJ Turbo Repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/Payment Result VNPay.md"
+                "file": "Working/GGJ Turbo Repo.md"
               }
             }
           },
@@ -170,13 +157,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23e0bf66c55bae65",
+  "active": "c23ef5789ca8586b",
   "lastOpenFiles": [
-    "Today I Learned/React useTransition and useDeferredValue.md",
     "Today I Learned/Ideavim config for clipboard.md",
+    "Working/Payment Result VNPay.md",
+    "Today I Learned/React useTransition and useDeferredValue.md",
     "Untitled.canvas",
     "2023-06-09.md",
-    "Working/Payment Result VNPay.md",
     "Working/GGJ Turbo Repo.md",
     "Today I Learned/Explore Mono Turbo Repo.md",
     "Excalidraw/test.md",
