@@ -10,8 +10,8 @@
 	- [ ] brew install graphviz
 
 ### Fundamental
-- create Config surface demo
--  create Config surface + API skijan ja
+- [ ] create Config surface demo
+- [ ]  create Config surface + API skijan ja
 - Build lib dependent ( remove lib configs)
 - Đặt commmon package ở đâu (nextjs, MUI, nestjs…)?
 - Defined Run dev Theo bộ API + GUI

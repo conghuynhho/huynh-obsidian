@@ -149,8 +149,20 @@
         "level": 3
       },
       {
-        "heading": "",
+        "heading": "Solved",
         "level": 1
+      },
+      {
+        "heading": "Gui skijan",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "#^8b59a9",
+        "relativePath": "Working/GGJ Turbo Repo.md",
+        "cleanLink": "GGJ Turbo Repo",
+        "displayText": "Solution"
       }
     ]
   },
