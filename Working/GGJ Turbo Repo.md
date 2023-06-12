@@ -52,7 +52,11 @@
 # Consider
 - [ ] common shared UI component have such a big dependencies like MUI, redux,...
 
+# Issues
 
+### Gui skijan
+- [ ] Import icon from `@mui/material-icons/{}` failed
+- [ ] 
 
 
 
