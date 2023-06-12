@@ -52,16 +52,19 @@
 # Consider
 - [ ] common shared UI component have such a big dependencies like MUI, redux,...
 
+
 # Issues
 
 ### Gui skijan
-- [x] Import icon from `@mui/material-icons/{}` failed **[[#^8b59a9|Solution]]**
+- [x] Import icon from `@mui/material-icons/{}` failed
+	- `yarn cache clean` solved the issue
 
 
-# Solved
-### Gui skijan
-- `yarn cache clean` ^8b59a9
+# Notes
 
+1. Because some packages will be hoist to the root node_modules and it also create new `yarn.lock` file. Therefore, some package with `caret range` will be update when using `workspaces`
+	Example: 
+	- `@mui/lab`
 
 
 
