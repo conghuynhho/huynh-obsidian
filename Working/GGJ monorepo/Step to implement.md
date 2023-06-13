@@ -29,6 +29,11 @@ dependencies: {
 - Import path???
 - [x] `eslint` is separate of this part
 
+#### Config `tsconfig`
+
+**1. Base**
+- 
+
 
 **NOW:**
 - [ ] define base config ts

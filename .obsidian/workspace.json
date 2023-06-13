@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2fa2cc539377db06",
+        "id": "93ab7369f0868bc5",
         "type": "tabs",
         "children": [
           {
-            "id": "c23ef5789ca8586b",
+            "id": "098c27083fc5a6c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5026054382324
+    "width": 308.5026054382324
   },
   "right": {
     "id": "10fe1423611578e8",
@@ -157,10 +157,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c23ef5789ca8586b",
+  "active": "098c27083fc5a6c6",
   "lastOpenFiles": [
-    "Working/Community LazyImage.md",
     "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
+    "Untitled.canvas",
+    "Working/Community LazyImage.md",
     "Working/GGJ monorepo/Step to implement.md",
     "Today I Learned/Explore Mono Turbo Repo.md",
     "Working/GGJ monorepo",
@@ -171,7 +172,6 @@
     "Today I Learned/Ideavim config for clipboard.md",
     "Working/Payment Result VNPay.md",
     "Today I Learned/React useTransition and useDeferredValue.md",
-    "Untitled.canvas",
     "2023-06-09.md",
     "Excalidraw/test.md",
     "Today I Learned/Git Alias (Multiple Command).md",
@@ -188,7 +188,6 @@
     "Today I Learned/Typescript Generic Auto Inter Type.md",
     "Excalidraw",
     "alkdsjfjk.md",
-    "Today I Learned/AutoComplete1.md",
     "Today I Learned",
     "Inteliji Idea",
     "Nvim",
