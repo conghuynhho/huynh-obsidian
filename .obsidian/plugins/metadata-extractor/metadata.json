@@ -259,6 +259,10 @@
     "relativePath": "Working/GGJ Turbo Repo.md",
     "headings": [
       {
+        "heading": "Idea",
+        "level": 1
+      },
+      {
         "heading": "Document",
         "level": 3
       },
@@ -301,6 +305,10 @@
       {
         "heading": "Step to implement",
         "level": 1
+      },
+      {
+        "heading": "Config `eslint` and `tsconfig` for `api-skijan`",
+        "level": 5
       }
     ]
   },

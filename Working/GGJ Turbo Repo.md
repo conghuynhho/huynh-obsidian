@@ -1,6 +1,7 @@
 
 **Branch:** OAM-103894
 
+# Idea
 
 ### Document
 - [ ] Document: How to use?
@@ -94,4 +95,9 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 
 1. Install turbo global
 2. Node version 18
-3. 
+
+##### Config `eslint` and `tsconfig` for `api-skijan`
+
+- Api skijan depend on `comm-api-skijan`
+- 
+
