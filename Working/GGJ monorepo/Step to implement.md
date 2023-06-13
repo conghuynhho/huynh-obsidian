@@ -32,7 +32,10 @@ dependencies: {
 #### Config `tsconfig`
 
 **1. Base**
-- 
+- base api-nest
+- base gui-nextjs
+
+**2. **
 
 
 **NOW:**
