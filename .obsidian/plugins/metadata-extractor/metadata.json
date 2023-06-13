@@ -102,7 +102,17 @@
   },
   {
     "fileName": "tsconfig.json",
-    "relativePath": "Working/GGJ monorepo/tsconfig.json.md"
+    "relativePath": "Working/GGJ monorepo/tsconfig.json.md",
+    "headings": [
+      {
+        "heading": "`nestjs` ---  api-skijan-vi ,  api-skijan",
+        "level": 4
+      },
+      {
+        "heading": "`nextjs` --- gui-skijan-vi, gui-skijan",
+        "level": 4
+      }
+    ]
   },
   {
     "fileName": "Step to implement",
