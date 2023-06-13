@@ -101,6 +101,10 @@
     ]
   },
   {
+    "fileName": "tsconfig.json",
+    "relativePath": "Working/GGJ monorepo/tsconfig.json.md"
+  },
+  {
     "fileName": "Step to implement",
     "relativePath": "Working/GGJ monorepo/Step to implement.md",
     "headings": [
