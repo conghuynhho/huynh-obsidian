@@ -109,4 +109,14 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 	    "packages/common-api/*"
 	  ],
 	```
+- add `dependencies` in api `skijan` and `skijan-vi`
+```json
+dependencies: {
+	"comm-api-skijan": "**"
+}
+```
 
+
+- How typescript understand
+- Import path???
+- [x] `eslint` is separate of this part
