@@ -86,3 +86,6 @@
 
 # Step to implement
 
+1. Install turbo global
+2. Node version 18
+3. 
