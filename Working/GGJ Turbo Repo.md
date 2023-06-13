@@ -56,7 +56,7 @@
 
 # Issues
 
-### Gui skijan
+**1. Gui skijan**
 - [x] Import icon from `@mui/material-icons/{}` failed
 	- `yarn cache clean` solved the issue
 
@@ -69,9 +69,14 @@
 	**Possible Solutions**
 
 
-### Production build
+**2. Production build**
 - Reduce node_modules size on server
 - Maybe can using `yarn <custome_package.json>`
+- How to copy `node_modules` when the packages is now stored in multiple `node_modules`
+```Dockerfile
+COPY --from=builder ${GOGO_WD}/node_modules ./node_modules
+COPY --from=builder ${GOGO_WD}/package.json ./package.json
+```
 
 # Notes
 
