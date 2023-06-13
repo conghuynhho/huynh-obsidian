@@ -1,19 +1,151 @@
 [
   {
-    "fileName": "Vietnamese Address",
-    "relativePath": "Working/Vietnamese Address.md",
+    "fileName": "How to store environment variable in NextJS",
+    "relativePath": "Today I Learned/How to store environment variable in NextJS.md",
     "headings": [
       {
-        "heading": "Spec",
+        "heading": "Separate variable for each enviroments",
         "level": 3
       },
       {
-        "heading": "Solution",
+        "heading": "How to use it with typescript",
         "level": 3
       },
       {
-        "heading": "Doing",
+        "heading": "Runtime Config (Considerable as deprecated)",
         "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Typescript Generic Auto Inter Type",
+    "relativePath": "Today I Learned/Typescript Generic Auto Inter Type.md",
+    "headings": [
+      {
+        "heading": "Official docs",
+        "level": 1
+      },
+      {
+        "heading": "Easy example:",
+        "level": 3
+      },
+      {
+        "heading": "Complex Usage with React Component",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "#^4797fa",
+        "relativePath": "Today I Learned/Typescript Generic Auto Inter Type.md",
+        "cleanLink": "Typescript Generic Auto Inter Type",
+        "displayText": "Way 2"
+      }
+    ]
+  },
+  {
+    "fileName": "React useTransition and useDeferredValue",
+    "relativePath": "Today I Learned/React useTransition and useDeferredValue.md",
+    "headings": [
+      {
+        "heading": "`useTransition`",
+        "level": 2
+      },
+      {
+        "heading": "`useDeferredValue`",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Ideavim config for clipboard",
+    "relativePath": "Today I Learned/Ideavim config for clipboard.md",
+    "headings": [
+      {
+        "heading": "Buffer",
+        "level": 3
+      },
+      {
+        "heading": "Clipboard",
+        "level": 3
+      },
+      {
+        "heading": "Not doing anything",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Tmux Prefix",
+    "relativePath": "Today I Learned/Tmux Prefix.md",
+    "headings": [
+      {
+        "heading": "Avoid using `C-i` as prefix",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Git Alias (Multiple Command)",
+    "relativePath": "Today I Learned/Git Alias (Multiple Command).md",
+    "headings": [
+      {
+        "heading": "How to run multiple command in one git alias",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Explore Mono Turbo Repo",
+    "relativePath": "Today I Learned/Explore Mono Turbo Repo.md",
+    "headings": [
+      {
+        "heading": "First look",
+        "level": 2
+      },
+      {
+        "heading": "1. Workspace task dependency with handy customization using this [strategy](https://turbo.build/repo/docs/core-concepts/monorepos/task-dependencies#from-arbitrary-workspaces)",
+        "level": 3
+      },
+      {
+        "heading": "2. How `workspaces` work with dependencies in node_modules",
+        "level": 3
+      },
+      {
+        "heading": "References",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Deep copy",
+    "relativePath": "Today I Learned/Deep copy.md",
+    "headings": [
+      {
+        "heading": "[Syntax](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone#syntax)",
+        "level": 2
+      },
+      {
+        "heading": "[Parameters](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone#parameters)",
+        "level": 3
+      },
+      {
+        "heading": "[Return value](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone#return_value)",
+        "level": 3
+      },
+      {
+        "heading": "[Exceptions](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone#exceptions)",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Create an alfred workflow",
+    "relativePath": "Today I Learned/Create an alfred workflow.md",
+    "headings": [
+      {
+        "heading": "Alfred with obsidian",
+        "level": 2
       }
     ]
   },
@@ -75,6 +207,28 @@
     ]
   },
   {
+    "fileName": "Vietnamese Address",
+    "relativePath": "Working/Vietnamese Address.md",
+    "headings": [
+      {
+        "heading": "Spec",
+        "level": 3
+      },
+      {
+        "heading": "Solution",
+        "level": 3
+      },
+      {
+        "heading": "Doing",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Add Paging for EA list",
+    "relativePath": "Working/Add Paging for EA list.md"
+  },
+  {
     "fileName": "Infinite scroll in community attachment",
     "relativePath": "Working/Infinite scroll in community attachment.md",
     "headings": [
@@ -99,10 +253,6 @@
         "level": 3
       }
     ]
-  },
-  {
-    "fileName": "Add Paging for EA list",
-    "relativePath": "Working/Add Paging for EA list.md"
   },
   {
     "fileName": "GGJ Turbo Repo",
@@ -185,158 +335,72 @@
     ]
   },
   {
-    "fileName": "Typescript Generic Auto Inter Type",
-    "relativePath": "Today I Learned/Typescript Generic Auto Inter Type.md",
+    "fileName": "Sketch VNPay Result",
+    "relativePath": "Excalidraw/Sketch VNPay Result.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
     "headings": [
       {
-        "heading": "Official docs",
+        "heading": "Text Elements",
         "level": 1
-      },
-      {
-        "heading": "Easy example:",
-        "level": 3
-      },
-      {
-        "heading": "Complex Usage with React Component",
-        "level": 3
       }
     ],
-    "links": [
+    "backlinks": [
       {
-        "link": "#^4797fa",
-        "relativePath": "Today I Learned/Typescript Generic Auto Inter Type.md",
-        "cleanLink": "Typescript Generic Auto Inter Type",
-        "displayText": "Way 2"
+        "fileName": "Payment Result VNPay",
+        "link": "Sketch VNPay Result",
+        "relativePath": "Working/Payment Result VNPay.md",
+        "displayText": "UI Sketch"
       }
     ]
   },
   {
-    "fileName": "Tmux Prefix",
-    "relativePath": "Today I Learned/Tmux Prefix.md",
+    "fileName": "Drawing 2023-06-12 18.00.40.excalidraw",
+    "relativePath": "Excalidraw/Drawing 2023-06-12 18.00.40.excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
     "headings": [
       {
-        "heading": "Avoid using `C-i` as prefix",
-        "level": 3
+        "heading": "Text Elements",
+        "level": 1
       }
     ]
   },
   {
-    "fileName": "Ideavim config for clipboard",
-    "relativePath": "Today I Learned/Ideavim config for clipboard.md",
-    "headings": [
-      {
-        "heading": "Buffer",
-        "level": 3
-      },
-      {
-        "heading": "Clipboard",
-        "level": 3
-      },
-      {
-        "heading": "Not doing anything",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "React useTransition and useDeferredValue",
-    "relativePath": "Today I Learned/React useTransition and useDeferredValue.md",
-    "headings": [
-      {
-        "heading": "`useTransition`",
-        "level": 2
-      },
-      {
-        "heading": "`useDeferredValue`",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "How to store environment variable in NextJS",
-    "relativePath": "Today I Learned/How to store environment variable in NextJS.md",
-    "headings": [
-      {
-        "heading": "Separate variable for each enviroments",
-        "level": 3
-      },
-      {
-        "heading": "How to use it with typescript",
-        "level": 3
-      },
-      {
-        "heading": "Runtime Config (Considerable as deprecated)",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Git Alias (Multiple Command)",
-    "relativePath": "Today I Learned/Git Alias (Multiple Command).md",
-    "headings": [
-      {
-        "heading": "How to run multiple command in one git alias",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "Explore Mono Turbo Repo",
-    "relativePath": "Today I Learned/Explore Mono Turbo Repo.md",
-    "headings": [
-      {
-        "heading": "First look",
-        "level": 2
-      },
-      {
-        "heading": "1. Workspace task dependency with handy customization using this [strategy](https://turbo.build/repo/docs/core-concepts/monorepos/task-dependencies#from-arbitrary-workspaces)",
-        "level": 3
-      },
-      {
-        "heading": "2. How `workspaces` work with dependencies in node_modules",
-        "level": 3
-      },
-      {
-        "heading": "References",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Deep copy",
-    "relativePath": "Today I Learned/Deep copy.md",
-    "headings": [
-      {
-        "heading": "[Syntax](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone#syntax)",
-        "level": 2
-      },
-      {
-        "heading": "[Parameters](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone#parameters)",
-        "level": 3
-      },
-      {
-        "heading": "[Return value](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone#return_value)",
-        "level": 3
-      },
-      {
-        "heading": "[Exceptions](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone#exceptions)",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Create an alfred workflow",
-    "relativePath": "Today I Learned/Create an alfred workflow.md",
-    "headings": [
-      {
-        "heading": "Alfred with obsidian",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "Quicknotes",
-    "relativePath": "Templates/Quicknotes.md"
+    "fileName": "Roadmap",
+    "relativePath": "Roadmap.md"
   },
   {
     "fileName": "TIL Template",
@@ -377,72 +441,8 @@
     ]
   },
   {
-    "fileName": "Roadmap",
-    "relativePath": "Roadmap.md"
-  },
-  {
-    "fileName": "Drawing 2023-06-12 18.00.40.excalidraw",
-    "relativePath": "Excalidraw/Drawing 2023-06-12 18.00.40.excalidraw.md",
-    "tags": [
-      "excalidraw"
-    ],
-    "frontmatter": {
-      "excalidraw-plugin": "parsed",
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 54
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Text Elements",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Sketch VNPay Result",
-    "relativePath": "Excalidraw/Sketch VNPay Result.md",
-    "tags": [
-      "excalidraw"
-    ],
-    "frontmatter": {
-      "excalidraw-plugin": "parsed",
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 54
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Text Elements",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Payment Result VNPay",
-        "link": "Sketch VNPay Result",
-        "relativePath": "Working/Payment Result VNPay.md",
-        "displayText": "UI Sketch"
-      }
-    ]
+    "fileName": "Quicknotes",
+    "relativePath": "Templates/Quicknotes.md"
   },
   {
     "fileName": "2023-06-09",

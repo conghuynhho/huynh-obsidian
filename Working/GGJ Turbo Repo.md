@@ -38,16 +38,6 @@
 - 
 
 
-# Issue 
-
-1. Node-sass at step 4 in `yarn install` was run under `v18.16.0`
-	```
-	[4/4] Building fresh packages...
-	```
-
-	**Possible Solutions**
-
-
 # Implement Strategy
 - Config run for dev
 	- `api`
@@ -71,6 +61,14 @@
 	- `yarn cache clean` solved the issue
 
 
+- [ ] Node-sass at step 4 in `yarn install` was run under `v18.16.0`
+	```
+	[4/4] Building fresh packages...
+	```
+
+	**Possible Solutions**
+
+
 ### Production build
 - Reduce node_modules size on server
 - Maybe can using `yarn <custome_package.json>`
@@ -82,3 +80,6 @@
 	- `@mui/lab`
 
 
+# Need to test
+
+1. Different version on the same packages. How does it work??

@@ -5,10 +5,6 @@
       "relativePath": "/"
     },
     {
-      "name": "Excalidraw",
-      "relativePath": "Excalidraw"
-    },
-    {
       "name": "Temp",
       "relativePath": "Temp"
     },
@@ -17,12 +13,16 @@
       "relativePath": "Templates"
     },
     {
-      "name": "Today I Learned",
-      "relativePath": "Today I Learned"
+      "name": "Excalidraw",
+      "relativePath": "Excalidraw"
     },
     {
       "name": "Working",
       "relativePath": "Working"
+    },
+    {
+      "name": "Today I Learned",
+      "relativePath": "Today I Learned"
     }
   ],
   "nonMdFiles": [
