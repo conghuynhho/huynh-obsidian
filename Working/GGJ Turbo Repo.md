@@ -98,6 +98,15 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 
 ##### Config `eslint` and `tsconfig` for `api-skijan`
 
-- Api skijan depend on `comm-api-skijan`
-- 
+##### Api skijan depend on `comm-api-skijan`
+- move `comm-api-skijan` to packages
+- add workspace in root `package.json`
+	```json
+	  "workspaces": [
+	    "apps/gui/skijan/*",
+	    "apps/api/*",
+	    "packages/*",
+	    "packages/common-api/*"
+	  ],
+	```
 

@@ -309,6 +309,10 @@
       {
         "heading": "Config `eslint` and `tsconfig` for `api-skijan`",
         "level": 5
+      },
+      {
+        "heading": "Api skijan depend on `comm-api-skijan`",
+        "level": 5
       }
     ]
   },
