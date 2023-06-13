@@ -25,6 +25,9 @@
 
 Turbo Repo aims to address these issues by selectively swapping packages between the root `node_modules` and workspace-specific `node_modules` directories. It identifies frequently changing packages and keeps them in the root `node_modules`, while less frequently changing packages are placed in the workspace-specific directories. This approach reduces the installation time and optimizes the disk space usage.
 
+**Conflict package version**
+
+
 
 ### References
 - https://microsoft.github.io/lage/docs/Tutorial/pipeline/

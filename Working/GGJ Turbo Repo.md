@@ -82,7 +82,8 @@
 
 # Need to test
 
-1. Different version on the same packages. How does it work??
+1. [x] Different version on the same packages. How does it work??
+	- [Tested] the package will be store in the child `node_modules`, some package will be store in root `node_modules`
 
 # Step to implement
 
