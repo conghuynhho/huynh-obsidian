@@ -283,10 +283,6 @@
         "level": 1
       },
       {
-        "heading": "Issue",
-        "level": 1
-      },
-      {
         "heading": "Implement Strategy",
         "level": 1
       },
@@ -304,6 +300,10 @@
       },
       {
         "heading": "Notes",
+        "level": 1
+      },
+      {
+        "heading": "Need to test",
         "level": 1
       }
     ]
