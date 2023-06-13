@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/GGJ Turbo Repo.md",
+                "file": "Today I Learned/Explore Mono Turbo Repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/GGJ Turbo Repo.md",
+                "file": "Today I Learned/Explore Mono Turbo Repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/GGJ Turbo Repo.md"
+                "file": "Today I Learned/Explore Mono Turbo Repo.md"
               }
             }
           },
@@ -176,10 +176,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d53bca230c246023",
+  "active": "c23ef5789ca8586b",
   "lastOpenFiles": [
-    "Today I Learned/Explore Mono Turbo Repo.md",
     "Working/GGJ Turbo Repo.md",
+    "Today I Learned/Explore Mono Turbo Repo.md",
     "Excalidraw/Drawing 2023-06-12 18.00.40.excalidraw.md",
     "Excalidraw/Mode build with Monorepo.md",
     "Excalidraw/Sketch VNPay Result.md",

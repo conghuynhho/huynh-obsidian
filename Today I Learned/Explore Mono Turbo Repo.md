@@ -26,7 +26,8 @@
 Turbo Repo aims to address these issues by selectively swapping packages between the root `node_modules` and workspace-specific `node_modules` directories. It identifies frequently changing packages and keeps them in the root `node_modules`, while less frequently changing packages are placed in the workspace-specific directories. This approach reduces the installation time and optimizes the disk space usage.
 
 **Conflict package version**
-- I tested: the package will be store in 2 places (root node_modules and child node_modules)
+Scenario: when there is 2 project has the same package with different version
+- Tested: the package will be store in 2 places (root node_modules and child node_modules)
 	- Some package will be automatically resolved  by using the latest version.
 
 
