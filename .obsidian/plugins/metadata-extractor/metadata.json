@@ -115,6 +115,10 @@
       {
         "heading": "`nextjs` --- gui-skijan-vi, gui-skijan",
         "level": 4
+      },
+      {
+        "heading": "`react`",
+        "level": 3
       }
     ]
   },
@@ -183,6 +187,10 @@
       {
         "heading": "Notes",
         "level": 1
+      },
+      {
+        "heading": "List repo and special project",
+        "level": 5
       },
       {
         "heading": "Need to test",
