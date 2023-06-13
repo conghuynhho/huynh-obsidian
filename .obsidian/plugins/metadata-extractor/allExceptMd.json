@@ -5,6 +5,10 @@
       "relativePath": "/"
     },
     {
+      "name": "Excalidraw",
+      "relativePath": "Excalidraw"
+    },
+    {
       "name": "Temp",
       "relativePath": "Temp"
     },
@@ -13,16 +17,16 @@
       "relativePath": "Templates"
     },
     {
-      "name": "Excalidraw",
-      "relativePath": "Excalidraw"
+      "name": "Today I Learned",
+      "relativePath": "Today I Learned"
     },
     {
       "name": "Working",
       "relativePath": "Working"
     },
     {
-      "name": "Today I Learned",
-      "relativePath": "Today I Learned"
+      "name": "GGJ monorepo",
+      "relativePath": "Working/GGJ monorepo"
     }
   ],
   "nonMdFiles": [

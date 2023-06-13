@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Today I Learned/Explore Mono Turbo Repo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c1d2fd131e6524c8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d53bca230c246023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Working/GGJ Turbo Repo.md",
+                "file": "Working/GGJ monorepo/Step to implement.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50260543823242,
-    "collapsed": true
+    "width": 281.5026054382324
   },
   "right": {
     "id": "10fe1423611578e8",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/GGJ Turbo Repo.md",
+                "file": "Working/GGJ monorepo/Step to implement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/GGJ Turbo Repo.md",
+                "file": "Working/GGJ monorepo/Step to implement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/GGJ Turbo Repo.md"
+                "file": "Working/GGJ monorepo/Step to implement.md"
               }
             }
           },
@@ -176,10 +157,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d53bca230c246023",
+  "active": "c23ef5789ca8586b",
   "lastOpenFiles": [
+    "Working/Community LazyImage.md",
+    "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
+    "Working/GGJ monorepo/Step to implement.md",
     "Today I Learned/Explore Mono Turbo Repo.md",
-    "Working/GGJ Turbo Repo.md",
+    "Working/GGJ monorepo",
     "Excalidraw/Drawing 2023-06-12 18.00.40.excalidraw.md",
     "Excalidraw/Mode build with Monorepo.md",
     "Excalidraw/Sketch VNPay Result.md",
@@ -205,8 +189,6 @@
     "Excalidraw",
     "alkdsjfjk.md",
     "Today I Learned/AutoComplete1.md",
-    "Today I Learned/AutoComplete.md",
-    "Templates/TIL Template.md",
     "Today I Learned",
     "Inteliji Idea",
     "Nvim",
@@ -214,7 +196,6 @@
     "Templates",
     "untitled folder",
     "Temp/untitled folder",
-    "Temp",
-    "Working"
+    "Temp"
   ]
 }

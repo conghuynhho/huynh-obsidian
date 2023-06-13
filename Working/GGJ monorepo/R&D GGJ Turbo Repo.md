@@ -86,37 +86,12 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 	- `@mui/lab`
 
 
+2. `tsconfig`
+Base config
+
+
 # Need to test
 
 1. [x] Different version on the same packages. How does it work??
 	- [Tested] the package will be store in the child `node_modules`, some package will be store in root `node_modules`
 
-# Step to implement
-
-1. Install turbo global
-2. Node version 18
-
-##### Config `eslint` and `tsconfig` for `api-skijan`
-
-##### Api skijan depend on `comm-api-skijan`
-- move `comm-api-skijan` to packages
-- add workspace in root `package.json`
-	```json
-	  "workspaces": [
-	    "apps/gui/skijan/*",
-	    "apps/api/*",
-	    "packages/*",
-	    "packages/common-api/*"
-	  ],
-	```
-- add `dependencies` in api `skijan` and `skijan-vi`
-```json
-dependencies: {
-	"comm-api-skijan": "**"
-}
-```
-
-
-- How typescript understand
-- Import path???
-- [x] `eslint` is separate of this part
