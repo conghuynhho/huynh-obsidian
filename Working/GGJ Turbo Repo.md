@@ -56,6 +56,7 @@
 	- `eslint` 
 	- `typescript`
 	- `husky` & `lintstaged`
+	-  how to verify `eslint` and `tsconfig` work properly?? 
 - Shared code
 	- constants
 	- logic code
