@@ -115,6 +115,10 @@
       {
         "heading": "Api skijan depend on `comm-api-skijan`",
         "level": 5
+      },
+      {
+        "heading": "Config `tsconfig`",
+        "level": 4
       }
     ]
   },
