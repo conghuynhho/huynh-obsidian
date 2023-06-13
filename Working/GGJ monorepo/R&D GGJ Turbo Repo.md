@@ -90,8 +90,29 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 Base config
 
 
+##### List repo and special project
+**Repository**
+- surface
+- mypage
+- config
+- api
+- realtrade
+- labo
+- image
+- gogo
+*- internal*
+*- arc*
+
+**special project**
+- sf-ja, sf-en,...
+- realtrade
+- api-mypage
+- mypage
+- 
+
 # Need to test
 
 1. [x] Different version on the same packages. How does it work??
 	- [Tested] the package will be store in the child `node_modules`, some package will be store in root `node_modules`
+
 

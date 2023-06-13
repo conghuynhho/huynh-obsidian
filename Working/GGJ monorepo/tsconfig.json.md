@@ -1,4 +1,19 @@
 
+#### `base.tsconfig.json`
+
+```json
+{
+  "compilerOptions": {
+    "strict": true, // maybe not 
+    "allowJs": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+}
+```
+
+
 
 #### `nestjs` ---  api-skijan-vi ,  api-skijan
 
@@ -61,3 +76,9 @@
   "exclude": ["node_modules"]
 }
 ```
+
+
+### `react`
+
+
+

@@ -105,6 +105,10 @@
     "relativePath": "Working/GGJ monorepo/tsconfig.json.md",
     "headings": [
       {
+        "heading": "`base.tsconfig.json`",
+        "level": 4
+      },
+      {
         "heading": "`nestjs` ---  api-skijan-vi ,  api-skijan",
         "level": 4
       },
