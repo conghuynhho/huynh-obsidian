@@ -118,7 +118,12 @@ Base config
 2. [ ] only one `yarn.lock` will be generated
 	- affect to build ????
 	- find solution
+
 	- verify update yarn lock (root? workspace?) ?
 	- yarn version 2?
 	- check mode dev + mode build? ignore yarn lock in mode build?
 	- How to add new lib for root? for child repo? workflow
+
+	In my point of view: 
+	- with yarn workspace only `yarn.lock` is respected. others is ignore.
+	
