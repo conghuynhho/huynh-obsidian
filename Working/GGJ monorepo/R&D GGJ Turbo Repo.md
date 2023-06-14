@@ -127,5 +127,9 @@ Base config
 	Tested: 
 	- with yarn workspace only `yarn.lock` is respected. others is ignore.
 	- when updating package in the child -> `yarn.lock` in the root update correctly
-		- 
-	
+	- ❌ Error when install new package:
+		- `yarn workspace gg.gui.skijan.vi add react-dropzone`
+		- `cd apps/gui/skijan/vi && yarn add react-dropzone`
+		- issue: https://github.com/yarnpkg/yarn/issues/7807
+		- yarn version: `1.22.19`
+	- 
