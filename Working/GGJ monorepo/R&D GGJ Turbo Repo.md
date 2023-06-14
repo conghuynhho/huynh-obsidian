@@ -124,6 +124,8 @@ Base config
 	- check mode dev + mode build? ignore yarn lock in mode build?
 	- How to add new lib for root? for child repo? workflow
 
-	In my point of view: 
+	Tested: 
 	- with yarn workspace only `yarn.lock` is respected. others is ignore.
+	- when updating package in the child -> `yarn.lock` in the root update correctly
+		- 
 	
