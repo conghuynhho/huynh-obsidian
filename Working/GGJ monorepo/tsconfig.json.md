@@ -172,5 +172,24 @@
 ```
 
 ```json
-
+A
 ```
+
+
+### base
+
+
+### api  
+- NestJS
+
+### gui
+
+- NextJS
+- React (library)
+
+- run `tsc --noEmit`
+
+
+
+
+

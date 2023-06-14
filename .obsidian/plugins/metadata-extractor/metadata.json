@@ -119,6 +119,18 @@
       {
         "heading": "`react-lib`",
         "level": 3
+      },
+      {
+        "heading": "base",
+        "level": 3
+      },
+      {
+        "heading": "api",
+        "level": 3
+      },
+      {
+        "heading": "gui",
+        "level": 3
       }
     ]
   },

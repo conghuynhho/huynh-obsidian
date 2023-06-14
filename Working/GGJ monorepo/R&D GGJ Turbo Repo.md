@@ -130,6 +130,8 @@ Base config
 	- ❌ Error when install new package:
 		- `yarn workspace gg.gui.skijan.vi add react-dropzone`
 		- `cd apps/gui/skijan/vi && yarn add react-dropzone`
-		- issue: https://github.com/yarnpkg/yarn/issues/7807
+		- issue: https://github.com/yarnpkg/yarn/issues/7807A
 		- yarn version: `1.22.19`
+		- **solution**: downgrade `yarn@1.19.0` 
+			- `yarn policies set-version 1.19.0`
 	- 
