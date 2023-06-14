@@ -8,7 +8,7 @@
 - [ ] Config basic: install turbo global + graph
 	- [ ] add node version 18.16.0 recheck version
 	- [ ] yarn global add turbo
-	- [ ] brew install graphviz
+	- [ ] brew install graphviz (draw dependency chart)
 
 ### Basic
 - [x] create Config surface demo
@@ -20,8 +20,8 @@
 - Config code build mode production
 
 ### Next Step
-- Add husky, lintstaged
-- Lib ES  lint & typescript đặt ở đâu? Local or global?
+- Add husky, lintstaged, Lib Eslint
+- typescript đặt ở đâu? Local or global?
 - Defined config ESlint & typescript & UI component
 
 ### Share

@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "c364b1ec276ddfd9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a4852854e8b196fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Working/GGJ monorepo/tsconfig.json.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +161,8 @@
   "active": "f4ab461a1a8a4825",
   "lastOpenFiles": [
     "Working/GGJ monorepo/tsconfig.json.md",
-    "Working/GGJ monorepo/Step to implement.md",
     "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
+    "Working/GGJ monorepo/Step to implement.md",
     "Untitled.canvas",
     "Working/Community LazyImage.md",
     "Today I Learned/Explore Mono Turbo Repo.md",
