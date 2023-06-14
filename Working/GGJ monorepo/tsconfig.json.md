@@ -46,6 +46,9 @@
 }
 ```
 
+**Version without extend base**
+
+
 
 #### `nextjs` --- gui-skijan-vi, gui-skijan
 

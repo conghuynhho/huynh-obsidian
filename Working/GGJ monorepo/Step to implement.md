@@ -37,6 +37,8 @@ dependencies: {
 
 **2. **
 
+How to import ts file to js file
+
 
 **NOW:**
 - [ ] define base config ts
