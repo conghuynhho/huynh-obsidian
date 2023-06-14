@@ -116,17 +116,21 @@ Base config
 	- [Tested] the package will be store in the child `node_modules`, some package will be store in root `node_modules`
 
 2. [ ] only one `yarn.lock` will be generated
-	- affect to build ????
-	- find solution
-
-	- verify update yarn lock (root? workspace?) ?
-	- yarn version 2?
+	- [x] verify update yarn lock (root? workspace?) ?
+	- [x] yarn version 2? (breaking changes)
 	- check mode dev + mode build? ignore yarn lock in mode build?
-	- How to add new lib for root? for child repo? workflow
+	- [x] How to add new lib for root? for child repo? workflow
+	- [ ] Migrate old yarn.lock to new root yarn.lock
 
 	Tested: 
 	- with yarn workspace only `yarn.lock` is respected. others is ignore.
-	- when updating package in the child -> `yarn.lock` in the root update correctly
+	- ✅ when updating package in the child -> `yarn.lock` in the root update correctly
+	- ✅ Add new lib, edit lib version. -> Work well
+		- Add new lib in the child project:
+			- `yarn workspace <name> add <package>`
+			- `cd <path_to_workspace> && yarn add <package>`
+		- Add new lib in the root:
+			- `yarn add -W <package>`: to avoid accidentally add package to the root, yarn workspace default will through the error when running `yarn add` in the root.
 	- ❌ Error when install new package:
 		- `yarn workspace gg.gui.skijan.vi add react-dropzone`
 		- `cd apps/gui/skijan/vi && yarn add react-dropzone`
