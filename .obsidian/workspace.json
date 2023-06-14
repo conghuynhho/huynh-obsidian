@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ac9640501f88302b",
+        "id": "515bd81ec3561db3",
         "type": "tabs",
         "children": [
           {
-            "id": "f4ab461a1a8a4825",
+            "id": "ee8977147bdeeaee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5026054382324,
-    "collapsed": true
+    "width": 231.50260543823242
   },
   "right": {
     "id": "10fe1423611578e8",
@@ -158,11 +157,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4ab461a1a8a4825",
+  "active": "ee8977147bdeeaee",
   "lastOpenFiles": [
-    "Working/GGJ monorepo/tsconfig.json.md",
     "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
     "Working/GGJ monorepo/Step to implement.md",
+    "Working/GGJ monorepo/tsconfig.json.md",
     "Untitled.canvas",
     "Working/Community LazyImage.md",
     "Today I Learned/Explore Mono Turbo Repo.md",

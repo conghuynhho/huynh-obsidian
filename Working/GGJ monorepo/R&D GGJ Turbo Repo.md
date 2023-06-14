@@ -8,7 +8,7 @@
 - [ ] Config basic: install turbo global + graph
 	- [ ] add node version 18.16.0 recheck version
 	- [ ] yarn global add turbo
-	- [ ] brew install graphviz (draw dependency chart)
+	- [ ] brew install graphviz (draw dependency graph)
 
 ### Basic
 - [x] create Config surface demo
@@ -115,4 +115,6 @@ Base config
 1. [x] Different version on the same packages. How does it work??
 	- [Tested] the package will be store in the child `node_modules`, some package will be store in root `node_modules`
 
-
+2. [ ] only one `yarn.lock` will be generated
+	- affect to build ????
+	- find solution
