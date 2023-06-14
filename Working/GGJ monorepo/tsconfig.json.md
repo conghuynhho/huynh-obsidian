@@ -33,14 +33,6 @@
     "baseUrl": "./src",
     "incremental": true,
     "strictNullChecks": true,
-    "plugins": [
-      {
-        "name": "@nestjs/swagger",
-        "options": {
-          "introspectComments": true
-        }
-      }
-    ]
   },
   "exclude": ["node_modules", "dist"]
 }
@@ -179,6 +171,6 @@
 
 ```
 
+```json
+
 ```
-
-
