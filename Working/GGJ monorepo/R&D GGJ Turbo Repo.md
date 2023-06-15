@@ -1,4 +1,6 @@
- **Branch:** OAM-103894
+
+**Branch:** OAM-103894
+
 # Idea
 
 ### Document
@@ -119,6 +121,14 @@ Base config
 	- check mode dev + mode build? ignore yarn lock in mode build?
 	- [x] How to add new lib for root? for child repo? workflow
 	- [ ] Migrate old yarn.lock to new root yarn.lock
+3. [ ] How to start services (Huynh)
+	- [x] start group services
+		- Define task to run group services in `package.json` and `turbo.json`
+		- `"start:api": "turbo run start --filter=gogo.api.skijan"`
+	- [ ] start separate service
+		- Solution 1: Define task to run for each service
+		- Solution 2: 
+	- [ ] should we apply remote cache in dev mode?
 
 	Tested: 
 	- with yarn workspace only `yarn.lock` is respected. others is ignore.
