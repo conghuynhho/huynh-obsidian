@@ -5,10 +5,7 @@
 
 ### Document
 - [ ] Document: How to use?
-- [ ] Config basic: install turbo global + graph
-	- [ ] add node version 18.16.0 recheck version
-	- [ ] yarn global add turbo
-	- [ ] brew install graphviz (draw dependency graph)
+- [ ] Draw graph
 
 ### Basic
 - [x] create Config surface demo
@@ -115,29 +112,32 @@ Base config
 1. [x] Different version on the same packages. How does it work??
 	- [Tested] the package will be store in the child `node_modules`, some package will be store in root `node_modules`
 
-2. [ ] only one `yarn.lock` will be generated
+2. [x] only one `yarn.lock` will be generated
 	- [x] verify update yarn lock (root? workspace?) ?
 	- [x] yarn version 2? (breaking changes)
 	- check mode dev + mode build? ignore yarn lock in mode build?
 	- [x] How to add new lib for root? for child repo? workflow
-	- [ ] Migrate old yarn.lock to new root yarn.lock
-3. [ ] How to start services (Huynh)
+	- [x] Migrate old yarn.lock to new root yarn.lock
+		- Solution will be accept the risk and update new package. Maybe need effort to test and verify
+
+1. How to start services (Huynh)
 	- [x] start group services
 		- Define task to run group services in `package.json` and `turbo.json`
 		- `"start:api": "turbo run start --filter=gogo.api.skijan"`
 	- [ ] start separate service
 		- Solution 1: Define task to run for each service
-		- Solution 2: 
+		- Solution 2: `cd` in to the workspace and run it.
+		- ✏️ Need to find a way to improve performances of yarn.
 	- [ ] should we apply remote cache in dev mode?
 
 	Tested: 
 	- with yarn workspace only `yarn.lock` is respected. others is ignore.
 	- ✅ when updating package in the child -> `yarn.lock` in the root update correctly
 	- ✅ Add new lib, edit lib version. -> Work well
-		- Add new lib in the child project:
+		- How to add new lib in the child project:
 			- `yarn workspace <name> add <package>`
 			- `cd <path_to_workspace> && yarn add <package>`
-		- Add new lib in the root:
+		- How to add new lib in the root:
 			- `yarn add -W <package>`: to avoid accidentally add package to the root, yarn workspace default will through the error when running `yarn add` in the root.
 	- ❌ Error when install new package:
 		- `yarn workspace gg.gui.skijan.vi add react-dropzone`

@@ -101,8 +101,14 @@
     ]
   },
   {
-    "fileName": "Eslint",
-    "relativePath": "Working/GGJ monorepo/Eslint.md"
+    "fileName": "Eslint & Typescript",
+    "relativePath": "Working/GGJ monorepo/Eslint & Typescript.md",
+    "headings": [
+      {
+        "heading": "Typescript (Nam)",
+        "level": 2
+      }
+    ]
   },
   {
     "fileName": "R&D GGJ Turbo Repo",
