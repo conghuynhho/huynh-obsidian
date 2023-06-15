@@ -27,3 +27,7 @@ Error: Cannot resolve "postcss-import" from "/Users/huynh/GGJ/new-surface/surfac
     at Builder.webpackBaseConfig (/Users/huynh/GGJ/new-surface/surface.gogojungle.co.jp/ja/node_modules/.pnpm/nuxt@1.4.5/node_modules/nuxt/lib/builder/webpack/base.config.js:66:30)
     at Builder.webpackClientConfig (/Users/huynh/GGJ/new-surface/surface.gogojungle.co.jp/ja/node_modules/.pnpm/nuxt@1.4.5/node_modules/nuxt/lib/builder/webpack/client.config.js:31:21)
 ```
+
+
+Test with `gui-skijan`
+- ✅ Working fine.
