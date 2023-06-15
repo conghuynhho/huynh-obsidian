@@ -120,7 +120,7 @@ Base config
 	- [x] Migrate old yarn.lock to new root yarn.lock
 		- Solution will be accept the risk and update new package. Maybe need effort to test and verify
 
-1. How to start services (Huynh)
+3. How to start services (Huynh)
 	- [x] start group services
 		- Define task to run group services in `package.json` and `turbo.json`
 		- `"start:api": "turbo run start --filter=gogo.api.skijan"`
@@ -129,21 +129,23 @@ Base config
 		- Solution 2: `cd` in to the workspace and run it.
 		- ✏️ Need to find a way to improve performances of yarn.
 	- [ ] should we apply remote cache in dev mode?
+ 
+4. Research `pnpm`: [[pnpm Research]]
 
-	Tested: 
-	- with yarn workspace only `yarn.lock` is respected. others is ignore.
-	- ✅ when updating package in the child -> `yarn.lock` in the root update correctly
-	- ✅ Add new lib, edit lib version. -> Work well
-		- How to add new lib in the child project:
-			- `yarn workspace <name> add <package>`
-			- `cd <path_to_workspace> && yarn add <package>`
-		- How to add new lib in the root:
-			- `yarn add -W <package>`: to avoid accidentally add package to the root, yarn workspace default will through the error when running `yarn add` in the root.
-	- ❌ Error when install new package:
-		- `yarn workspace gg.gui.skijan.vi add react-dropzone`
-		- `cd apps/gui/skijan/vi && yarn add react-dropzone`
-		- issue: https://github.com/yarnpkg/yarn/issues/7807A
-		- yarn version: `1.22.19`
-		- **solution**: downgrade `yarn@1.19.0` 
-			- `yarn policies set-version 1.19.0`
-	- 
+Tested: 
+- with yarn workspace only `yarn.lock` is respected. others is ignore.
+- ✅ when updating package in the child -> `yarn.lock` in the root update correctly
+- ✅ Add new lib, edit lib version. -> Work well
+	- How to add new lib in the child project:
+		- `yarn workspace <name> add <package>`
+		- `cd <path_to_workspace> && yarn add <package>`
+	- How to add new lib in the root:
+		- `yarn add -W <package>`: to avoid accidentally add package to the root, yarn workspace default will through the error when running `yarn add` in the root.
+- ❌ Error when install new package:
+	- `yarn workspace gg.gui.skijan.vi add react-dropzone`
+	- `cd apps/gui/skijan/vi && yarn add react-dropzone`
+	- issue: https://github.com/yarnpkg/yarn/issues/7807A
+	- yarn version: `1.22.19`
+	- **solution**: downgrade `yarn@1.19.0` 
+		- `yarn policies set-version 1.19.0`
+- 

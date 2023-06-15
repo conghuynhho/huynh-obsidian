@@ -101,6 +101,31 @@
     ]
   },
   {
+    "fileName": "pnpm Research",
+    "relativePath": "Working/GGJ monorepo/pnpm Research.md",
+    "headings": [
+      {
+        "heading": "Breakdown",
+        "level": 3
+      },
+      {
+        "heading": "Test",
+        "level": 3
+      },
+      {
+        "heading": "Test with `gui-sf-ja`",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "R&D GGJ Turbo Repo",
+        "link": "pnpm Research",
+        "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
+      }
+    ]
+  },
+  {
     "fileName": "Eslint & Typescript",
     "relativePath": "Working/GGJ monorepo/Eslint & Typescript.md",
     "headings": [
@@ -161,6 +186,12 @@
       {
         "heading": "Need to test",
         "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "pnpm Research",
+        "relativePath": "Working/GGJ monorepo/pnpm Research.md"
       }
     ]
   },
