@@ -30,12 +30,6 @@
 - Xử lý node 10
 - Remote cache? 
 
-# Test & Verified
-- `run` and `build` (`gui-skijan`)
-- `run` and `build` (`api-skijan`)
-- 
-
-
 # Implement Strategy
 - Config run for dev
 	- `api`
@@ -87,25 +81,6 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 Base config
 
 
-##### List repo and special project
-**Repository**
-- surface
-- mypage
-- config
-- api
-- realtrade
-- labo
-- image
-- gogo
-*- internal*
-*- arc*
-
-**special project**
-- sf-ja, sf-en,...
-- realtrade
-- api-mypage
-- mypage
-- 
 
 # Need to test
 
@@ -152,3 +127,26 @@ Tested:
 
 
 # Downside need to solve
+
+
+
+# A little deep think
+##### List repo and special project
+**Repository**
+- surface
+- mypage
+- config
+- api
+- realtrade
+- labo
+- image
+- gogo
+*- internal*
+*- arc*
+
+**special project**
+- sf-ja, sf-en,...
+- realtrade
+- api-mypage
+- mypage
+- 
