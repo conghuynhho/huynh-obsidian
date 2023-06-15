@@ -14,4 +14,10 @@ Test with `gui-sf-ja`
 ```js
 const config = require('../../../i18n.config.js')
 ```
+3. In `nuxt.config.js`
+```js
+const webpack = require('webpack')
+```
+This code not working anymore due to `pnpm` move sub dependencies into `.pnpm` folder
+
 
