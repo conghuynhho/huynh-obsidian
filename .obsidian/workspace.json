@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working/GGJ monorepo/Step to implement.md",
+                "file": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1481e6a95c7afdb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Working/GGJ monorepo/pnpm Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/GGJ monorepo/Step to implement.md",
+                "file": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/GGJ monorepo/Step to implement.md",
+                "file": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/GGJ monorepo/Step to implement.md"
+                "file": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
               }
             }
           },
@@ -159,11 +171,11 @@
   },
   "active": "b45bfb36dc651958",
   "lastOpenFiles": [
+    "Working/GGJ monorepo/pnpm Research.md",
     "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
     "Working/GGJ monorepo/Step to implement.md",
+    "Working/GGJ monorepo/R&D Strategy.md",
     "Untitled.md",
-    "Working/GGJ monorepo/pnpm Research.md",
-    "Working/GGJ monorepo/Eslint & Typescript.md",
     "Working/GGJ monorepo/tsconfig.json.md",
     "Untitled.canvas",
     "Working/Community LazyImage.md",

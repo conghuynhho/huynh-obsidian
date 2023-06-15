@@ -30,21 +30,6 @@
 - Xử lý node 10
 - Remote cache? 
 
-# Implement Strategy
-- Config run for dev
-	- `api`
-	- `gui-skijan`
-- Config 
-	- `eslint` 
-	- `typescript`
-	- `husky` & `lintstaged`
-	-  how to verify `eslint` and `tsconfig` work properly?? 
-- Shared code
-	- constants
-	- logic code
-	- UI componens
-- Config build for `production`
-
 
 # Issues
 
@@ -77,10 +62,6 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 	- `@mui/lab`
 
 
-2. `tsconfig`
-Base config
-
-
 
 # Need to test
 
@@ -105,7 +86,15 @@ Base config
 		- ✏️ Need to find a way to improve performances of yarn.
 	- [ ] should we apply remote cache in dev mode?
  
-4. Research `pnpm`: [[pnpm Research]]
+4. Research `pnpm`: [[pnpm Research]] 
+	Result:
+	- working except project with `NuxtJS 2` (sf-ja, sf-en,...)
+	- service with `node 10` need pnpm@5
+	Conclude: 
+	- Can apply but not for all
+ 
+5. Test yarn specific workspace by custom package.json.
+6. Test merge git repository.
 
 Tested: 
 - with yarn workspace only `yarn.lock` is respected. others is ignore.

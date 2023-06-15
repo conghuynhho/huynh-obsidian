@@ -239,25 +239,7 @@
   },
   {
     "fileName": "Step to implement",
-    "relativePath": "Working/GGJ monorepo/Step to implement.md",
-    "headings": [
-      {
-        "heading": "Step to implement",
-        "level": 1
-      },
-      {
-        "heading": "Config `eslint` and `tsconfig` for `api-skijan`",
-        "level": 5
-      },
-      {
-        "heading": "Api skijan depend on `comm-api-skijan`",
-        "level": 5
-      },
-      {
-        "heading": "Config `tsconfig`",
-        "level": 4
-      }
-    ]
+    "relativePath": "Working/GGJ monorepo/Step to implement.md"
   },
   {
     "fileName": "Community LazyImage",

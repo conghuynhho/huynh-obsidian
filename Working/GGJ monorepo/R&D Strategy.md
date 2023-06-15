@@ -1,3 +1,20 @@
+
+# R&D Strategy
+- Config run for dev
+	- `api`
+	- `gui-skijan`
+- Config 
+	- `eslint` 
+	- `typescript`
+	- `husky` & `lintstaged`
+- Shared code
+	- constants
+	- logic code
+	- UI componens
+- Config build for `production`
+
+
+
 - ESlint (Hao)
     +  Eslint lib common or seperate?
     + Core eslint packages -> place in the root
