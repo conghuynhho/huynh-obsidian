@@ -131,22 +131,38 @@ Tested:
 
 
 # A little deep think
-##### List repo and special project
-**Repository**
-- surface
-- mypage
-- config
-- api
-- realtrade
-- labo
-- image
-- gogo
-*- internal*
-*- arc*
 
-**special project**
-- sf-ja, sf-en,...
-- realtrade
-- api-mypage
-- mypage
-- 
+
+#### Repositories
+- mypage.gogojungle.co.jp 
+- surface.gogojungle.co.jp
+- api.gogojungle.co.jp
+- gogojungle.co.jp     
+- real-trade.tech
+- configs.gogojungle.co.jp 
+- internal-api-v2        
+- arc.gogojungle.co.jp     
+- img.gogojungle.co.jp 
+- labo.gogojungle.co.jp   
+- internal-api 
+
+#### Type of Services
+**GUI**
+- `Vuejs`: mypage (node 10)
+- `Nuxtjs`: sf, real-trade, labo (node 10)
+- `React`: (library) (#)
+- `Next`: (gui-skijan) (node 14)
+
+**API**
+- `ExpressJS`: 
+- `NestJS`: 
+- `Loopback`: 
+- `PHP` no problem
+
+🔥 Consider which one will be put in workspaces
+
+
+
+Idea:
+- [ ] dev: yarn only individual service using (yarn with specific package.json)
+	- drawback: `yarn.lock` would be change in development. 
