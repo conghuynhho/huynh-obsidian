@@ -1,6 +1,4 @@
-
-**Branch:** OAM-103894
-
+ **Branch:** OAM-103894
 # Idea
 
 ### Document

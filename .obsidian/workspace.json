@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,9 +159,9 @@
   },
   "active": "ee8977147bdeeaee",
   "lastOpenFiles": [
+    "Working/GGJ monorepo/Step to implement.md",
     "Working/GGJ monorepo/tsconfig.json.md",
     "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
-    "Working/GGJ monorepo/Step to implement.md",
     "Untitled.canvas",
     "Working/Community LazyImage.md",
     "Today I Learned/Explore Mono Turbo Repo.md",
