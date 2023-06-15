@@ -88,7 +88,7 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
  
 4. Research `pnpm`: [[pnpm Research]] 
 	Result:
-	- working except project with `NuxtJS 2` (sf-ja, sf-en,...)
+	- working except project with `NuxtJS 2` (sf-ja, sf-en,...) , `gui-mypage`
 	- service with `node 10` need pnpm@5
 	Conclude: 
 	- Can apply but not for all

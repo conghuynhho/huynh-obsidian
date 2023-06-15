@@ -105,6 +105,20 @@
     ]
   },
   {
+    "fileName": "R&D Strategy",
+    "relativePath": "Working/GGJ monorepo/R&D Strategy.md",
+    "headings": [
+      {
+        "heading": "R&D Strategy",
+        "level": 1
+      },
+      {
+        "heading": "Typescript (Nam)",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "pnpm Research",
     "relativePath": "Working/GGJ monorepo/pnpm Research.md",
     "headings": [
@@ -122,16 +136,6 @@
         "fileName": "R&D GGJ Turbo Repo",
         "link": "pnpm Research",
         "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Eslint & Typescript",
-    "relativePath": "Working/GGJ monorepo/Eslint & Typescript.md",
-    "headings": [
-      {
-        "heading": "Typescript (Nam)",
-        "level": 2
       }
     ]
   },
@@ -162,10 +166,6 @@
       {
         "heading": "Advanced",
         "level": 3
-      },
-      {
-        "heading": "Implement Strategy",
-        "level": 1
       },
       {
         "heading": "Issues",
@@ -239,7 +239,13 @@
   },
   {
     "fileName": "Step to implement",
-    "relativePath": "Working/GGJ monorepo/Step to implement.md"
+    "relativePath": "Working/GGJ monorepo/Step to implement.md",
+    "headings": [
+      {
+        "heading": "Implement strategy",
+        "level": 3
+      }
+    ]
   },
   {
     "fileName": "Community LazyImage",
