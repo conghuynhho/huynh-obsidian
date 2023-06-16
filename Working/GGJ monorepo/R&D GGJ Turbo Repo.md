@@ -95,6 +95,8 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
  
 5. Test yarn specific workspace by custom package.json.
 6. Test merge git repository.
+	- `git mv source-dir/ dest/new-source-dir`
+	- 
 
 Tested: 
 - with yarn workspace only `yarn.lock` is respected. others is ignore.
