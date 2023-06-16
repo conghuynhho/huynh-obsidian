@@ -97,10 +97,10 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 5. Test yarn specific workspace by custom package.json.
 	- 
 6. ✅ Test merge git repository.
-	- `git-filter-repo` to create subfolder
+	~~- `git-filter-repo` to create subfolder~~
 	```sh
-	cd path/to/project-a
-	git filter-repo --to-subdirectory-filter project-a
+	#cd path/to/project-a
+	#git filter-repo --to-subdirectory-filter project-a
 	```
 	- Step to merge:
 	```zsh
@@ -114,7 +114,7 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 	- `git mv source-dir/ dest/new-source-dir`
 
 - with yarn workspace only `yarn.lock` is respected. others is ignore.
-- ✅ when updating package in the child -> `yarn.lock` in the root update correctly
+-  ✅ when updating package in the child -> `yarn.lock` in the root update correctly
 - ✅ Add new lib, edit lib version. -> Work well
 	- How to add new lib in the child project:
 		- `yarn workspace <name> add <package>`
