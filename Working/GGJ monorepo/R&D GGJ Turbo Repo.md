@@ -80,7 +80,7 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 	- [x] start group services
 		- Define task to run group services in `package.json` and `turbo.json`
 		- `"start:api": "turbo run start --filter=gogo.api.skijan"`
-	- [ ] start separate service
+	- [x] start separate service
 		- Solution 1: Define task to run for each service
 		- Solution 2: `cd` in to the workspace and run it.
 		- ✏️ Need to find a way to improve performances of yarn.
@@ -94,11 +94,21 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 	- Can apply but not for all
  
 5. Test yarn specific workspace by custom package.json.
+	- 
 6. Test merge git repository.
 	- `git mv source-dir/ dest/new-source-dir`
-	- 
+	- `git-filter-repo` to create subfolder
+	- Step to merge:
+	```zsh
+	cd path/to/project-b
+	git remote add project-a /path/to/project-a
+	
+	git fetch project-a --tags
+	git merge --allow-unrelated-histories project-a/master
+	git remote remove project-a
+	```
 
-Tested: 
+
 - with yarn workspace only `yarn.lock` is respected. others is ignore.
 - ✅ when updating package in the child -> `yarn.lock` in the root update correctly
 - ✅ Add new lib, edit lib version. -> Work well
