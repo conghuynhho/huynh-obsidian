@@ -32,24 +32,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "36700760252dfedb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "54637b0c89ce9e93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +169,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54637b0c89ce9e93",
+  "active": "b45bfb36dc651958",
   "lastOpenFiles": [
     "Working/GGJ monorepo/Step to implement.md",
     "Working/GGJ monorepo/R&D Strategy.md",
