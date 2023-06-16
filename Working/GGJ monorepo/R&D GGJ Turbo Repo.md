@@ -89,14 +89,14 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 4. Research `pnpm`: [[pnpm Research]] 
 	Result:
 	- working except project with `NuxtJS 2` (sf-ja, sf-en,...) , `gui-mypage`
-	- service with `node 10` need pnpm@5
+	- service with `node 10` need `pnpm@5`
 	Conclude: 
 	- Can apply but not for all
- -> Not apply `pnpm`
+ -> ❌ Not apply `pnpm`
  
 5. Test yarn specific workspace by custom package.json.
 	- 
-6. Test merge git repository.
+6. ✅ Test merge git repository.
 	- `git-filter-repo` to create subfolder
 	```sh
 	cd path/to/project-a
