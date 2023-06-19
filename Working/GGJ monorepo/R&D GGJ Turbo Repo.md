@@ -84,6 +84,7 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 		- Solution 1: Define task to run for each service
 		- Solution 2: `cd` in to the workspace and run it.
 		- ✏️ Need to find a way to improve performances of yarn.
+	- [ ] Define the script in `package.json`
 	- [ ] should we apply remote cache in dev mode?
  
 4. Research `pnpm`: [[pnpm Research]] 
