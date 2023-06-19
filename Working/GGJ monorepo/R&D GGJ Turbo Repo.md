@@ -112,6 +112,7 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 	git remote remove project-a
 	```
 	- `git mv source-dir/ dest/new-source-dir`
+7. Test build config
 
 - with yarn workspace only `yarn.lock` is respected. others is ignore.
 -  ✅ when updating package in the child -> `yarn.lock` in the root update correctly
@@ -128,7 +129,8 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 	- yarn version: `1.22.19`
 	- **solution**: downgrade `yarn@1.19.0` 
 		- `yarn policies set-version 1.19.0`
-
+- ❌ dev: yarn only individual service using (yarn with specific package.json)
+	- drawback: `yarn.lock` would be change in development. 
 
 
 # Downside need to solve
@@ -168,6 +170,3 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 
 
 
-Idea:
-- [ ] dev: yarn only individual service using (yarn with specific package.json)
-	- drawback: `yarn.lock` would be change in development. 
