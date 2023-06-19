@@ -10,10 +10,18 @@ How to start services (Huynh)
 - [ ] Define the script in `package.json`
 - [ ] should we apply remote cache in dev mode?
 
+❌ Can not use `node 10` for global env.
+	- `NextJS 13` require nodejs 14
+❌ Can not use `node 14` for global env.
+	- Can not `yarn install` some service 
 
-2 type of service.
-- service compatible with node 18
-- service not compatible with node 18
+💡**Solution**:
+- Upgrade `node:10` to `node:14`
+
+
+> [!Error] Node 10 compatible
+> Can not yarn global
+
 
 
 1. ✅ Keep all the prestart
@@ -51,7 +59,6 @@ How to start services (Huynh)
 
 > [!WARNING] Yarn with current env node version != 10
 > Because `yarn install` will trigger all `install` for all the workspaces. The process will be fail because some workspaces must to be `yarn install` in node 10.
-> Currently, there is no issue because we use `node 10` as default for our environment in a long time and it works fine.
 
 
 ### In the long run.
