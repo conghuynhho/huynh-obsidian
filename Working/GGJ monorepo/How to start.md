@@ -19,7 +19,7 @@ How to start services (Huynh)
 - Upgrade `node:10` to `node:14`
 - Using custom `package.json` for every fail `node:10`
 	In this package.json. It will filter out all of the service has library required `node:14`
-	What if common package has to required  `node:14`
+	❓What if common package has to required  `node:14`
 
 > [!Error] Node 10 compatible
 > Can not yarn global
