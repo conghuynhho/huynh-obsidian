@@ -76,16 +76,7 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 	- [x] Migrate old yarn.lock to new root yarn.lock
 		- Solution will be accept the risk and update new package. Maybe need effort to test and verify
 
-3. How to start services (Huynh)
-	- [x] start group services
-		- Define task to run group services in `package.json` and `turbo.json`
-		- `"start:api": "turbo run start --filter=gogo.api.skijan"`
-	- [x] start separate service
-		- Solution 1: Define task to run for each service
-		- Solution 2: `cd` in to the workspace and run it.
-		- ✏️ Need to find a way to improve performances of yarn.
-	- [ ] Define the script in `package.json`
-	- [ ] should we apply remote cache in dev mode?
+3. [[How to start]] (Huynh)
  
 4. Research `pnpm`: [[pnpm Research]] 
 	Result:

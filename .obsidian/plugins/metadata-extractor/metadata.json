@@ -105,6 +105,17 @@
     ]
   },
   {
+    "fileName": "How to start",
+    "relativePath": "Working/GGJ monorepo/How to start.md",
+    "backlinks": [
+      {
+        "fileName": "R&D GGJ Turbo Repo",
+        "link": "How to start",
+        "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
+      }
+    ]
+  },
+  {
     "fileName": "R&D Strategy",
     "relativePath": "Working/GGJ monorepo/R&D Strategy.md",
     "headings": [
@@ -197,6 +208,10 @@
       }
     ],
     "links": [
+      {
+        "link": "How to start",
+        "relativePath": "Working/GGJ monorepo/How to start.md"
+      },
       {
         "link": "pnpm Research",
         "relativePath": "Working/GGJ monorepo/pnpm Research.md"
