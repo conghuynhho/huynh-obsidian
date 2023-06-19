@@ -95,7 +95,7 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
  -> ❌ Not apply `pnpm`
  
 5. Test yarn specific workspace by custom package.json.
-	- 
+	- working
 6. ✅ Test merge git repository.
 	~~- `git-filter-repo` to create subfolder~~
 	```sh
