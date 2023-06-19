@@ -47,11 +47,11 @@ How to start services (Huynh)
 
 ### Start a separate service
 - `yarn --cwd <project-path>` 
-- 
+- Keep all the prestart
 
 > [!WARNING] Yarn with current env node version != 10
 > Because `yarn install` will trigger all `install` for all the workspaces. The process will be fail because some workspaces must to be `yarn install` in node 10.
-> Currently, there is no issue because we use `node 10` as default for our environment for long and it works fine.
+> Currently, there is no issue because we use `node 10` as default for our environment in a long time and it works fine.
 
 
 ### In the long run.
@@ -60,5 +60,13 @@ How to start services (Huynh)
 Found issue: 
 - GUI
 	- `building node-sass` when install package
+	- `gui-mypage & editorjs`
 - API
-	- 
+	- ❓❓❓
+
+## Conclude
+Keep using `node 10` 
+Next phase: try to upgrade all the service to higher node version
+
+
+
