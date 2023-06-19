@@ -27,3 +27,19 @@ How to start services (Huynh)
 	next the `pre-start` will run but still be in `Already up-to-date`
 
 - can not use turbo to run service with node `10`
+
+❓Issue with node version.
+- current environment node version (consider as node 10)
+- node version for `yarn install`
+	`run-os-script` help to install with correct version but when
+	`[4] Building fresh packages...` this step will run under current `environment` node version.
+- ✅ node version for `start` 
+	`run-os-script` help to start with correct version
+- ❓node version for `commit`
+
+
+### Run using turbo
+- `prestart`: yarn install at root
+
+### Start group of service
+- Start from the root. Using `turbo`
