@@ -60,7 +60,15 @@ COPY --from=builder ${GOGO_WD}/package.json ./package.json
 1. Because some packages will be hoist to the root node_modules and it also create new `yarn.lock` file. Therefore, some package with `caret range` will be update when using `workspaces`
 	Example: 
 	- `@mui/lab`
-
+2. Avoid using this workspace syntax
+```json
+{
+	workspaces: [
+		"apps/*/**"
+	]
+}
+```
+issues: https://github.com/vercel/turbo/issues/3340
 
 
 # Need to test
