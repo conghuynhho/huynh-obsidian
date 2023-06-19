@@ -46,10 +46,19 @@ How to start services (Huynh)
 - Keep `prestart` in all the service (redundant in this case but not have any bad effects)
 
 ### Start a separate service
+- `yarn --cwd <project-path>` 
 - 
-
-
 
 > [!WARNING] Yarn with current env node version != 10
 > Because `yarn install` will trigger all `install` for all the workspaces. The process will be fail because some workspaces must to be `yarn install` in node 10.
 > Currently, there is no issue because we use `node 10` as default for our environment for long and it works fine.
+
+
+### In the long run.
+`node 10` is not good 
+
+Found issue: 
+- GUI
+	- `building node-sass` when install package
+- API
+	- 
