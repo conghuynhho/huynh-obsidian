@@ -1,7 +1,7 @@
 
 How to start services (Huynh)
 - [x] start group services
-	- Define task to run group services in `package.json` and `turbo.json`
+	- Define task to run group services in `package.json` and `turbo.json` using `--filter`
 	- `"start:api": "turbo run start --filter=gogo.api.skijan"`
 - [x] start separate service
 	- Solution 1: Define task to run for each service
@@ -10,10 +10,10 @@ How to start services (Huynh)
 - [ ] Define the script in `package.json`
 - [ ] should we apply remote cache in dev mode?
 
-❌ Can not use `node 10` for global env.
+❌ Can not use `node 10` for global node version.
 	- `NextJS 13` require nodejs 14
-❌ Can not use `node 14` for global env.
-	- Can not `yarn install` some service 
+❌ Can not use `node 14` for global node version.
+	- Can not `yarn install` some service required to build package under `node 10`
 
 💡**Solution**:
 - Upgrade `node:10` to `node:14`
@@ -51,11 +51,11 @@ How to start services (Huynh)
 - `prestart:xxxx` for group of services x
 
 ### Start group of service
-- Start from the root. Using `turbo`
+- Start from the root. Using `turbo --filter`
 - Keep `prestart` in all the service (redundant in this case but not have any bad effects)
 
 ### Start a separate service
-- `yarn --cwd <project-path>` 
+- `yarn --cwd <project-path>` start at the service dir
 - Keep all the prestart
 
 > [!WARNING] Yarn with current env node version != 10

@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working/GGJ monorepo/How to start.md",
+                "file": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1481e6a95c7afdb4",
+            "id": "b1481106046062ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working/GGJ monorepo/pnpm Research.md",
+                "file": "Working/GGJ monorepo/How to start.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2cd9463ada2f75d8",
@@ -188,7 +189,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b45bfb36dc651958",
+  "active": "b1481106046062ed",
   "lastOpenFiles": [
     "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
     "Working/GGJ monorepo/How to start.md",

@@ -113,6 +113,8 @@ issues: https://github.com/vercel/turbo/issues/3340
 	```
 	- `git mv source-dir/ dest/new-source-dir`
 7. Test build config
+	`turbo prune` works well.
+	It keeps the `package.json` and the `yarn.lock` stail for each service
 
 - with yarn workspace only `yarn.lock` is respected. others is ignore.
 -  ✅ when updating package in the child -> `yarn.lock` in the root update correctly
