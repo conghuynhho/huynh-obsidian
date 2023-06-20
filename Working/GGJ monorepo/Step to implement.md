@@ -1,4 +1,4 @@
-Because everything working well with service compatible with  `node 14`
+	Because everything working well with service compatible with  `node 14`
 
 ### Implement strategy
 
@@ -30,3 +30,6 @@ Because everything working well with service compatible with  `node 14`
 	- Config turbo
 4. Verify version of package
 5. Build
+	- Dockerhub
+	- Test new docker
+	- Try to build

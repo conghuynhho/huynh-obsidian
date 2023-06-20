@@ -16,3 +16,9 @@ exmap back obcommand app:go-back
 nmap <C-o> :back
 exmap forward obcommand app:go-forward
 nmap <C-i> :forward
+
+exmap focusRight obcommand editor:focus-right
+exmap focusLeft obcommand editor:focus-left
+nmap <C-l> :focusRight
+nmap <C-h> :focusLeft
+
