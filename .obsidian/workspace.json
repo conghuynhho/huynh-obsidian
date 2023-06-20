@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5026054382324,
-    "collapsed": true
+    "width": 261.5026054382324
   },
   "right": {
     "id": "10fe1423611578e8",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/GGJ monorepo/How to build.md",
+                "file": "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/GGJ monorepo/How to build.md",
+                "file": "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/GGJ monorepo/How to build.md"
+                "file": "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md"
               }
             }
           },
@@ -188,10 +187,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a141cadc55b3940b",
+  "floating": {
+    "id": "83a000681c4764f1",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d62152da913ffe01",
+        "type": "window",
+        "children": [
+          {
+            "id": "3e427888fcd15b72",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "deb1beb91d533a72",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 84,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "deb1beb91d533a72",
   "lastOpenFiles": [
-    "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
     "Working/GGJ monorepo/How to build.md",
+    "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
+    "Templates/DrawingTemplate.excalidraw.md",
+    "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
     "Today I Learned/Explore Mono Turbo Repo.md",
     "Working/GGJ monorepo/Step to implement.md",
     "Working/GGJ monorepo/How to start.md",
@@ -218,8 +254,6 @@
     "Working/Infinite scroll in community attachment.md",
     "Working/Add Paging for EA list.md",
     "Today I Learned/Deep copy.md",
-    "Today I Learnedhello.md",
-    "Excalidraw/Drawing 2023-06-05 13.34.38.excalidraw.md",
     "Excalidraw",
     "Today I Learned",
     "Inteliji Idea",

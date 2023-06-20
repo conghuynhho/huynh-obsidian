@@ -95,7 +95,7 @@
       "name": "Create new Excalidraw",
       "type": "Template",
       "command": true,
-      "templatePath": "Templates/Quicknotes.md",
+      "templatePath": "Templates/DrawingTemplate.excalidraw.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""

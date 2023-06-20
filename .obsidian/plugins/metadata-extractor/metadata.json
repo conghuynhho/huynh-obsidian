@@ -101,6 +101,23 @@
     ]
   },
   {
+    "fileName": "How to build",
+    "relativePath": "Working/GGJ monorepo/How to build.md",
+    "headings": [
+      {
+        "heading": "Code build",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "R&D GGJ Turbo Repo",
+        "link": "How to build",
+        "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
+      }
+    ]
+  },
+  {
     "fileName": "tsconfig.json",
     "relativePath": "Working/GGJ monorepo/tsconfig.json.md",
     "headings": [
@@ -220,14 +237,6 @@
         "level": 1
       },
       {
-        "heading": "Downside need to solve",
-        "level": 1
-      },
-      {
-        "heading": "A little deep think",
-        "level": 1
-      },
-      {
         "heading": "Repositories",
         "level": 4
       },
@@ -244,6 +253,10 @@
       {
         "link": "pnpm Research",
         "relativePath": "Working/GGJ monorepo/pnpm Research.md"
+      },
+      {
+        "link": "How to build",
+        "relativePath": "Working/GGJ monorepo/How to build.md"
       }
     ]
   },
