@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
+                "file": "Working/GGJ monorepo/How to build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
+                "file": "Working/GGJ monorepo/How to build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md"
+                "file": "Working/GGJ monorepo/How to build.md"
               }
             }
           },
@@ -222,10 +222,10 @@
       }
     ]
   },
-  "active": "deb1beb91d533a72",
+  "active": "a141cadc55b3940b",
   "lastOpenFiles": [
-    "Working/GGJ monorepo/How to build.md",
     "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
+    "Working/GGJ monorepo/How to build.md",
     "Templates/DrawingTemplate.excalidraw.md",
     "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
     "Today I Learned/Explore Mono Turbo Repo.md",

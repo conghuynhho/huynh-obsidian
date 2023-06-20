@@ -109,6 +109,12 @@
         "level": 2
       }
     ],
+    "links": [
+      {
+        "link": "How to build 2023-06-20 17.56.29.excalidraw",
+        "relativePath": "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "R&D GGJ Turbo Repo",
@@ -478,6 +484,28 @@
     ]
   },
   {
+    "fileName": "DrawingTemplate.excalidraw",
+    "relativePath": "Templates/DrawingTemplate.excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    }
+  },
+  {
     "fileName": "TIL Template",
     "relativePath": "Templates/TIL Template.md"
   },
@@ -522,6 +550,41 @@
   {
     "fileName": "Roadmap",
     "relativePath": "Roadmap.md"
+  },
+  {
+    "fileName": "How to build 2023-06-20 17.56.29.excalidraw",
+    "relativePath": "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Text Elements",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "How to build",
+        "link": "How to build 2023-06-20 17.56.29.excalidraw",
+        "relativePath": "Working/GGJ monorepo/How to build.md"
+      }
+    ]
   },
   {
     "fileName": "Sketch VNPay Result",
