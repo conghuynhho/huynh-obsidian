@@ -50,12 +50,13 @@ How to start services (Huynh)
 - `prestart`: yarn install at root
 - `prestart:xxxx` for group of services x
 
-### Start group of service
+### ✅ Start group of service
 - Start from the root. Using `turbo --filter`
 - Keep `prestart` in all the service (redundant in this case but not have any bad effects)
+- Name `group service`
 
-### Start a separate service
-- `yarn --cwd <project-path>` start at the service dir
+### ✅ Start a separate service
+- `yarn --cwd <project-path>` or start at the service dir
 - Keep all the prestart
 
 > [!WARNING] Yarn with current env node version != 10

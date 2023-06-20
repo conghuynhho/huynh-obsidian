@@ -24,6 +24,9 @@ Because everything working well with service compatible with  `node 14`
 - package.json
 - turbo.json
 ```
-
-2. Dev
-3. Build
+2. Merge repository
+3. Config turbo
+	- Define script
+	- Config turbo
+4. Verify version of package
+5. Build
