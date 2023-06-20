@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "cssTheme": "Obsidianite",
-  "theme": "system"
+  "theme": "system",
+  "showViewHeader": true
 }
