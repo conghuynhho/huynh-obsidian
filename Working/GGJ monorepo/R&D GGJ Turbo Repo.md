@@ -115,6 +115,7 @@ issues: https://github.com/vercel/turbo/issues/3340
 7. Test build config
 	`turbo prune` works well.
 	If no package changeIt keeps the `package.json` and the `yarn.lock` intact for each service in every prune
+	[[How to build]]
 
 - with yarn workspace only `yarn.lock` is respected. others is ignore.
 -  ✅ when updating package in the child -> `yarn.lock` in the root update correctly
@@ -134,12 +135,6 @@ issues: https://github.com/vercel/turbo/issues/3340
 - ❌ dev: yarn only individual service using (yarn with specific package.json)
 	- drawback: `yarn.lock` would be change in development. 
 
-
-# Downside need to solve
-
-
-
-# A little deep think
 
 
 #### Repositories
