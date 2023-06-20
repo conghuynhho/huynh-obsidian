@@ -1556,7 +1556,7 @@ div.status-bar-item.plugin-obsidian-vimrc-support {
   padding-left: 1em;
 
   /* Use Monospace font */
-  font-family: "MesloLGM Nerd Font Mono"; /* !!! Needs to be a powerline font */
+  font-family: "JetBrainsMono Nerd Font"; /* !!! Needs to be a powerline font */
   font-weight: bold;
   font-size: 1.2em;
 
