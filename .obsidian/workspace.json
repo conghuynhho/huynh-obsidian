@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2cd9463ada2f75d8",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/GGJ monorepo/How to start.md",
+                "file": "Working/GGJ monorepo/Step to implement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/GGJ monorepo/How to start.md",
+                "file": "Working/GGJ monorepo/Step to implement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/GGJ monorepo/How to start.md"
+                "file": "Working/GGJ monorepo/Step to implement.md"
               }
             }
           },
@@ -188,11 +189,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b45bfb36dc651958",
+  "active": "b1481106046062ed",
   "lastOpenFiles": [
-    "Today I Learned/Explore Mono Turbo Repo.md",
-    "Working/GGJ monorepo/Step to implement.md",
     "Working/GGJ monorepo/How to start.md",
+    "Working/GGJ monorepo/Step to implement.md",
+    "Today I Learned/Explore Mono Turbo Repo.md",
     "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
     "CleanShot 2023-06-19 at 13.32.01.png",
     "Working/GGJ monorepo/R&D Strategy.md",
