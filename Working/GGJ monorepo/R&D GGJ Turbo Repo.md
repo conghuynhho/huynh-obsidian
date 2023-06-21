@@ -113,9 +113,11 @@ issues: https://github.com/vercel/turbo/issues/3340
 	```
 	- `git mv source-dir/ dest/new-source-dir`
 7. Test build config
-	`turbo prune` works well.
-	If no package changeIt keeps the `package.json` and the `yarn.lock` intact for each service in every prune
-	[[How to build]]
+	- `turbo prune` works well.
+		- If no package changeIt keeps the `package.json` and the `yarn.lock` intact for each service in every prune
+		- [[How to build]]
+	- `common packages` has dependencies
+		- does lockfile has this dependencies when
 
 - with yarn workspace only `yarn.lock` is respected. others is ignore.
 -  ✅ when updating package in the child -> `yarn.lock` in the root update correctly
