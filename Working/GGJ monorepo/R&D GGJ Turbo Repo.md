@@ -117,7 +117,8 @@ issues: https://github.com/vercel/turbo/issues/3340
 		- If no package changeIt keeps the `package.json` and the `yarn.lock` intact for each service in every prune
 		- [[How to build]]
 	- `common packages` has dependencies
-		- does lockfile has this dependencies when
+		- ❓ does lockfile has this dependencies when prune. 
+		- ❓ does the source work fine.
 
 - with yarn workspace only `yarn.lock` is respected. others is ignore.
 -  ✅ when updating package in the child -> `yarn.lock` in the root update correctly
