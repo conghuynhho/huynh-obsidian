@@ -1,6 +1,6 @@
 ## Code build
 
-- [ ] Create new docker image for `nodejs_18.16.0_codebuild:1.0`
+- [x] Create new docker image for `nodejs_18.16.0_codebuild:1.0`
 	- Add turbo inside of this image
 
 - [ ] Create new build spec for monorepo
