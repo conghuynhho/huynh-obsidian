@@ -16,11 +16,15 @@ How to test in local
 
 - [x] Build success `docker code-build` and push to docker hub
 - [ ] create new `build-spec.yaml`
+	-  compare `/out/yarn.lock` and `path to Dockerfile`
 - [ ] Create new test `aws-codebuild`
 	- [ ] with new column `service-name`
 	- [ ] with new docker image
 	- [ ] with new build spec
 - [ ] ?? service's docker -> just need to edit
+	- edit `build.sh` to build in the `/out/apps` folder
+	- 
+	- 
 
 
 
