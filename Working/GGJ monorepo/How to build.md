@@ -12,7 +12,15 @@
 
 How to test in local
 
+### Need to do
 
+- [ ] Build success `docker code-build` and push to docker hub
+- [ ] create new `build-spec.yaml`
+- [ ] Create new test `aws-codebuild`
+	- [ ] with new column `service-name`
+	- [ ] with new docker image
+	- [ ] with new build spec
+- [ ] ?? service's docker -> just need to edit
 
 
 
