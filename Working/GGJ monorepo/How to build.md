@@ -23,8 +23,8 @@ How to test in local
 	- [ ] with new build spec
 - [ ] ?? service's docker -> just need to edit
 	- edit `build.sh` to build in the `/out/apps` folder
-	- 
-	- 
+	- edit `cp-bundle.sh`
+	- ...
 
 
 
