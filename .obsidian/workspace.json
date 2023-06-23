@@ -195,11 +195,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 448,
-        "y": 84,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
+        "x": 240,
+        "y": 115,
+        "width": 1440,
+        "height": 875,
+        "maximize": false,
         "zoom": 1
       }
     ]
