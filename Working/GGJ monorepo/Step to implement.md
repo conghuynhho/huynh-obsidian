@@ -25,6 +25,16 @@
 - turbo.json
 ```
 2. Merge repository
+	- Step to merge:
+	```zsh
+	cd path/to/project-b
+	git remote add project-a /path/to/project-a
+	
+	git fetch project-a --tags
+	git merge --allow-unrelated-histories project-a/master
+	git remote remove project-a
+	```
+	- `git mv source-dir/ dest/new-source-dir`
 3. Config turbo
 	- Define script
 	- Config turbo
