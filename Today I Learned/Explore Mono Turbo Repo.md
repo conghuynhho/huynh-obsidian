@@ -30,6 +30,7 @@ Scenario: when there is 2 project has the same package with different version
 - Tested: the package will be store in 2 places (root node_modules and child node_modules)
 	- Some package will be automatically resolved  by using the latest version.
 
+###
 
 
 ### References

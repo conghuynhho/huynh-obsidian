@@ -13,14 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working/GGJ monorepo/How to build.md",
+                "file": "Working/GGJ monorepo/Summary GGJ Monorepo.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "fc5da50deee9f671",
+        "type": "tabs",
+        "children": [
           {
-            "id": "b1481106046062ed",
+            "id": "dd5dd90da82839a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/GGJ monorepo/How to build.md",
+                "file": "Working/GGJ monorepo/Summary GGJ Monorepo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/GGJ monorepo/How to build.md",
+                "file": "Working/GGJ monorepo/Summary GGJ Monorepo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/GGJ monorepo/How to build.md"
+                "file": "Working/GGJ monorepo/Summary GGJ Monorepo.md"
               }
             }
           },
@@ -206,17 +212,21 @@
   },
   "active": "b45bfb36dc651958",
   "lastOpenFiles": [
-    "Working/GGJ monorepo/pnpm Research.md",
-    "Working/GGJ monorepo/How to start.md",
-    "Working/GGJ monorepo/How to build.md",
     "Working/GGJ monorepo/Step to implement.md",
+    "Working/GGJ monorepo/Summary GGJ Monorepo.md",
+    "Today I Learned/Explore Mono Turbo Repo.md",
+    "Working/GGJ monorepo/How to start.md",
     "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
-    "Working/GGJ monorepo/tsconfig.json.md",
+    "Working/GGJ monorepo/Archived/pnpm Research.md",
+    "Working/GGJ monorepo/Archived/tsconfig.json.md",
+    "Working/GGJ monorepo/Archived/R&D Strategy.md",
+    "Working/GGJ monorepo/Archived",
+    "Working/GGJ monorepo/How to build.md",
+    "Today I Learned/Create an alfred workflow.md",
+    "Today I Learned/Ideavim config for clipboard.md",
     "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
     "Templates/DrawingTemplate.excalidraw.md",
-    "Today I Learned/Explore Mono Turbo Repo.md",
     "CleanShot 2023-06-19 at 13.32.01.png",
-    "Working/GGJ monorepo/R&D Strategy.md",
     "Untitled.md",
     "Untitled.canvas",
     "Working/Community LazyImage.md",
@@ -224,18 +234,14 @@
     "Excalidraw/Drawing 2023-06-12 18.00.40.excalidraw.md",
     "Excalidraw/Mode build with Monorepo.md",
     "Excalidraw/Sketch VNPay Result.md",
-    "Today I Learned/Ideavim config for clipboard.md",
     "Working/Payment Result VNPay.md",
     "Today I Learned/React useTransition and useDeferredValue.md",
     "2023-06-09.md",
     "Excalidraw/test.md",
     "Today I Learned/Git Alias (Multiple Command).md",
     "CleanShot 2023-06-02 at 16.09.04.png",
-    "Today I Learned/Create an alfred workflow.md",
     "Templates/Quicknotes.md",
     "Working/Infinite scroll in community attachment.md",
-    "Working/Add Paging for EA list.md",
-    "Today I Learned/Deep copy.md",
     "Excalidraw",
     "Today I Learned",
     "Inteliji Idea",
@@ -243,7 +249,6 @@
     "Tmux",
     "Templates",
     "untitled folder",
-    "Temp/untitled folder",
-    "Temp"
+    "Temp/untitled folder"
   ]
 }
