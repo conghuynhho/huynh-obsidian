@@ -169,4 +169,6 @@ issues: https://github.com/vercel/turbo/issues/3340
 🔥 Consider which one will be put in workspaces
 
 
+### Common structure
+- 
 

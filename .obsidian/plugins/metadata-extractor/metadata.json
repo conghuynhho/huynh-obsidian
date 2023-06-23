@@ -14,24 +14,6 @@
     ]
   },
   {
-    "fileName": "Ideavim config for clipboard",
-    "relativePath": "Today I Learned/Ideavim config for clipboard.md",
-    "headings": [
-      {
-        "heading": "Buffer",
-        "level": 3
-      },
-      {
-        "heading": "Clipboard",
-        "level": 3
-      },
-      {
-        "heading": "Not doing anything",
-        "level": 3
-      }
-    ]
-  },
-  {
     "fileName": "Typescript Generic Auto Inter Type",
     "relativePath": "Today I Learned/Typescript Generic Auto Inter Type.md",
     "headings": [
@@ -54,6 +36,24 @@
         "relativePath": "Today I Learned/Typescript Generic Auto Inter Type.md",
         "cleanLink": "Typescript Generic Auto Inter Type",
         "displayText": "Way 2"
+      }
+    ]
+  },
+  {
+    "fileName": "Ideavim config for clipboard",
+    "relativePath": "Today I Learned/Ideavim config for clipboard.md",
+    "headings": [
+      {
+        "heading": "Buffer",
+        "level": 3
+      },
+      {
+        "heading": "Clipboard",
+        "level": 3
+      },
+      {
+        "heading": "Not doing anything",
+        "level": 3
       }
     ]
   },
@@ -402,6 +402,10 @@
       {
         "heading": "Type of Services",
         "level": 4
+      },
+      {
+        "heading": "Common structure",
+        "level": 3
       }
     ],
     "links": [
@@ -546,6 +550,70 @@
     "relativePath": "Untitled.md"
   },
   {
+    "fileName": "TIL Template",
+    "relativePath": "Templates/TIL Template.md"
+  },
+  {
+    "fileName": "Release Template",
+    "relativePath": "Templates/Release Template.md",
+    "headings": [
+      {
+        "heading": "What's new in v1.3",
+        "level": 1
+      },
+      {
+        "heading": "New PDF viewer",
+        "level": 2
+      },
+      {
+        "heading": "Pinned tab changes",
+        "level": 2
+      },
+      {
+        "heading": "Tab group changes",
+        "level": 2
+      },
+      {
+        "heading": "Misc. improvements",
+        "level": 2
+      },
+      {
+        "heading": "Bug fixes",
+        "level": 2
+      },
+      {
+        "heading": "Developers",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Quicknotes",
+    "relativePath": "Templates/Quicknotes.md"
+  },
+  {
+    "fileName": "DrawingTemplate.excalidraw",
+    "relativePath": "Templates/DrawingTemplate.excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    }
+  },
+  {
     "fileName": "Drawing 2023-06-12 18.00.40.excalidraw",
     "relativePath": "Excalidraw/Drawing 2023-06-12 18.00.40.excalidraw.md",
     "tags": [
@@ -643,70 +711,6 @@
         "relativePath": "Working/GGJ monorepo/How to build.md"
       }
     ]
-  },
-  {
-    "fileName": "TIL Template",
-    "relativePath": "Templates/TIL Template.md"
-  },
-  {
-    "fileName": "Release Template",
-    "relativePath": "Templates/Release Template.md",
-    "headings": [
-      {
-        "heading": "What's new in v1.3",
-        "level": 1
-      },
-      {
-        "heading": "New PDF viewer",
-        "level": 2
-      },
-      {
-        "heading": "Pinned tab changes",
-        "level": 2
-      },
-      {
-        "heading": "Tab group changes",
-        "level": 2
-      },
-      {
-        "heading": "Misc. improvements",
-        "level": 2
-      },
-      {
-        "heading": "Bug fixes",
-        "level": 2
-      },
-      {
-        "heading": "Developers",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "Quicknotes",
-    "relativePath": "Templates/Quicknotes.md"
-  },
-  {
-    "fileName": "DrawingTemplate.excalidraw",
-    "relativePath": "Templates/DrawingTemplate.excalidraw.md",
-    "tags": [
-      "excalidraw"
-    ],
-    "frontmatter": {
-      "excalidraw-plugin": "parsed",
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 54
-        }
-      }
-    }
   },
   {
     "fileName": "2023-06-09",
