@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working/GGJ monorepo/Summary GGJ Monorepo.md",
+                "file": "Working/GGJ monorepo/How to build.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5026054382324,
-    "collapsed": true
+    "width": 261.5026054382324
   },
   "right": {
     "id": "10fe1423611578e8",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/GGJ monorepo/Summary GGJ Monorepo.md",
+                "file": "Working/GGJ monorepo/How to build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/GGJ monorepo/Summary GGJ Monorepo.md",
+                "file": "Working/GGJ monorepo/How to build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/GGJ monorepo/Summary GGJ Monorepo.md"
+                "file": "Working/GGJ monorepo/How to build.md"
               }
             }
           },
@@ -195,8 +194,8 @@
   },
   "active": "b45bfb36dc651958",
   "lastOpenFiles": [
-    "Working/GGJ monorepo/How to build.md",
     "Working/GGJ monorepo/Summary GGJ Monorepo.md",
+    "Working/GGJ monorepo/How to build.md",
     "Working/GGJ monorepo/How to start.md",
     "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
     "Working/GGJ monorepo/Step to implement.md",
