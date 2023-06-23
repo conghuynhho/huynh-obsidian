@@ -52,12 +52,10 @@ How to start services (Huynh)
 
 ### ✅ Start group of service
 - Start from the root. Using `turbo --filter`
-- Keep `prestart` in all the service (redundant in this case but not have any bad effects)
 - Name `group service`
 
 ### ✅ Start a separate service
 - `yarn --cwd <project-path>` or start at the service dir
-- Keep all the prestart
 
 > [!WARNING] Yarn with current env node version != 10
 > Because `yarn install` will trigger all `install` for all the workspaces. The process will be fail because some workspaces must to be `yarn install` in node 10.

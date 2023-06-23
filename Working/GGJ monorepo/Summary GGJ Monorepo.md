@@ -35,11 +35,31 @@ Tested and `turbo` work in node `10` `14` `18`
 
 ## ❓ How to
 ### How to build
-
+- [x] Build success `docker code-build` and push to docker hub
+- [ ] create new `build-spec.yaml`
+	-  compare `/out/yarn.lock` and `path to Dockerfile`
+- [ ] Create new test `aws-codebuild`
+	- [ ] with new column `service-name`
+	- [ ] with new docker image
+	- [ ] with new build spec
+- [ ] ?? service's docker -> just need to edit
+	- edit `build.sh` to build in the `/out/apps` folder
+	- edit `cp-bundle.sh`
+	- ...
 
 ### How to start
+
+
+> [!NOTE] Notice
+> Remember to run `yarn` before start any services
+
 1. **Start group of service**
+	- Start from the root.
+	- Using `turbo --filter`
+	- `start` script will be define and doc later in `package.json`
 2. **Start a service separately**
+	- `yarn --cwd <workspace-path>` or start at the service dir
+	- or `cd` to path of workspace and run `yarn start`
 
 
 ### How to add new library
