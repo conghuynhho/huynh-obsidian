@@ -4,27 +4,28 @@
 
 1. Define folder structure ???
 ```dirtree
-- /api/
-	- skijan
-	- skijan-vi
-- /gui/
-	- skijan
-	- skijan-vi
-- /docs/
-	- abc
-	- xyz
-- /proxy
-	- labo
-	- ggj
-- /guard
-	- skijan
-	- myaccount
-	- ....
+- /apps/
+	- /api/
+		- skijan
+		- skijan-vi
+	- /gui/
+		- skijan
+		- skijan-vi
+	- /docs/
+		- abc
+		- xyz
+	- /proxy
+		- labo
+		- ggj
+	- /guard
+		- skijan
+		- myaccount
+		- ....
 - /statics/
 - /packages/
 	- ui-components
-	- shared-lib
 	- common-api
+	- common-guard
 	- tsconfig-bases
 	- eslint-config-bases
 - package.json
