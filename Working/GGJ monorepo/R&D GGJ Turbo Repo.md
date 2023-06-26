@@ -200,5 +200,7 @@ List down packages:
 	"cacheman-memory": "^1.1.0",
 	"ip": "^1.1.8",
 	"geoip-country": "^4.1.61",
+	"@nestjs/common": "^8.4.0",
+    "@nestjs/core": "^8.4.0",
 }
 ```
