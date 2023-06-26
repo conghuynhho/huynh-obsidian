@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md",
+                "file": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md",
+                "file": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md"
+                "file": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
               }
             }
           },
@@ -181,35 +181,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "d62152da913ffe01",
-        "type": "window",
-        "children": [
-          {
-            "id": "3e427888fcd15b72",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "deb1beb91d533a72",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 240,
-        "y": 115,
-        "width": 1440,
-        "height": 875,
-        "maximize": false,
-        "zoom": 1
-      },
-      {
         "id": "fd9383a6d756e553",
         "type": "window",
         "children": [
@@ -240,9 +211,10 @@
       }
     ]
   },
-  "active": "aafbb324af6b2816",
+  "active": "b45bfb36dc651958",
   "lastOpenFiles": [
     "Working/GGJ monorepo/Step to implement.md",
+    "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
     "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md",
     "Working/GGJ monorepo/Summary GGJ Monorepo.md",
     "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
@@ -255,7 +227,6 @@
     "Working/GGJ monorepo/Archived",
     "Today I Learned/Create an alfred workflow.md",
     "Today I Learned/Ideavim config for clipboard.md",
-    "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
     "Templates/DrawingTemplate.excalidraw.md",
     "CleanShot 2023-06-19 at 13.32.01.png",
     "Untitled.md",
