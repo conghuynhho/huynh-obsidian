@@ -175,4 +175,13 @@ issues: https://github.com/vercel/turbo/issues/3340
 
 ### Proxy labo
 
+?? move to api ???
+?? use what common ??
+?? install @nest ???
+?? put where in api
+?? other proxy put whereA
+
+Currently
+- tsc compile will be ignore the node_modules so the common must have no dependencies.
+- have to install @nest or some dependencies at the used 
 
