@@ -54,9 +54,10 @@ If I move it. The developing should not be in the old repository.
 
 💡**Solutions**
 1. Merge `staging` to `release` for both `api` and `sf`
-2. Merge master `sf` to -> master `api`
-3. Create new `staging` branch from `master` api
-4. Create `release` branch from  `staging` api
+2. Merge `release` to `developing` branches (make developing branch up to date with staging branch)
+3. Merge master `sf` to -> master `api`
+4. Create new `staging` branch from `master` api
+5. Create `release` branch from  `staging` api
 
 ![[Step to implement 2023-06-26 10.20.15.excalidraw]]
 
