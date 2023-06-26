@@ -1,17 +1,7 @@
 [
   {
-    "fileName": "React useTransition and useDeferredValue",
-    "relativePath": "Today I Learned/React useTransition and useDeferredValue.md",
-    "headings": [
-      {
-        "heading": "`useTransition`",
-        "level": 2
-      },
-      {
-        "heading": "`useDeferredValue`",
-        "level": 2
-      }
-    ]
+    "fileName": "Untitled",
+    "relativePath": "Untitled.md"
   },
   {
     "fileName": "Typescript Generic Auto Inter Type",
@@ -36,6 +26,30 @@
         "relativePath": "Today I Learned/Typescript Generic Auto Inter Type.md",
         "cleanLink": "Typescript Generic Auto Inter Type",
         "displayText": "Way 2"
+      }
+    ]
+  },
+  {
+    "fileName": "Tmux Prefix",
+    "relativePath": "Today I Learned/Tmux Prefix.md",
+    "headings": [
+      {
+        "heading": "Avoid using `C-i` as prefix",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "React useTransition and useDeferredValue",
+    "relativePath": "Today I Learned/React useTransition and useDeferredValue.md",
+    "headings": [
+      {
+        "heading": "`useTransition`",
+        "level": 2
+      },
+      {
+        "heading": "`useDeferredValue`",
+        "level": 2
       }
     ]
   },
@@ -71,16 +85,6 @@
       },
       {
         "heading": "Runtime Config (Considerable as deprecated)",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Tmux Prefix",
-    "relativePath": "Today I Learned/Tmux Prefix.md",
-    "headings": [
-      {
-        "heading": "Avoid using `C-i` as prefix",
         "level": 3
       }
     ]
@@ -154,28 +158,6 @@
     ]
   },
   {
-    "fileName": "Roadmap",
-    "relativePath": "Roadmap.md"
-  },
-  {
-    "fileName": "Vietnamese Address",
-    "relativePath": "Working/Vietnamese Address.md",
-    "headings": [
-      {
-        "heading": "Spec",
-        "level": 3
-      },
-      {
-        "heading": "Solution",
-        "level": 3
-      },
-      {
-        "heading": "Doing",
-        "level": 3
-      }
-    ]
-  },
-  {
     "fileName": "Payment Result VNPay",
     "relativePath": "Working/Payment Result VNPay.md",
     "headings": [
@@ -233,6 +215,50 @@
     ]
   },
   {
+    "fileName": "Vietnamese Address",
+    "relativePath": "Working/Vietnamese Address.md",
+    "headings": [
+      {
+        "heading": "Spec",
+        "level": 3
+      },
+      {
+        "heading": "Solution",
+        "level": 3
+      },
+      {
+        "heading": "Doing",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Community LazyImage",
+    "relativePath": "Working/Community LazyImage.md",
+    "headings": [
+      {
+        "heading": "Specification",
+        "level": 2
+      },
+      {
+        "heading": "Issues",
+        "level": 2
+      },
+      {
+        "heading": "Solution",
+        "level": 2
+      },
+      {
+        "heading": "Final solution:",
+        "level": 2
+      },
+      {
+        "heading": "Fix requests:",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "Infinite scroll in community attachment",
     "relativePath": "Working/Infinite scroll in community attachment.md",
     "headings": [
@@ -255,43 +281,6 @@
       {
         "heading": "Concern",
         "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Add Paging for EA list",
-    "relativePath": "Working/Add Paging for EA list.md"
-  },
-  {
-    "fileName": "How to start",
-    "relativePath": "Working/GGJ monorepo/How to start.md",
-    "headings": [
-      {
-        "heading": "Run using turbo",
-        "level": 3
-      },
-      {
-        "heading": "✅ Start group of service",
-        "level": 3
-      },
-      {
-        "heading": "✅ Start a separate service",
-        "level": 3
-      },
-      {
-        "heading": "In the long run.",
-        "level": 3
-      },
-      {
-        "heading": "Conclude",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "R&D GGJ Turbo Repo",
-        "link": "How to start",
-        "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
       }
     ]
   },
@@ -341,16 +330,6 @@
       },
       {
         "heading": "Issues",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Step to implement",
-    "relativePath": "Working/GGJ monorepo/Step to implement.md",
-    "headings": [
-      {
-        "heading": "Implement strategy",
         "level": 3
       }
     ]
@@ -420,6 +399,49 @@
       {
         "link": "How to build",
         "relativePath": "Working/GGJ monorepo/How to build.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Step to implement",
+    "relativePath": "Working/GGJ monorepo/Step to implement.md",
+    "headings": [
+      {
+        "heading": "Implement strategy",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "How to start",
+    "relativePath": "Working/GGJ monorepo/How to start.md",
+    "headings": [
+      {
+        "heading": "Run using turbo",
+        "level": 3
+      },
+      {
+        "heading": "✅ Start group of service",
+        "level": 3
+      },
+      {
+        "heading": "✅ Start a separate service",
+        "level": 3
+      },
+      {
+        "heading": "In the long run.",
+        "level": 3
+      },
+      {
+        "heading": "Conclude",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "R&D GGJ Turbo Repo",
+        "link": "How to start",
+        "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
       }
     ]
   },
@@ -520,34 +542,8 @@
     ]
   },
   {
-    "fileName": "Community LazyImage",
-    "relativePath": "Working/Community LazyImage.md",
-    "headings": [
-      {
-        "heading": "Specification",
-        "level": 2
-      },
-      {
-        "heading": "Issues",
-        "level": 2
-      },
-      {
-        "heading": "Solution",
-        "level": 2
-      },
-      {
-        "heading": "Final solution:",
-        "level": 2
-      },
-      {
-        "heading": "Fix requests:",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "Untitled",
-    "relativePath": "Untitled.md"
+    "fileName": "Add Paging for EA list",
+    "relativePath": "Working/Add Paging for EA list.md"
   },
   {
     "fileName": "TIL Template",
@@ -614,32 +610,8 @@
     }
   },
   {
-    "fileName": "Drawing 2023-06-12 18.00.40.excalidraw",
-    "relativePath": "Excalidraw/Drawing 2023-06-12 18.00.40.excalidraw.md",
-    "tags": [
-      "excalidraw"
-    ],
-    "frontmatter": {
-      "excalidraw-plugin": "parsed",
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 54
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Text Elements",
-        "level": 1
-      }
-    ]
+    "fileName": "Roadmap",
+    "relativePath": "Roadmap.md"
   },
   {
     "fileName": "Sketch VNPay Result",
@@ -709,6 +681,34 @@
         "fileName": "How to build",
         "link": "How to build 2023-06-20 17.56.29.excalidraw",
         "relativePath": "Working/GGJ monorepo/How to build.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Drawing 2023-06-12 18.00.40.excalidraw",
+    "relativePath": "Excalidraw/Drawing 2023-06-12 18.00.40.excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Text Elements",
+        "level": 1
       }
     ]
   },
