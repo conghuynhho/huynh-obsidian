@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working/GGJ monorepo/Summary GGJ Monorepo.md",
+                "file": "Working/GGJ monorepo/Step to implement.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5026054382324
+    "width": 261.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "10fe1423611578e8",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/GGJ monorepo/Summary GGJ Monorepo.md",
+                "file": "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/GGJ monorepo/Summary GGJ Monorepo.md",
+                "file": "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/GGJ monorepo/Summary GGJ Monorepo.md"
+                "file": "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md"
               }
             }
           },
@@ -207,12 +208,42 @@
         "height": 875,
         "maximize": false,
         "zoom": 1
+      },
+      {
+        "id": "fd9383a6d756e553",
+        "type": "window",
+        "children": [
+          {
+            "id": "59ec73f2d16504f7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aafbb324af6b2816",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 84,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 1
       }
     ]
   },
-  "active": "95cd355e568313f5",
+  "active": "aafbb324af6b2816",
   "lastOpenFiles": [
     "Working/GGJ monorepo/Step to implement.md",
+    "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md",
     "Working/GGJ monorepo/Summary GGJ Monorepo.md",
     "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
     "Working/GGJ monorepo/How to build.md",

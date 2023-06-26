@@ -35,11 +35,39 @@
 	git remote remove project-a
 	```
 	- `git mv source-dir/ dest/new-source-dir`
-3. Config turbo
+3. Add `typescript` support for `js` project
+4. Config turbo
 	- Define script
 	- Config turbo
-4. Verify version of package
-5. Build
+6. Verify version of package
+7. Build
 	- Dockerhub
 	- Test new docker
 	- Try to build
+
+
+### Brainstorm
+
+Biggest issue is merging repository.
+Repositories has developing code. 
+If I move it. The developing should not be in the old repository.
+
+💡**Solutions**
+1. Merge `staging` to `release` for both `api` and `sf`
+2. Merge master `sf` to -> master `api`
+3. Create new `staging` branch from `master` api
+4. Create `release` branch from  `staging` api
+
+![[Step to implement 2023-06-26 10.20.15.excalidraw]]
+
+
+
+
+
+
+
+
+
+
+
+

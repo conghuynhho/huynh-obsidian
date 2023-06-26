@@ -409,6 +409,16 @@
       {
         "heading": "Implement strategy",
         "level": 3
+      },
+      {
+        "heading": "Brainstorm",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Step to implement 2023-06-26 10.20.15.excalidraw",
+        "relativePath": "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md"
       }
     ]
   },
@@ -612,6 +622,41 @@
   {
     "fileName": "Roadmap",
     "relativePath": "Roadmap.md"
+  },
+  {
+    "fileName": "Step to implement 2023-06-26 10.20.15.excalidraw",
+    "relativePath": "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Text Elements",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Step to implement",
+        "link": "Step to implement 2023-06-26 10.20.15.excalidraw",
+        "relativePath": "Working/GGJ monorepo/Step to implement.md"
+      }
+    ]
   },
   {
     "fileName": "Sketch VNPay Result",
