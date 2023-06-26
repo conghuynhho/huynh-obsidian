@@ -13,8 +13,14 @@
 - /docs/
 	- abc
 	- xyz
+- /proxy
+	- labo
+	- ggj
+- /guard
+	- skijan
+	- myaccount
+	- ....
 - /statics/
-- /scripts/
 - /packages/
 	- ui-components
 	- shared-lib
