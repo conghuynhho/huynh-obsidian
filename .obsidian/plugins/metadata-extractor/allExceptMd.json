@@ -17,12 +17,12 @@
       "relativePath": "Templates"
     },
     {
-      "name": "Working",
-      "relativePath": "Working"
-    },
-    {
       "name": "Today I Learned",
       "relativePath": "Today I Learned"
+    },
+    {
+      "name": "Working",
+      "relativePath": "Working"
     },
     {
       "name": "GGJ monorepo",
@@ -35,14 +35,14 @@
   ],
   "nonMdFiles": [
     {
-      "name": "CleanShot 2023-06-02 at 16.09.04.png",
-      "basename": "CleanShot 2023-06-02 at 16.09.04",
-      "relativePath": "CleanShot 2023-06-02 at 16.09.04.png"
-    },
-    {
       "name": "CleanShot 2023-06-19 at 13.32.01.png",
       "basename": "CleanShot 2023-06-19 at 13.32.01",
       "relativePath": "CleanShot 2023-06-19 at 13.32.01.png"
+    },
+    {
+      "name": "CleanShot 2023-06-02 at 16.09.04.png",
+      "basename": "CleanShot 2023-06-02 at 16.09.04",
+      "relativePath": "CleanShot 2023-06-02 at 16.09.04.png"
     }
   ]
 }
