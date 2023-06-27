@@ -1,5 +1,15 @@
 [
   {
+    "fileName": "2023-06-27",
+    "relativePath": "2023-06-27.md",
+    "links": [
+      {
+        "link": "2023-06-27 2023-06-27 11.42.38.excalidraw",
+        "relativePath": "Excalidraw/2023-06-27 2023-06-27 11.42.38.excalidraw.md"
+      }
+    ]
+  },
+  {
     "fileName": "Untitled",
     "relativePath": "Untitled.md"
   },
@@ -626,6 +636,41 @@
   {
     "fileName": "Roadmap",
     "relativePath": "Roadmap.md"
+  },
+  {
+    "fileName": "2023-06-27 2023-06-27 11.42.38.excalidraw",
+    "relativePath": "Excalidraw/2023-06-27 2023-06-27 11.42.38.excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Text Elements",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-06-27",
+        "link": "2023-06-27 2023-06-27 11.42.38.excalidraw",
+        "relativePath": "2023-06-27.md"
+      }
+    ]
   },
   {
     "fileName": "Step to implement 2023-06-26 10.20.15.excalidraw",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working/GGJ monorepo/Step to implement.md",
+                "file": "2023-06-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/GGJ monorepo/Step to implement.md",
+                "file": "Excalidraw/2023-06-27 2023-06-27 11.42.38.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/GGJ monorepo/Step to implement.md",
+                "file": "Excalidraw/2023-06-27 2023-06-27 11.42.38.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/GGJ monorepo/Step to implement.md"
+                "file": "Excalidraw/2023-06-27 2023-06-27 11.42.38.excalidraw.md"
               }
             }
           },
@@ -190,13 +190,44 @@
         "height": 800,
         "maximize": true,
         "zoom": 1
+      },
+      {
+        "id": "2c0ff6949cf4f9f0",
+        "type": "window",
+        "children": [
+          {
+            "id": "6bad10859943d080",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9b100c43502bb75",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/2023-06-27 2023-06-27 11.42.38.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 84,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 1.5
       }
     ]
   },
-  "active": "b45bfb36dc651958",
+  "active": "f9b100c43502bb75",
   "lastOpenFiles": [
-    "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
+    "2023-06-27.md",
+    "Excalidraw/2023-06-27 2023-06-27 11.42.38.excalidraw.md",
     "Working/GGJ monorepo/Step to implement.md",
+    "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
     "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
     "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md",
     "Working/GGJ monorepo/Summary GGJ Monorepo.md",
@@ -224,8 +255,6 @@
     "Excalidraw/test.md",
     "Today I Learned/Git Alias (Multiple Command).md",
     "CleanShot 2023-06-02 at 16.09.04.png",
-    "Templates/Quicknotes.md",
-    "Working/Infinite scroll in community attachment.md",
     "Excalidraw",
     "Today I Learned",
     "Inteliji Idea",

@@ -23,8 +23,17 @@
 		- ....
 - /statics/
 - /packages/
-	- ui-components
-	- common-api
+	- common-api/
+		- shared/
+		- nestjs/
+		- loopback/
+		- skijan
+		- ggj
+		- ...
+	- common-gui/
+		- ui-components
+	- common-shared/
+		- ...
 	- common-guard
 	- tsconfig-bases
 	- eslint-config-bases
