@@ -16,7 +16,7 @@
 		- xyz
 	- /proxy
 		- labo
-		- ggj
+		- surface
 	- /guard
 		- skijan
 		- myaccount
