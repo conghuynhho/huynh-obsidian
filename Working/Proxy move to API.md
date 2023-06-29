@@ -84,9 +84,9 @@ in the build context root.
 
 **Step to do**
 - [x] Add variable in sheet `aws-config`
-- [ ] Finish stuff
-	- [ ] `buildspec`
-	- [ ] `build-docker.sh`
+- [x] Finish stuff
+	- [x] `buildspec`
+	- [x] `build-docker.sh`
 - [ ] build test new docker build at local
 - [ ] build on aws docker instance 
 - [ ] push to docker hub
