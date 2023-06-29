@@ -62,7 +62,12 @@ docker build -f path/to/Dockerfile dir
 docker take the `dir` as the context directory and sending all files in it to docker deamon
 `.dockerignore` is can not solved this issue because docker only look for `.dockerignore` at
 in the build context root.
+- https://medium.com/@LihauTan/took-me-hours-to-realise-why-docker-build-ignores-my-dockerignore-and-this-is-what-ive-learned-2f87c770ea9c
 
+> [!NOTE] Docker ignore
+> Before the docker CLI sends the context to the docker daemon, it looks for a file named `.dockerignore` in the root directory of the context. If this file exists, the CLI modifies the context to exclude files and directories that match patterns in it. This helps to avoid unnecessarily sending large or sensitive files and directories to the daemon and potentially adding them to images using `ADD` or `COPY`.
+
+> Docker CLI will only look for `.dockerignore` file in the root directory of the context, if you have a monorepo of multiple packages, make sure .dockerignore file is on the root directory of your context, it will ignore it if it is somewhere in the subfolder.
 
 > [!Warning] Compare files size sending to docker deamon
 > Before: `~500kb`
@@ -78,6 +83,7 @@ in the build context root.
 - correct docker file build
 
 **Step to do**
+- [x] Add variable in sheet `aws-config`
 - [ ] Finish stuff
 	- [ ] `buildspec`
 	- [ ] `build-docker.sh`
