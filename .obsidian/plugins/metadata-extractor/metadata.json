@@ -18,6 +18,24 @@
     ]
   },
   {
+    "fileName": "Vietnamese Address",
+    "relativePath": "Working/Vietnamese Address.md",
+    "headings": [
+      {
+        "heading": "Spec",
+        "level": 3
+      },
+      {
+        "heading": "Solution",
+        "level": 3
+      },
+      {
+        "heading": "Doing",
+        "level": 3
+      }
+    ]
+  },
+  {
     "fileName": "Payment Result VNPay",
     "relativePath": "Working/Payment Result VNPay.md",
     "headings": [
@@ -75,24 +93,6 @@
     ]
   },
   {
-    "fileName": "Vietnamese Address",
-    "relativePath": "Working/Vietnamese Address.md",
-    "headings": [
-      {
-        "heading": "Spec",
-        "level": 3
-      },
-      {
-        "heading": "Solution",
-        "level": 3
-      },
-      {
-        "heading": "Doing",
-        "level": 3
-      }
-    ]
-  },
-  {
     "fileName": "Infinite scroll in community attachment",
     "relativePath": "Working/Infinite scroll in community attachment.md",
     "headings": [
@@ -119,35 +119,72 @@
     ]
   },
   {
-    "fileName": "How to start",
-    "relativePath": "Working/GGJ monorepo/How to start.md",
+    "fileName": "Summary GGJ Monorepo",
+    "relativePath": "Working/GGJ monorepo/Summary GGJ Monorepo.md",
     "headings": [
       {
-        "heading": "Run using turbo",
+        "heading": "Workspace `node_modules`",
         "level": 3
       },
       {
-        "heading": "✅ Start group of service",
+        "heading": "Turbo feature",
         "level": 3
       },
       {
-        "heading": "✅ Start a separate service",
-        "level": 3
-      },
-      {
-        "heading": "In the long run.",
-        "level": 3
-      },
-      {
-        "heading": "Conclude",
+        "heading": "❓ How to",
         "level": 2
+      },
+      {
+        "heading": "How to build",
+        "level": 3
+      },
+      {
+        "heading": "How to start",
+        "level": 3
+      },
+      {
+        "heading": "How to add new library",
+        "level": 3
+      },
+      {
+        "heading": "How to add new workspace",
+        "level": 3
+      },
+      {
+        "heading": "How to use common package",
+        "level": 3
+      },
+      {
+        "heading": "Eslint, Lintstaged & Husky",
+        "level": 3
+      },
+      {
+        "heading": "Typescript",
+        "level": 3
+      },
+      {
+        "heading": "Issues",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Step to implement",
+    "relativePath": "Working/GGJ monorepo/Step to implement.md",
+    "headings": [
+      {
+        "heading": "Implement strategy",
+        "level": 3
+      },
+      {
+        "heading": "Brainstorm",
+        "level": 3
       }
     ],
-    "backlinks": [
+    "links": [
       {
-        "fileName": "R&D GGJ Turbo Repo",
-        "link": "How to start",
-        "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
+        "link": "Step to implement 2023-06-26 10.20.15.excalidraw",
+        "relativePath": "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md"
       }
     ]
   },
@@ -220,72 +257,35 @@
     ]
   },
   {
-    "fileName": "Step to implement",
-    "relativePath": "Working/GGJ monorepo/Step to implement.md",
+    "fileName": "How to start",
+    "relativePath": "Working/GGJ monorepo/How to start.md",
     "headings": [
       {
-        "heading": "Implement strategy",
+        "heading": "Run using turbo",
         "level": 3
       },
       {
-        "heading": "Brainstorm",
+        "heading": "✅ Start group of service",
         "level": 3
+      },
+      {
+        "heading": "✅ Start a separate service",
+        "level": 3
+      },
+      {
+        "heading": "In the long run.",
+        "level": 3
+      },
+      {
+        "heading": "Conclude",
+        "level": 2
       }
     ],
-    "links": [
+    "backlinks": [
       {
-        "link": "Step to implement 2023-06-26 10.20.15.excalidraw",
-        "relativePath": "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Summary GGJ Monorepo",
-    "relativePath": "Working/GGJ monorepo/Summary GGJ Monorepo.md",
-    "headings": [
-      {
-        "heading": "Workspace `node_modules`",
-        "level": 3
-      },
-      {
-        "heading": "Turbo feature",
-        "level": 3
-      },
-      {
-        "heading": "❓ How to",
-        "level": 2
-      },
-      {
-        "heading": "How to build",
-        "level": 3
-      },
-      {
-        "heading": "How to start",
-        "level": 3
-      },
-      {
-        "heading": "How to add new library",
-        "level": 3
-      },
-      {
-        "heading": "How to add new workspace",
-        "level": 3
-      },
-      {
-        "heading": "How to use common package",
-        "level": 3
-      },
-      {
-        "heading": "Eslint, Lintstaged & Husky",
-        "level": 3
-      },
-      {
-        "heading": "Typescript",
-        "level": 3
-      },
-      {
-        "heading": "Issues",
-        "level": 3
+        "fileName": "R&D GGJ Turbo Repo",
+        "link": "How to start",
+        "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
       }
     ]
   },
@@ -312,27 +312,6 @@
       {
         "fileName": "R&D GGJ Turbo Repo",
         "link": "How to build",
-        "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
-      }
-    ]
-  },
-  {
-    "fileName": "pnpm Research",
-    "relativePath": "Working/GGJ monorepo/Archived/pnpm Research.md",
-    "headings": [
-      {
-        "heading": "Breakdown",
-        "level": 3
-      },
-      {
-        "heading": "Test",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "R&D GGJ Turbo Repo",
-        "link": "pnpm Research",
         "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
       }
     ]
@@ -368,6 +347,27 @@
       {
         "heading": "gui",
         "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "pnpm Research",
+    "relativePath": "Working/GGJ monorepo/Archived/pnpm Research.md",
+    "headings": [
+      {
+        "heading": "Breakdown",
+        "level": 3
+      },
+      {
+        "heading": "Test",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "R&D GGJ Turbo Repo",
+        "link": "pnpm Research",
+        "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
       }
     ]
   },
@@ -442,6 +442,16 @@
     ]
   },
   {
+    "fileName": "Tmux Prefix",
+    "relativePath": "Today I Learned/Tmux Prefix.md",
+    "headings": [
+      {
+        "heading": "Avoid using `C-i` as prefix",
+        "level": 3
+      }
+    ]
+  },
+  {
     "fileName": "React useTransition and useDeferredValue",
     "relativePath": "Today I Learned/React useTransition and useDeferredValue.md",
     "headings": [
@@ -452,6 +462,24 @@
       {
         "heading": "`useDeferredValue`",
         "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Ideavim config for clipboard",
+    "relativePath": "Today I Learned/Ideavim config for clipboard.md",
+    "headings": [
+      {
+        "heading": "Buffer",
+        "level": 3
+      },
+      {
+        "heading": "Clipboard",
+        "level": 3
+      },
+      {
+        "heading": "Not doing anything",
+        "level": 3
       }
     ]
   },
@@ -474,40 +502,12 @@
     ]
   },
   {
-    "fileName": "Tmux Prefix",
-    "relativePath": "Today I Learned/Tmux Prefix.md",
-    "headings": [
-      {
-        "heading": "Avoid using `C-i` as prefix",
-        "level": 3
-      }
-    ]
-  },
-  {
     "fileName": "Git Alias (Multiple Command)",
     "relativePath": "Today I Learned/Git Alias (Multiple Command).md",
     "headings": [
       {
         "heading": "How to run multiple command in one git alias",
         "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "Ideavim config for clipboard",
-    "relativePath": "Today I Learned/Ideavim config for clipboard.md",
-    "headings": [
-      {
-        "heading": "Buffer",
-        "level": 3
-      },
-      {
-        "heading": "Clipboard",
-        "level": 3
-      },
-      {
-        "heading": "Not doing anything",
-        "level": 3
       }
     ]
   },
@@ -574,10 +574,6 @@
     "relativePath": "Templates/TIL Template.md"
   },
   {
-    "fileName": "Quicknotes",
-    "relativePath": "Templates/Quicknotes.md"
-  },
-  {
     "fileName": "Release Template",
     "relativePath": "Templates/Release Template.md",
     "headings": [
@@ -610,6 +606,10 @@
         "level": 2
       }
     ]
+  },
+  {
+    "fileName": "Quicknotes",
+    "relativePath": "Templates/Quicknotes.md"
   },
   {
     "fileName": "DrawingTemplate.excalidraw",
@@ -709,41 +709,6 @@
     ]
   },
   {
-    "fileName": "2023-06-27 2023-06-27 11.42.38.excalidraw",
-    "relativePath": "Excalidraw/2023-06-27 2023-06-27 11.42.38.excalidraw.md",
-    "tags": [
-      "excalidraw"
-    ],
-    "frontmatter": {
-      "excalidraw-plugin": "parsed",
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 54
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Text Elements",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "2023-06-27",
-        "link": "2023-06-27 2023-06-27 11.42.38.excalidraw",
-        "relativePath": "2023-06-27.md"
-      }
-    ]
-  },
-  {
     "fileName": "How to build 2023-06-20 17.56.29.excalidraw",
     "relativePath": "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
     "tags": [
@@ -803,6 +768,41 @@
       {
         "heading": "Text Elements",
         "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "2023-06-27 2023-06-27 11.42.38.excalidraw",
+    "relativePath": "Excalidraw/2023-06-27 2023-06-27 11.42.38.excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Text Elements",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-06-27",
+        "link": "2023-06-27 2023-06-27 11.42.38.excalidraw",
+        "relativePath": "2023-06-27.md"
       }
     ]
   },

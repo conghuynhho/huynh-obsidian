@@ -87,9 +87,9 @@ in the build context root.
 - [x] Finish stuff
 	- [x] `buildspec`
 	- [x] `build-docker.sh`
-- [ ] build test new docker build at local
-- [ ] build on aws docker instance 
-- [ ] push to docker hub
+- [x] build test new docker build at local
+- [x] build on aws docker instance 
+- [x] push to docker hub
 - [ ] change sheet aws-config
 - [ ] correct docker in each service
 - [ ] build test.
