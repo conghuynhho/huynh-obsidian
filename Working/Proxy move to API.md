@@ -54,4 +54,15 @@ List down packages:
 
 Because we are build docker at the root of repository. Now it is a big repository.
 Unnessary files and directories will be send into docker deamon.
-Docker 
+
+```bash
+docker build -f path/to/Dockerfile dir
+```
+
+docker take the `dir` as the context directory and sending all files in it to docker deamon
+`.dockerignore` is can not solved this issue because docker only look for `.dockerignore` at
+in the build context root.
+
+
+
+
