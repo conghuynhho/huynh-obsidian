@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e437fa8ec0515b1b",
+        "id": "3c20592af8669708",
         "type": "tabs",
         "children": [
           {
-            "id": "99100e64e70955e2",
+            "id": "22656a8d94329b1d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md"
+                "file": "Working/Vietnamese Address.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5026054382324,
-    "collapsed": true
+    "width": 261.5026054382324
   },
   "right": {
     "id": "10fe1423611578e8",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
+                "file": "Working/Vietnamese Address.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
+                "file": "Working/Vietnamese Address.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md"
+                "file": "Working/Vietnamese Address.md"
               }
             }
           },
@@ -156,8 +157,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "99100e64e70955e2",
+  "active": "22656a8d94329b1d",
   "lastOpenFiles": [
+    "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
     "Excalidraw/2023-06-27 2023-06-27 11.42.38.excalidraw.md",
     "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md",
     "Working/GGJ monorepo/Summary GGJ Monorepo.md",
@@ -170,7 +172,6 @@
     "CleanShot 2023-06-02 at 16.09.04.png",
     "Untitled.md",
     "2023-06-09.md",
-    "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
     "Today I Learned/Explore Mono Turbo Repo.md",
     "Working/GGJ monorepo/Archived/pnpm Research.md",
     "Working/GGJ monorepo/Archived/tsconfig.json.md",
