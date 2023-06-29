@@ -77,3 +77,21 @@ in the build context root.
 
 - correct docker file build
 
+**Step to do**
+- [ ] Finish stuff
+	- [ ] `buildspec`
+	- [ ] `build-docker.sh`
+- [ ] build test new docker build at local
+- [ ] build on aws docker instance 
+- [ ] push to docker hub
+- [ ] change sheet aws-config
+- [ ] correct docker in each service
+- [ ] build test.
+
+
+
+> [!Error] `turbo prune` issues
+> The prune output with `--docker` flag will create `out` dir.
+> This directory won't have the `dockerignore` in the root. We suppose to run docker build in this `out` dir, but please consider `dockeringore` when implement turbo
+
+
