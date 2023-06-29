@@ -64,5 +64,16 @@ docker take the `dir` as the context directory and sending all files in it to do
 in the build context root.
 
 
+> [!Warning] Compare files size sending to docker deamon
+> Before: `~500kb`
+> After: `60MB`
 
+**Solution**
+- create new docker build
+	- create new `buildspec`
+		- change `build-docker.sh` file path
+	- create new `build-docker.sh`
+		- change `dir` of docker build command
+
+- correct docker file build
 
