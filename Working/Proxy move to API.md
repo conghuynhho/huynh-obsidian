@@ -112,9 +112,11 @@ aws ecr get-login-password --region $AWS_DEFAULT_REGION | docker login --usernam
 ```shell-script
 sudo systemctl start docker
 
-
 docker build -f ./codebuild-img/Dockerfile-node-14.18.0-v2.0 -t gogojungle/nodejs_14.18.0_codebuild:1.1 .
 
+docker login
+
+docker push gogojungle/nodejs_14.18.0_codebuild:1.1
 
 ```
 
