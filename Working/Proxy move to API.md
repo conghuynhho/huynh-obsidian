@@ -122,7 +122,20 @@ docker push gogojungle/nodejs_14.18.0_codebuild:1.1
 
 
 
-**Dock**
+**Docker build on amazon linux error**
+https://github.com/moby/moby/blob/20.10/profiles/seccomp/default.json
 
+due to seccomp secure option
+https://docs.docker.com/engine/reference/commandline/dockerd/#daemon-configuration-file
 
+Configure Docker to use the seccomp profile:
+
+a. Edit the Docker daemon configuration file: Open the Docker daemon configuration file in a text editor. The location of the file depends on your Linux distribution:
+
+- Ubuntu/Debian: `/etc/docker/daemon.json`
+- CentOS/RHEL: `/etc/docker/daemon.json`
+- Amazon Linux: `/etc/sysconfig/docker`
+```
+OPTIONS="--seccomp-profile=/path/to/seccomp/profile.json"
+```
 
