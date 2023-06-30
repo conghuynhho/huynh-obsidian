@@ -101,3 +101,19 @@ in the build context root.
 > This directory won't have the `dockerignore` in the root. We suppose to run docker build in this `out` dir, but please consider `dockeringore` when implement turbo
 
 
+
+
+
+
+```
+aws ecr get-login-password --region $AWS_DEFAULT_REGION | docker login --username AWS --password-stdin $AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com
+```
+
+
+
+
+
+
+
+
+
