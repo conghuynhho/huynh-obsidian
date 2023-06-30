@@ -109,7 +109,14 @@ in the build context root.
 aws ecr get-login-password --region $AWS_DEFAULT_REGION | docker login --username AWS --password-stdin $AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com
 ```
 
+```shell-script
+sudo systemctl start docker
 
+
+docker build -f ./codebuild-img/Dockerfile-node-14.18.0-v2.0 -t gogojungle/nodejs_14.18.0_codebuild:1.1 .
+
+
+```
 
 
 
