@@ -1,5 +1,7 @@
 
-### Proxy labo
+### proxy-labo & proxy-sf
+
+**Branch**: [OAM-105766](https://github.com/gogojungle/api.gogojungle.co.jp)
 
 ?? move to api ???
 	- edit code build
@@ -90,9 +92,9 @@ in the build context root.
 - [x] build test new docker build at local
 - [x] build on aws docker instance 
 - [x] push to docker hub
-- [ ] change sheet aws-config
-- [ ] correct docker in each service
-- [ ] build test.
+- [x] change sheet aws-config
+- [x] correct docker in each service
+- [x] build test.
 
 
 
@@ -138,4 +140,3 @@ a. Edit the Docker daemon configuration file: Open the Docker daemon configurati
 ```
 OPTIONS="--seccomp-profile=/path/to/seccomp/profile.json"
 ```
-

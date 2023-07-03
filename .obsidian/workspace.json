@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "124f2c502ed10d7a",
+        "id": "42ff731aa4ccfa50",
         "type": "tabs",
         "children": [
           {
-            "id": "a8a4b27fd2a5f1bd",
+            "id": "1fe05db2d26c775d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Working/Proxy move to API.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/Proxy move to API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/Proxy move to API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Working/Proxy move to API.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,13 +149,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8a4b27fd2a5f1bd",
+  "active": "1fe05db2d26c775d",
   "lastOpenFiles": [
+    "Working/Proxy move to API.md",
     "Today I Learned/Ideavim config for clipboard.md",
     "Today I Learned/React useTransition and useDeferredValue.md",
     "Today I Learned/Symlink too much level.md",
     "Today I Learned/Git Alias (Multiple Command).md",
-    "Working/Proxy move to API.md",
     "Untitled.md",
     "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
     "Working/GGJ monorepo/Archived/pnpm Research.md",
