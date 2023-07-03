@@ -1,41 +1,5 @@
 [
   {
-    "fileName": "Vietnamese Address",
-    "relativePath": "Working/Vietnamese Address.md",
-    "headings": [
-      {
-        "heading": "Spec",
-        "level": 3
-      },
-      {
-        "heading": "Solution",
-        "level": 3
-      },
-      {
-        "heading": "Doing",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Proxy move to API",
-    "relativePath": "Working/Proxy move to API.md",
-    "headings": [
-      {
-        "heading": "Proxy labo",
-        "level": 3
-      },
-      {
-        "heading": "Change build config",
-        "level": 3
-      },
-      {
-        "heading": "Docker context size",
-        "level": 4
-      }
-    ]
-  },
-  {
     "fileName": "Payment Result VNPay",
     "relativePath": "Working/Payment Result VNPay.md",
     "headings": [
@@ -93,6 +57,42 @@
     ]
   },
   {
+    "fileName": "Vietnamese Address",
+    "relativePath": "Working/Vietnamese Address.md",
+    "headings": [
+      {
+        "heading": "Spec",
+        "level": 3
+      },
+      {
+        "heading": "Solution",
+        "level": 3
+      },
+      {
+        "heading": "Doing",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Proxy move to API",
+    "relativePath": "Working/Proxy move to API.md",
+    "headings": [
+      {
+        "heading": "Proxy labo",
+        "level": 3
+      },
+      {
+        "heading": "Change build config",
+        "level": 3
+      },
+      {
+        "heading": "Docker context size",
+        "level": 4
+      }
+    ]
+  },
+  {
     "fileName": "Infinite scroll in community attachment",
     "relativePath": "Working/Infinite scroll in community attachment.md",
     "headings": [
@@ -115,76 +115,6 @@
       {
         "heading": "Concern",
         "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Summary GGJ Monorepo",
-    "relativePath": "Working/GGJ monorepo/Summary GGJ Monorepo.md",
-    "headings": [
-      {
-        "heading": "Workspace `node_modules`",
-        "level": 3
-      },
-      {
-        "heading": "Turbo feature",
-        "level": 3
-      },
-      {
-        "heading": "❓ How to",
-        "level": 2
-      },
-      {
-        "heading": "How to build",
-        "level": 3
-      },
-      {
-        "heading": "How to start",
-        "level": 3
-      },
-      {
-        "heading": "How to add new library",
-        "level": 3
-      },
-      {
-        "heading": "How to add new workspace",
-        "level": 3
-      },
-      {
-        "heading": "How to use common package",
-        "level": 3
-      },
-      {
-        "heading": "Eslint, Lintstaged & Husky",
-        "level": 3
-      },
-      {
-        "heading": "Typescript",
-        "level": 3
-      },
-      {
-        "heading": "Issues",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Step to implement",
-    "relativePath": "Working/GGJ monorepo/Step to implement.md",
-    "headings": [
-      {
-        "heading": "Implement strategy",
-        "level": 3
-      },
-      {
-        "heading": "Brainstorm",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Step to implement 2023-06-26 10.20.15.excalidraw",
-        "relativePath": "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md"
       }
     ]
   },
@@ -253,6 +183,76 @@
       {
         "link": "How to build",
         "relativePath": "Working/GGJ monorepo/How to build.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Step to implement",
+    "relativePath": "Working/GGJ monorepo/Step to implement.md",
+    "headings": [
+      {
+        "heading": "Implement strategy",
+        "level": 3
+      },
+      {
+        "heading": "Brainstorm",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Step to implement 2023-06-26 10.20.15.excalidraw",
+        "relativePath": "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Summary GGJ Monorepo",
+    "relativePath": "Working/GGJ monorepo/Summary GGJ Monorepo.md",
+    "headings": [
+      {
+        "heading": "Workspace `node_modules`",
+        "level": 3
+      },
+      {
+        "heading": "Turbo feature",
+        "level": 3
+      },
+      {
+        "heading": "❓ How to",
+        "level": 2
+      },
+      {
+        "heading": "How to build",
+        "level": 3
+      },
+      {
+        "heading": "How to start",
+        "level": 3
+      },
+      {
+        "heading": "How to add new library",
+        "level": 3
+      },
+      {
+        "heading": "How to add new workspace",
+        "level": 3
+      },
+      {
+        "heading": "How to use common package",
+        "level": 3
+      },
+      {
+        "heading": "Eslint, Lintstaged & Husky",
+        "level": 3
+      },
+      {
+        "heading": "Typescript",
+        "level": 3
+      },
+      {
+        "heading": "Issues",
+        "level": 3
       }
     ]
   },
@@ -452,6 +452,10 @@
     ]
   },
   {
+    "fileName": "Symlink too much level",
+    "relativePath": "Today I Learned/Symlink too much level.md"
+  },
+  {
     "fileName": "React useTransition and useDeferredValue",
     "relativePath": "Today I Learned/React useTransition and useDeferredValue.md",
     "headings": [
@@ -484,6 +488,32 @@
     ]
   },
   {
+    "fileName": "Explore Mono Turbo Repo",
+    "relativePath": "Today I Learned/Explore Mono Turbo Repo.md",
+    "headings": [
+      {
+        "heading": "First look",
+        "level": 2
+      },
+      {
+        "heading": "1. Workspace task dependency with handy customization using this [strategy](https://turbo.build/repo/docs/core-concepts/monorepos/task-dependencies#from-arbitrary-workspaces)",
+        "level": 3
+      },
+      {
+        "heading": "2. How `workspaces` work with dependencies in node_modules",
+        "level": 3
+      },
+      {
+        "heading": "",
+        "level": 3
+      },
+      {
+        "heading": "References",
+        "level": 3
+      }
+    ]
+  },
+  {
     "fileName": "How to store environment variable in NextJS",
     "relativePath": "Today I Learned/How to store environment variable in NextJS.md",
     "headings": [
@@ -508,32 +538,6 @@
       {
         "heading": "How to run multiple command in one git alias",
         "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "Explore Mono Turbo Repo",
-    "relativePath": "Today I Learned/Explore Mono Turbo Repo.md",
-    "headings": [
-      {
-        "heading": "First look",
-        "level": 2
-      },
-      {
-        "heading": "1. Workspace task dependency with handy customization using this [strategy](https://turbo.build/repo/docs/core-concepts/monorepos/task-dependencies#from-arbitrary-workspaces)",
-        "level": 3
-      },
-      {
-        "heading": "2. How `workspaces` work with dependencies in node_modules",
-        "level": 3
-      },
-      {
-        "heading": "",
-        "level": 3
-      },
-      {
-        "heading": "References",
-        "level": 3
       }
     ]
   },
@@ -638,6 +642,42 @@
     "relativePath": "Roadmap.md"
   },
   {
+    "fileName": "Sketch VNPay Result",
+    "relativePath": "Excalidraw/Sketch VNPay Result.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Text Elements",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Payment Result VNPay",
+        "link": "Sketch VNPay Result",
+        "relativePath": "Working/Payment Result VNPay.md",
+        "displayText": "UI Sketch"
+      }
+    ]
+  },
+  {
     "fileName": "Step to implement 2023-06-26 10.20.15.excalidraw",
     "relativePath": "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md",
     "tags": [
@@ -673,8 +713,8 @@
     ]
   },
   {
-    "fileName": "Sketch VNPay Result",
-    "relativePath": "Excalidraw/Sketch VNPay Result.md",
+    "fileName": "2023-06-27 2023-06-27 11.42.38.excalidraw",
+    "relativePath": "Excalidraw/2023-06-27 2023-06-27 11.42.38.excalidraw.md",
     "tags": [
       "excalidraw"
     ],
@@ -701,10 +741,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "Payment Result VNPay",
-        "link": "Sketch VNPay Result",
-        "relativePath": "Working/Payment Result VNPay.md",
-        "displayText": "UI Sketch"
+        "fileName": "2023-06-27",
+        "link": "2023-06-27 2023-06-27 11.42.38.excalidraw",
+        "relativePath": "2023-06-27.md"
       }
     ]
   },
@@ -768,41 +807,6 @@
       {
         "heading": "Text Elements",
         "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "2023-06-27 2023-06-27 11.42.38.excalidraw",
-    "relativePath": "Excalidraw/2023-06-27 2023-06-27 11.42.38.excalidraw.md",
-    "tags": [
-      "excalidraw"
-    ],
-    "frontmatter": {
-      "excalidraw-plugin": "parsed",
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 54
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Text Elements",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "2023-06-27",
-        "link": "2023-06-27 2023-06-27 11.42.38.excalidraw",
-        "relativePath": "2023-06-27.md"
       }
     ]
   },
