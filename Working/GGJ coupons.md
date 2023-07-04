@@ -31,3 +31,12 @@
 
 
 - Edit bottom button in product detail page.
+
+Remains:
+- Bugs GogoModal when initial `isShow = true`
+- CouponItem
+- CouponTooltip
+
+- Change detail page
+- Change empty cart page
+
