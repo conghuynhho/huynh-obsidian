@@ -36,7 +36,7 @@ Remains:
 - [x] Bugs GogoModal when initial `isShow = true`
 - [x] CouponItem
 - CouponTooltip
-- Coupon Bottomsheet
+- [x] Coupon Bottomsheet
 
 - Change detail page
 - Change empty cart page
