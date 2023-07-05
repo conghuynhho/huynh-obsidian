@@ -40,3 +40,7 @@ Remains:
 - Change detail page
 - Change empty cart page
 
+
+Refactor:
+- Refactor component `<CustomModalCoupon />`
+
