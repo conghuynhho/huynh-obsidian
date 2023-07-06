@@ -45,4 +45,5 @@ Remains:
 Refactor:
 - Refactor component `<CustomModalCoupon />`
 - Correct position tooltip.
+- add i18n
 
