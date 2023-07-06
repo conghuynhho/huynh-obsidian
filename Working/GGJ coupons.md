@@ -46,7 +46,7 @@ Refactor & Todo:
 - Refactor component `<CustomModalCoupon />`
 - Correct position tooltip.
 - add i18n
-- hide coupon if not logged in
+- [x] hide coupon if not logged in
 - add debounce and processing selectCoupon
 - remove component Coupon `/Users/huynh/GGJ/surface.gogojungle.co.jp/components/cart/Coupon/index.vue`
 
