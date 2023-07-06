@@ -48,8 +48,8 @@ Refactor & Todo:
 - add i18n
 - [x] hide coupon if not logged in
 - add debounce and processing selectCoupon
-- remove component Coupon `/Users/huynh/GGJ/surface.gogojungle.co.jp/components/cart/Coupon/index.vue`
-- centralize `gtag` script
+- remove redundant component Coupon `/Users/huynh/GGJ/surface.gogojungle.co.jp/components/cart/Coupon/index.vue`
+- implement and centralize `gtag` script
 - [x] selected coupon always on top
 - [ ] smooth reorder coupon animation.
 
