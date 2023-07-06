@@ -42,15 +42,19 @@ Remains:
 - [x] Change empty cart page
 
 
-Refactor:
+Refactor & Todo:
 - Refactor component `<CustomModalCoupon />`
 - Correct position tooltip.
 - add i18n
+- case not login user redirect when click coupon
 
 
 **Integration**
 
-1. Get list coupons
-	- only get on enter page??
-1. Select coupon
-2. Change coupon
+ Get list coupons
+	- only get on enter page
+
+ Select coupon
+	 - 
+ Change coupon
+
