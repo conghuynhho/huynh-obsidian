@@ -49,6 +49,7 @@ Refactor & Todo:
 - [x] hide coupon if not logged in
 - add debounce and processing selectCoupon
 - remove component Coupon `/Users/huynh/GGJ/surface.gogojungle.co.jp/components/cart/Coupon/index.vue`
+- centralize `gtag` script
 
 
 **Integration**
