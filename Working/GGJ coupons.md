@@ -39,7 +39,7 @@ Remains:
 - [x] Coupon Bottomsheet
 
 - Change detail page
-- Change empty cart page
+- [x] Change empty cart page
 
 
 Refactor:
