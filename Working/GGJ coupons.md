@@ -50,14 +50,16 @@ Refactor & Todo:
 - add debounce and processing selectCoupon
 - remove component Coupon `/Users/huynh/GGJ/surface.gogojungle.co.jp/components/cart/Coupon/index.vue`
 - centralize `gtag` script
+- [x] selected coupon always on top
+- [ ] smooth reorder coupon animation.
+
+https://medium.com/developers-writing/animating-the-unanimatable-1346a5aab3cd
 
 
 **Integration**
 
- Get list coupons
-	- only get on enter page
-
- Select coupon
-	 - 
- Change coupon
+ - [x] Get list coupons
+	- [x] only get on enter page
+ - [x] Select coupon
+ - [x] Change coupon
 
