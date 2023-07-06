@@ -35,7 +35,7 @@
 Remains:
 - [x] Bugs GogoModal when initial `isShow = true`
 - [x] CouponItem
-- CouponTooltip
+- [x] CouponTooltip
 - [x] Coupon Bottomsheet
 
 - Change detail page
@@ -44,4 +44,5 @@ Remains:
 
 Refactor:
 - Refactor component `<CustomModalCoupon />`
+- Correct position tooltip.
 
