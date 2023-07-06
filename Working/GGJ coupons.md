@@ -47,3 +47,10 @@ Refactor:
 - Correct position tooltip.
 - add i18n
 
+
+**Integration**
+
+1. Get list coupons
+	- only get on enter page??
+1. Select coupon
+2. Change coupon
