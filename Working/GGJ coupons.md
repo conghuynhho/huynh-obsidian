@@ -54,7 +54,7 @@ Refactor & Todo:
 - [ ] smooth reorder coupon animation.
 
 https://medium.com/developers-writing/animating-the-unanimatable-1346a5aab3cd
-
+https://dev-bay.com/popover-on-hover-in-vuejs/
 
 **Integration**
 
