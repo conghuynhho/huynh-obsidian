@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabYoutube",
       "⛑",
       "🛼",
       "📗",
-      "LiCode",
-      "LiTerminal-square"
+      "LiCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,5 +25,6 @@
   "Temp": "LiTrash",
   "Working": "⛑",
   "Templates": "🛼",
-  "Today I Learned": "📗"
+  "Today I Learned": "📗",
+  "Youtube": "FabYoutube"
 }
