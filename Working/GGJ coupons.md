@@ -47,7 +47,7 @@ Refactor & Todo:
 - Correct position tooltip.
 - add i18n
 - [x] hide coupon if not logged in
-- add debounce and processing selectCoupon
+- [x] add debounce and processing selectCoupon
 - remove redundant component Coupon `/Users/huynh/GGJ/surface.gogojungle.co.jp/components/cart/Coupon/index.vue`
 - implement and centralize `gtag` script
 - [x] selected coupon always on top
