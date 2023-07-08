@@ -1,5 +1,32 @@
 [
   {
+    "fileName": "First step",
+    "relativePath": "Youtube/First step.md",
+    "backlinks": [
+      {
+        "fileName": "Just Write Down WIT",
+        "link": "First step",
+        "relativePath": "Just Write Down WIT.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Just Write Down WIT",
+    "relativePath": "Just Write Down WIT.md",
+    "headings": [
+      {
+        "heading": "Plan to do it",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "First step",
+        "relativePath": "Youtube/First step.md"
+      }
+    ]
+  },
+  {
     "fileName": "Typescript Generic Auto Inter Type",
     "relativePath": "Today I Learned/Typescript Generic Auto Inter Type.md",
     "headings": [

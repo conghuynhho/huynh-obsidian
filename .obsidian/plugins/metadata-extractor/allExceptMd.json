@@ -31,6 +31,10 @@
     {
       "name": "Archived",
       "relativePath": "Working/GGJ monorepo/Archived"
+    },
+    {
+      "name": "Youtube",
+      "relativePath": "Youtube"
     }
   ],
   "nonMdFiles": [
