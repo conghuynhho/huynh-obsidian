@@ -45,6 +45,8 @@ Remains:
 Refactor & Todo:
 - Refactor component `<CustomModalCoupon />`
 - Correct position tooltip.
+	- make mouse leave from the target as smoothly as possible
+	- setPosition for tooltip every screen size change
 - [x] add i18n
 - [x] hide coupon if not logged in
 - [x] add debounce and processing selectCoupon
