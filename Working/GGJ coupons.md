@@ -45,7 +45,7 @@ Remains:
 Refactor & Todo:
 - Refactor component `<CustomModalCoupon />`
 - Correct position tooltip.
-- add i18n
+- [x] add i18n
 - [x] hide coupon if not logged in
 - [x] add debounce and processing selectCoupon
 - remove redundant component Coupon `/Users/huynh/GGJ/surface.gogojungle.co.jp/components/cart/Coupon/index.vue`
@@ -53,6 +53,7 @@ Refactor & Todo:
 - [x] selected coupon always on top
 - [ ] smooth reorder coupon animation.
 - [ ] Error handling
+- [ ] Request takes too long to add coupon
 
 https://medium.com/developers-writing/animating-the-unanimatable-1346a5aab3cd
 https://dev-bay.com/popover-on-hover-in-vuejs/
