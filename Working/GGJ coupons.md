@@ -43,20 +43,20 @@ Remains:
 
 
 Refactor & Todo:
-- Refactor component `<CustomModalCoupon />`
-- Correct position tooltip.
-	- [ ] make mouse leave from the target as smoothly as possible
-	- [ ] position more UX
+- [ ] Refactor component `<CustomModalCoupon />`
+- [ ] remove redundant component Coupon `/Users/huynh/GGJ/surface.gogojungle.co.jp/components/cart/Coupon/index.vue`
+- [ ] smooth reorder coupon animation.
+- [ ] Error handling
+- implement and centralize `gtag` script
+	- 
+- [x] Correct position tooltip.
+	- [x] make mouse leave from the target as smoothly as possible
+	- [x] position more UX
 	- [x] setPosition for tooltip every screen size change
 - [x] add i18n
 - [x] hide coupon if not logged in
 - [x] add debounce and processing selectCoupon
-- remove redundant component Coupon `/Users/huynh/GGJ/surface.gogojungle.co.jp/components/cart/Coupon/index.vue`
-- implement and centralize `gtag` script
-	- 
 - [x] selected coupon always on top
-- [ ] smooth reorder coupon animation.
-- [ ] Error handling
 - [x] Request takes too long to add coupon
 
 https://medium.com/developers-writing/animating-the-unanimatable-1346a5aab3cd
