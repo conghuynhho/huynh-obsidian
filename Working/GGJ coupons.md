@@ -47,8 +47,7 @@ Refactor & Todo:
 - [ ] remove redundant component Coupon `/Users/huynh/GGJ/surface.gogojungle.co.jp/components/cart/Coupon/index.vue`
 - [ ] smooth reorder coupon animation.
 - [ ] Error handling
-- implement and centralize `gtag` script
-	- 
+- [x] implement and centralize `gtag` script
 - [x] Correct position tooltip.
 	- [x] make mouse leave from the target as smoothly as possible
 	- [x] position more UX
