@@ -72,3 +72,9 @@ https://dev-bay.com/popover-on-hover-in-vuejs/
 **Sheet need to translate**
 - [ ] https://docs.google.com/spreadsheets/d/1mwq0fC6dAmf2-oGvee1IvWHFImG2ee0YI1iIVnALVZ4/edit#gid=71805319
 - [ ] https://docs.google.com/spreadsheets/d/1n_w4_oOPId9RePjnEg6eHmC3vdEv2wyAazMrlOZBbcg/edit#gid=1667781120
+
+
+```tsx
+ele.style.top = `${Math.min(top, viewportHeight - eleRect.height - 20)}px`  
+ele.style.left = `${Math.min(left, viewportWidth - eleRect.width - 20)}px`
+```
