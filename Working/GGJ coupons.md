@@ -52,6 +52,7 @@ Refactor & Todo:
 - implement and centralize `gtag` script
 - [x] selected coupon always on top
 - [ ] smooth reorder coupon animation.
+- [ ] Error handling
 
 https://medium.com/developers-writing/animating-the-unanimatable-1346a5aab3cd
 https://dev-bay.com/popover-on-hover-in-vuejs/
