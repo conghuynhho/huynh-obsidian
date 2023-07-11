@@ -47,9 +47,10 @@ Refactor & Todo:
 - [ ] remove redundant component Coupon `/Users/huynh/GGJ/surface.gogojungle.co.jp/components/cart/Coupon/index.vue`
 - [ ] smooth reorder coupon animation.
 - [ ] Error handling
-	- [ ] store errorCode in store
-	- [ ] store isShowError modal
-	- [ ] if has errorCode refetch the coupons.
+	- [x] store errorCode in store
+	- [x] store isShowError modal
+	- [x] if has errorCode refetch the coupons.
+	- [ ] error message
 - [x] Disable coupon if not in min price to use.
 	- [ ] Correct using value get from api
 - [x] implement and centralize `gtag` script
