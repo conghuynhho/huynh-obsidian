@@ -50,7 +50,8 @@ Refactor & Todo:
 	- [ ] store errorCode in store
 	- [ ] store isShowError modal
 	- [ ] if has errorCode refetch the coupons.
-- [ ] Disable coupon if not in min price to use.
+- [x] Disable coupon if not in min price to use.
+	- [ ] Correct using value get from api
 - [x] implement and centralize `gtag` script
 - [x] Correct position tooltip.
 	- [x] make mouse leave from the target as smoothly as possible
