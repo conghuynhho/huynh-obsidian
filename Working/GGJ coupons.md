@@ -49,7 +49,6 @@ Refactor & Todo:
 - [ ] Error handling
 	- [x] store errorCode in store
 	- [x] store isShowError modal
-	- [x] if has errorCode refetch the coupons.
 	- [ ] error message
 	- [ ] consider which error to disable coupon
 - [x] Disable coupon if not in min price to use.
