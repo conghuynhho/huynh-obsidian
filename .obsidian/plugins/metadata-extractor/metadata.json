@@ -179,6 +179,10 @@
     "relativePath": "Today I Learned/Create an alfred workflow.md",
     "headings": [
       {
+        "heading": "How to run command in background",
+        "level": 4
+      },
+      {
         "heading": "Alfred with obsidian",
         "level": 2
       }
