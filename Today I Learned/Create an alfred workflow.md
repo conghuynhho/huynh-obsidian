@@ -1,3 +1,10 @@
+
+#### How to run command in background
+- Create a `Run Script` task667171.
+- In that you need to `source ~/.zprofile ~/.zshrc`
+- Go ahead and use your command.
+
+
 ```bash
 #!/bin/bash
 

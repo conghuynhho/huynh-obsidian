@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working/GGJ coupons.md",
+                "file": "Today I Learned/Create an alfred workflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/GGJ coupons.md",
+                "file": "Today I Learned/Create an alfred workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/GGJ coupons.md",
+                "file": "Today I Learned/Create an alfred workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/GGJ coupons.md"
+                "file": "Today I Learned/Create an alfred workflow.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   },
   "active": "57430363cbe57245",
   "lastOpenFiles": [
+    "Working/GGJ coupons.md",
     "Working/Payment Result VNPay.md",
     "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
     "Working/GGJ monorepo/Archived/tsconfig.json.md",
@@ -191,7 +192,6 @@
     "Working/GGJ monorepo/Step to implement.md",
     "Attachments/CleanShot 2023-06-19 at 13.32.01.png",
     "Attachments/CleanShot 2023-06-02 at 16.09.04.png",
-    "Working/GGJ coupons.md",
     "Attachments",
     "Just Write Down WIT.md",
     "Youtube/First step.md",
