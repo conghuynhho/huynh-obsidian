@@ -49,8 +49,8 @@ Refactor & Todo:
 - [ ] Error handling
 	- [x] store errorCode in store
 	- [x] store isShowError modal
-	- [ ] error message
-	- [ ] consider which error to disable coupon
+	- [x] error message
+	- [x] consider which error to disable coupon
 - [x] Disable coupon if not in min price to use.
 	- [ ] Correct using value get from api
 - [x] implement and centralize `gtag` script
