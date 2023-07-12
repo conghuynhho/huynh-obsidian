@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiAttachment2",
       "FabYoutube",
       "⛑",
       "🛼",
-      "📗",
-      "LiCode"
+      "📗"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,5 +26,6 @@
   "Working": "⛑",
   "Templates": "🛼",
   "Today I Learned": "📗",
-  "Youtube": "FabYoutube"
+  "Youtube": "FabYoutube",
+  "Attachments": "RiAttachment2"
 }

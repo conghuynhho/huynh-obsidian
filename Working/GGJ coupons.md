@@ -83,3 +83,10 @@ https://dev-bay.com/popover-on-hover-in-vuejs/
 ele.style.top = `${Math.min(top, viewportHeight - eleRect.height - 20)}px`  
 ele.style.left = `${Math.min(left, viewportWidth - eleRect.width - 20)}px`
 ```
+
+### Some test case
+
+- Add expired coupon
+- Add not valid coupon
+- Remove coupon
+- 

@@ -11,12 +11,24 @@
             "id": "1fe05db2d26c775d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Attachments/CleanShot 2023-06-02 at 16.09.04.png"
+              }
             }
           },
           {
-            "id": "982a6578b9139f1b",
+            "id": "5f4b38826577a5c4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/CleanShot 2023-06-19 at 13.32.01.png"
+              }
+            }
+          },
+          {
+            "id": "57430363cbe57245",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,38 +178,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "982a6578b9139f1b",
+  "active": "57430363cbe57245",
   "lastOpenFiles": [
+    "Working/Payment Result VNPay.md",
+    "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
+    "Working/GGJ monorepo/Archived/tsconfig.json.md",
+    "Working/GGJ monorepo/Archived/pnpm Research.md",
+    "Working/GGJ monorepo/Archived/R&D Strategy.md",
+    "Working/GGJ monorepo/How to start.md",
+    "Working/GGJ monorepo/How to build.md",
+    "Working/GGJ monorepo/Summary GGJ Monorepo.md",
+    "Working/GGJ monorepo/Step to implement.md",
+    "Attachments/CleanShot 2023-06-19 at 13.32.01.png",
+    "Attachments/CleanShot 2023-06-02 at 16.09.04.png",
+    "Working/GGJ coupons.md",
+    "Attachments",
     "Just Write Down WIT.md",
     "Youtube/First step.md",
     "Youtube",
     "2023-06-27.md",
     "Excalidraw/2023-06-27 2023-06-27 11.42.38.excalidraw.md",
-    "CleanShot 2023-06-19 at 13.32.01.png",
-    "CleanShot 2023-06-02 at 16.09.04.png",
     "Roadmap.md",
-    "Working/GGJ coupons.md",
     "Working/Proxy move to API.md",
     "Today I Learned/Ideavim config for clipboard.md",
     "Today I Learned/React useTransition and useDeferredValue.md",
     "Today I Learned/Symlink too much level.md",
     "Today I Learned/Git Alias (Multiple Command).md",
-    "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
-    "Working/GGJ monorepo/Archived/pnpm Research.md",
     "Working/Vietnamese Address.md",
     "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
     "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md",
-    "Working/GGJ monorepo/Summary GGJ Monorepo.md",
-    "Working/GGJ monorepo/How to start.md",
-    "Working/GGJ monorepo/Step to implement.md",
-    "Working/GGJ monorepo/How to build.md",
     "2023-06-09.md",
     "Today I Learned/Explore Mono Turbo Repo.md",
-    "Working/GGJ monorepo/Archived/tsconfig.json.md",
-    "Working/GGJ monorepo/Archived/R&D Strategy.md",
     "Working/GGJ monorepo/Archived",
     "Today I Learned/Create an alfred workflow.md",
-    "Templates/DrawingTemplate.excalidraw.md",
     "Untitled.canvas",
     "Working/GGJ monorepo",
     "Excalidraw",
@@ -205,7 +218,6 @@
     "Inteliji Idea",
     "Nvim",
     "Tmux",
-    "Templates",
-    "untitled folder"
+    "Templates"
   ]
 }
