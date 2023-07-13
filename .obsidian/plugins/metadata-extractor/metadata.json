@@ -200,39 +200,6 @@
     ]
   },
   {
-    "fileName": "How to start",
-    "relativePath": "Working/GGJ monorepo/How to start.md",
-    "headings": [
-      {
-        "heading": "Run using turbo",
-        "level": 3
-      },
-      {
-        "heading": "✅ Start group of service",
-        "level": 3
-      },
-      {
-        "heading": "✅ Start a separate service",
-        "level": 3
-      },
-      {
-        "heading": "In the long run.",
-        "level": 3
-      },
-      {
-        "heading": "Conclude",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "R&D GGJ Turbo Repo",
-        "link": "How to start",
-        "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
-      }
-    ]
-  },
-  {
     "fileName": "R&D GGJ Turbo Repo",
     "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
     "headings": [
@@ -297,6 +264,39 @@
       {
         "link": "How to build",
         "relativePath": "Working/GGJ monorepo/How to build.md"
+      }
+    ]
+  },
+  {
+    "fileName": "How to start",
+    "relativePath": "Working/GGJ monorepo/How to start.md",
+    "headings": [
+      {
+        "heading": "Run using turbo",
+        "level": 3
+      },
+      {
+        "heading": "✅ Start group of service",
+        "level": 3
+      },
+      {
+        "heading": "✅ Start a separate service",
+        "level": 3
+      },
+      {
+        "heading": "In the long run.",
+        "level": 3
+      },
+      {
+        "heading": "Conclude",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "R&D GGJ Turbo Repo",
+        "link": "How to start",
+        "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
       }
     ]
   },
