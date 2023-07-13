@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5026054382324,
-    "collapsed": true
+    "width": 261.5026054382324
   },
   "right": {
     "id": "10fe1423611578e8",
@@ -178,6 +177,7 @@
   },
   "active": "b8539d95106fa8a3",
   "lastOpenFiles": [
+    "Attachments/CleanShot 2023-07-13 at 11.54.59@2x.png",
     "Today I Learned/Git Alias (Multiple Command).md",
     "Today I Learned/Create an alfred workflow.md",
     "Today I Learned/Tmux Prefix.md",
@@ -207,7 +207,6 @@
     "Working/Proxy move to API.md",
     "Today I Learned/Ideavim config for clipboard.md",
     "Today I Learned/React useTransition and useDeferredValue.md",
-    "Today I Learned/Symlink too much level.md",
     "Working/GGJ monorepo/Archived",
     "Untitled.canvas",
     "Working/GGJ monorepo",

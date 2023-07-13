@@ -127,6 +127,9 @@ select * FROM master.user_limited_coupons WHERE is_valid = 1 AND user_limited_co
 - [ ] https://docs.google.com/spreadsheets/d/1n_w4_oOPId9RePjnEg6eHmC3vdEv2wyAazMrlOZBbcg/edit#gid=1667781120
 
 **Refactor**
-- [ ] Refactor component `<CustomModalCoupon />`
-- [ ] remove redundant component Coupon `/Users/huynh/GGJ/surface.gogojungle.co.jp/components/cart/Coupon/index.vue`
+- [x] Refactor component `<CustomModalCoupon />`
+- [x] remove redundant component Coupon `/Users/huynh/GGJ/surface.gogojungle.co.jp/components/cart/Coupon/index.vue`
 - [ ] smooth reorder coupon animation.
+- [ ] may need to rename this
+      ![[CleanShot 2023-07-13 at 11.54.59@2x.png]]
+
