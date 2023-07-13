@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "42ff731aa4ccfa50",
+        "id": "087863b9b23fe238",
         "type": "tabs",
         "children": [
           {
-            "id": "1fe05db2d26c775d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/CleanShot 2023-06-02 at 16.09.04.png"
-              }
-            }
-          },
-          {
-            "id": "5f4b38826577a5c4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/CleanShot 2023-06-19 at 13.32.01.png"
-              }
-            }
-          },
-          {
-            "id": "57430363cbe57245",
+            "id": "cfcb1111a15310f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Today I Learned/Create an alfred workflow.md",
+                "file": "Working/GGJ coupons.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Today I Learned/Create an alfred workflow.md",
+                "file": "Working/GGJ coupons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Today I Learned/Create an alfred workflow.md",
+                "file": "Working/GGJ coupons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Today I Learned/Create an alfred workflow.md"
+                "file": "Working/GGJ coupons.md"
               }
             }
           },
@@ -178,9 +157,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57430363cbe57245",
+  "active": "cfcb1111a15310f1",
   "lastOpenFiles": [
+    "new.md",
     "Working/GGJ coupons.md",
+    "Today I Learned/Tmux Prefix.md",
+    "Today I Learned/Deep copy.md",
+    "Today I Learned/Typescript Generic Auto Inter Type.md",
+    "Today I Learned/Create an alfred workflow.md",
+    "Attachments/CleanShot 2023-06-19 at 13.32.01.png",
+    "Attachments/CleanShot 2023-06-02 at 16.09.04.png",
     "Working/Payment Result VNPay.md",
     "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
     "Working/GGJ monorepo/Archived/tsconfig.json.md",
@@ -190,8 +176,6 @@
     "Working/GGJ monorepo/How to build.md",
     "Working/GGJ monorepo/Summary GGJ Monorepo.md",
     "Working/GGJ monorepo/Step to implement.md",
-    "Attachments/CleanShot 2023-06-19 at 13.32.01.png",
-    "Attachments/CleanShot 2023-06-02 at 16.09.04.png",
     "Attachments",
     "Just Write Down WIT.md",
     "Youtube/First step.md",
@@ -205,12 +189,7 @@
     "Today I Learned/Symlink too much level.md",
     "Today I Learned/Git Alias (Multiple Command).md",
     "Working/Vietnamese Address.md",
-    "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md",
-    "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md",
-    "2023-06-09.md",
-    "Today I Learned/Explore Mono Turbo Repo.md",
     "Working/GGJ monorepo/Archived",
-    "Today I Learned/Create an alfred workflow.md",
     "Untitled.canvas",
     "Working/GGJ monorepo",
     "Excalidraw",

@@ -67,7 +67,7 @@ Refactor & Todo:
 https://medium.com/developers-writing/animating-the-unanimatable-1346a5aab3cd
 https://dev-bay.com/popover-on-hover-in-vuejs/
 
-**Integration**
+## **Integration**
 
  - [x] Get list coupons
 	- [x] only get on enter page
