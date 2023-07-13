@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "db5446ee1a3c48c7",
+        "id": "0c9b570e4ff068a4",
         "type": "tabs",
         "children": [
           {
-            "id": "285d0e3b3ce76d2a",
+            "id": "1e39b19a7e2551cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Working/GGJ monorepo/Step to implement.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/GGJ monorepo/Step to implement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/GGJ monorepo/Step to implement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Working/GGJ monorepo/Step to implement.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,8 +149,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "285d0e3b3ce76d2a",
+  "active": "1e39b19a7e2551cd",
   "lastOpenFiles": [
+    "Working/GGJ monorepo/Step to implement.md",
     "Working/GGJ coupons.md",
     "Attachments/CleanShot 2023-07-13 at 11.54.59@2x.png",
     "Today I Learned/Git Alias (Multiple Command).md",
@@ -178,7 +171,6 @@
     "Working/GGJ monorepo/How to start.md",
     "Working/GGJ monorepo/How to build.md",
     "Working/GGJ monorepo/Summary GGJ Monorepo.md",
-    "Working/GGJ monorepo/Step to implement.md",
     "Attachments",
     "Just Write Down WIT.md",
     "Youtube/First step.md",
