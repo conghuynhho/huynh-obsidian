@@ -5,16 +5,16 @@
       "relativePath": "/"
     },
     {
+      "name": "Attachments",
+      "relativePath": "Attachments"
+    },
+    {
       "name": "Excalidraw",
       "relativePath": "Excalidraw"
     },
     {
       "name": "Temp",
       "relativePath": "Temp"
-    },
-    {
-      "name": "Working",
-      "relativePath": "Working"
     },
     {
       "name": "Templates",
@@ -25,32 +25,32 @@
       "relativePath": "Today I Learned"
     },
     {
-      "name": "GGJ monorepo",
-      "relativePath": "Working/GGJ monorepo"
-    },
-    {
-      "name": "Archived",
-      "relativePath": "Working/GGJ monorepo/Archived"
+      "name": "Working",
+      "relativePath": "Working"
     },
     {
       "name": "Youtube",
       "relativePath": "Youtube"
     },
     {
-      "name": "Attachments",
-      "relativePath": "Attachments"
+      "name": "GGJ monorepo",
+      "relativePath": "Working/GGJ monorepo"
+    },
+    {
+      "name": "Archived",
+      "relativePath": "Working/GGJ monorepo/Archived"
     }
   ],
   "nonMdFiles": [
     {
-      "name": "CleanShot 2023-06-19 at 13.32.01.png",
-      "basename": "CleanShot 2023-06-19 at 13.32.01",
-      "relativePath": "Attachments/CleanShot 2023-06-19 at 13.32.01.png"
-    },
-    {
       "name": "CleanShot 2023-06-02 at 16.09.04.png",
       "basename": "CleanShot 2023-06-02 at 16.09.04",
       "relativePath": "Attachments/CleanShot 2023-06-02 at 16.09.04.png"
+    },
+    {
+      "name": "CleanShot 2023-06-19 at 13.32.01.png",
+      "basename": "CleanShot 2023-06-19 at 13.32.01",
+      "relativePath": "Attachments/CleanShot 2023-06-19 at 13.32.01.png"
     }
   ]
 }

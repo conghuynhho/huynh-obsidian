@@ -11,20 +11,438 @@
     ]
   },
   {
-    "fileName": "Just Write Down WIT",
-    "relativePath": "Just Write Down WIT.md",
+    "fileName": "Vietnamese Address",
+    "relativePath": "Working/Vietnamese Address.md",
     "headings": [
       {
-        "heading": "Plan to do it",
+        "heading": "Spec",
+        "level": 3
+      },
+      {
+        "heading": "Solution",
+        "level": 3
+      },
+      {
+        "heading": "Doing",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Proxy move to API",
+    "relativePath": "Working/Proxy move to API.md",
+    "headings": [
+      {
+        "heading": "proxy-labo & proxy-sf",
+        "level": 3
+      },
+      {
+        "heading": "Change build config",
+        "level": 3
+      },
+      {
+        "heading": "Docker context size",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Payment Result VNPay",
+    "relativePath": "Working/Payment Result VNPay.md",
+    "headings": [
+      {
+        "heading": "1. Prototype",
+        "level": 1
+      },
+      {
+        "heading": "Done",
+        "level": 2
+      },
+      {
+        "heading": "Basic information",
+        "level": 2
+      },
+      {
+        "heading": "Section",
+        "level": 2
+      },
+      {
+        "heading": "Response VNPAY `payment-complete`",
+        "level": 2
+      },
+      {
+        "heading": "2. Integration",
+        "level": 1
+      },
+      {
+        "heading": "Integrate Strategy",
+        "level": 3
+      },
+      {
+        "heading": "Set timeout case VNPay pending",
+        "level": 3
+      },
+      {
+        "heading": "Remains:",
+        "level": 1
+      },
+      {
+        "heading": "Centralize code for multiple language",
+        "level": 2
+      },
+      {
+        "heading": "What currently has on `payment`",
         "level": 3
       }
     ],
     "links": [
       {
-        "link": "First step",
-        "relativePath": "Youtube/First step.md"
+        "link": "Sketch VNPay Result",
+        "displayText": "UI Sketch",
+        "relativePath": "Excalidraw/Sketch VNPay Result.md"
       }
     ]
+  },
+  {
+    "fileName": "Infinite scroll in community attachment",
+    "relativePath": "Working/Infinite scroll in community attachment.md",
+    "headings": [
+      {
+        "heading": "New WorkFlow",
+        "level": 3
+      },
+      {
+        "heading": "Some test case:",
+        "level": 3
+      },
+      {
+        "heading": "What we need",
+        "level": 3
+      },
+      {
+        "heading": "How to append",
+        "level": 3
+      },
+      {
+        "heading": "Concern",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Summary GGJ Monorepo",
+    "relativePath": "Working/GGJ monorepo/Summary GGJ Monorepo.md",
+    "headings": [
+      {
+        "heading": "Workspace `node_modules`",
+        "level": 3
+      },
+      {
+        "heading": "Turbo feature",
+        "level": 3
+      },
+      {
+        "heading": "❓ How to",
+        "level": 2
+      },
+      {
+        "heading": "How to build",
+        "level": 3
+      },
+      {
+        "heading": "How to start",
+        "level": 3
+      },
+      {
+        "heading": "How to add new library",
+        "level": 3
+      },
+      {
+        "heading": "How to add new workspace",
+        "level": 3
+      },
+      {
+        "heading": "How to use common package",
+        "level": 3
+      },
+      {
+        "heading": "Eslint, Lintstaged & Husky",
+        "level": 3
+      },
+      {
+        "heading": "Typescript",
+        "level": 3
+      },
+      {
+        "heading": "Issues",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Step to implement",
+    "relativePath": "Working/GGJ monorepo/Step to implement.md",
+    "headings": [
+      {
+        "heading": "Implement strategy",
+        "level": 3
+      },
+      {
+        "heading": "Brainstorm",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Step to implement 2023-06-26 10.20.15.excalidraw",
+        "relativePath": "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md"
+      }
+    ]
+  },
+  {
+    "fileName": "How to start",
+    "relativePath": "Working/GGJ monorepo/How to start.md",
+    "headings": [
+      {
+        "heading": "Run using turbo",
+        "level": 3
+      },
+      {
+        "heading": "✅ Start group of service",
+        "level": 3
+      },
+      {
+        "heading": "✅ Start a separate service",
+        "level": 3
+      },
+      {
+        "heading": "In the long run.",
+        "level": 3
+      },
+      {
+        "heading": "Conclude",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "R&D GGJ Turbo Repo",
+        "link": "How to start",
+        "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
+      }
+    ]
+  },
+  {
+    "fileName": "R&D GGJ Turbo Repo",
+    "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
+    "headings": [
+      {
+        "heading": "Idea",
+        "level": 1
+      },
+      {
+        "heading": "Document",
+        "level": 3
+      },
+      {
+        "heading": "Basic",
+        "level": 3
+      },
+      {
+        "heading": "Next Step",
+        "level": 3
+      },
+      {
+        "heading": "Share",
+        "level": 3
+      },
+      {
+        "heading": "Advanced",
+        "level": 3
+      },
+      {
+        "heading": "Issues",
+        "level": 1
+      },
+      {
+        "heading": "Notes",
+        "level": 1
+      },
+      {
+        "heading": "Need to test",
+        "level": 1
+      },
+      {
+        "heading": "Repositories",
+        "level": 4
+      },
+      {
+        "heading": "Type of Services",
+        "level": 4
+      },
+      {
+        "heading": "Common structure",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "How to start",
+        "relativePath": "Working/GGJ monorepo/How to start.md"
+      },
+      {
+        "link": "pnpm Research",
+        "relativePath": "Working/GGJ monorepo/Archived/pnpm Research.md"
+      },
+      {
+        "link": "How to build",
+        "relativePath": "Working/GGJ monorepo/How to build.md"
+      }
+    ]
+  },
+  {
+    "fileName": "How to build",
+    "relativePath": "Working/GGJ monorepo/How to build.md",
+    "headings": [
+      {
+        "heading": "Code build",
+        "level": 2
+      },
+      {
+        "heading": "Need to do",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "How to build 2023-06-20 17.56.29.excalidraw",
+        "relativePath": "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "R&D GGJ Turbo Repo",
+        "link": "How to build",
+        "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
+      }
+    ]
+  },
+  {
+    "fileName": "tsconfig.json",
+    "relativePath": "Working/GGJ monorepo/Archived/tsconfig.json.md",
+    "headings": [
+      {
+        "heading": "`base.tsconfig.json`",
+        "level": 4
+      },
+      {
+        "heading": "`nestjs` ---  api-skijan-vi ,  api-skijan",
+        "level": 4
+      },
+      {
+        "heading": "`nextjs` --- gui-skijan-vi, gui-skijan",
+        "level": 4
+      },
+      {
+        "heading": "`react-lib`",
+        "level": 3
+      },
+      {
+        "heading": "base",
+        "level": 3
+      },
+      {
+        "heading": "api",
+        "level": 3
+      },
+      {
+        "heading": "gui",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "pnpm Research",
+    "relativePath": "Working/GGJ monorepo/Archived/pnpm Research.md",
+    "headings": [
+      {
+        "heading": "Breakdown",
+        "level": 3
+      },
+      {
+        "heading": "Test",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "R&D GGJ Turbo Repo",
+        "link": "pnpm Research",
+        "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
+      }
+    ]
+  },
+  {
+    "fileName": "R&D Strategy",
+    "relativePath": "Working/GGJ monorepo/Archived/R&D Strategy.md",
+    "headings": [
+      {
+        "heading": "R&D Strategy",
+        "level": 1
+      },
+      {
+        "heading": "Typescript (Nam)",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "GGJ coupons",
+    "relativePath": "Working/GGJ coupons.md",
+    "headings": [
+      {
+        "heading": "Prototype",
+        "level": 2
+      },
+      {
+        "heading": "**Integration**",
+        "level": 2
+      },
+      {
+        "heading": "Some test case",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Community LazyImage",
+    "relativePath": "Working/Community LazyImage.md",
+    "headings": [
+      {
+        "heading": "Specification",
+        "level": 2
+      },
+      {
+        "heading": "Issues",
+        "level": 2
+      },
+      {
+        "heading": "Solution",
+        "level": 2
+      },
+      {
+        "heading": "Final solution:",
+        "level": 2
+      },
+      {
+        "heading": "Fix requests:",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Add Paging for EA list",
+    "relativePath": "Working/Add Paging for EA list.md"
   },
   {
     "fileName": "Typescript Generic Auto Inter Type",
@@ -117,28 +535,6 @@
     ]
   },
   {
-    "fileName": "Deep copy",
-    "relativePath": "Today I Learned/Deep copy.md",
-    "headings": [
-      {
-        "heading": "[Syntax](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone#syntax)",
-        "level": 2
-      },
-      {
-        "heading": "[Parameters](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone#parameters)",
-        "level": 3
-      },
-      {
-        "heading": "[Return value](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone#return_value)",
-        "level": 3
-      },
-      {
-        "heading": "[Exceptions](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone#exceptions)",
-        "level": 3
-      }
-    ]
-  },
-  {
     "fileName": "Git Alias (Multiple Command)",
     "relativePath": "Today I Learned/Git Alias (Multiple Command).md",
     "headings": [
@@ -175,6 +571,28 @@
     ]
   },
   {
+    "fileName": "Deep copy",
+    "relativePath": "Today I Learned/Deep copy.md",
+    "headings": [
+      {
+        "heading": "[Syntax](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone#syntax)",
+        "level": 2
+      },
+      {
+        "heading": "[Parameters](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone#parameters)",
+        "level": 3
+      },
+      {
+        "heading": "[Return value](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone#return_value)",
+        "level": 3
+      },
+      {
+        "heading": "[Exceptions](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone#exceptions)",
+        "level": 3
+      }
+    ]
+  },
+  {
     "fileName": "Create an alfred workflow",
     "relativePath": "Today I Learned/Create an alfred workflow.md",
     "headings": [
@@ -187,6 +605,10 @@
         "level": 2
       }
     ]
+  },
+  {
+    "fileName": "TIL Template",
+    "relativePath": "Templates/TIL Template.md"
   },
   {
     "fileName": "Release Template",
@@ -227,10 +649,6 @@
     "relativePath": "Templates/Quicknotes.md"
   },
   {
-    "fileName": "TIL Template",
-    "relativePath": "Templates/TIL Template.md"
-  },
-  {
     "fileName": "DrawingTemplate.excalidraw",
     "relativePath": "Templates/DrawingTemplate.excalidraw.md",
     "tags": [
@@ -253,472 +671,22 @@
     }
   },
   {
-    "fileName": "Vietnamese Address",
-    "relativePath": "Working/Vietnamese Address.md",
-    "headings": [
-      {
-        "heading": "Spec",
-        "level": 3
-      },
-      {
-        "heading": "Solution",
-        "level": 3
-      },
-      {
-        "heading": "Doing",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Step to implement",
-    "relativePath": "Working/GGJ monorepo/Step to implement.md",
-    "headings": [
-      {
-        "heading": "Implement strategy",
-        "level": 3
-      },
-      {
-        "heading": "Brainstorm",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Step to implement 2023-06-26 10.20.15.excalidraw",
-        "relativePath": "Excalidraw/Step to implement 2023-06-26 10.20.15.excalidraw.md"
-      }
-    ]
-  },
-  {
-    "fileName": "R&D GGJ Turbo Repo",
-    "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md",
-    "headings": [
-      {
-        "heading": "Idea",
-        "level": 1
-      },
-      {
-        "heading": "Document",
-        "level": 3
-      },
-      {
-        "heading": "Basic",
-        "level": 3
-      },
-      {
-        "heading": "Next Step",
-        "level": 3
-      },
-      {
-        "heading": "Share",
-        "level": 3
-      },
-      {
-        "heading": "Advanced",
-        "level": 3
-      },
-      {
-        "heading": "Issues",
-        "level": 1
-      },
-      {
-        "heading": "Notes",
-        "level": 1
-      },
-      {
-        "heading": "Need to test",
-        "level": 1
-      },
-      {
-        "heading": "Repositories",
-        "level": 4
-      },
-      {
-        "heading": "Type of Services",
-        "level": 4
-      },
-      {
-        "heading": "Common structure",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "How to start",
-        "relativePath": "Working/GGJ monorepo/How to start.md"
-      },
-      {
-        "link": "pnpm Research",
-        "relativePath": "Working/GGJ monorepo/Archived/pnpm Research.md"
-      },
-      {
-        "link": "How to build",
-        "relativePath": "Working/GGJ monorepo/How to build.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Summary GGJ Monorepo",
-    "relativePath": "Working/GGJ monorepo/Summary GGJ Monorepo.md",
-    "headings": [
-      {
-        "heading": "Workspace `node_modules`",
-        "level": 3
-      },
-      {
-        "heading": "Turbo feature",
-        "level": 3
-      },
-      {
-        "heading": "❓ How to",
-        "level": 2
-      },
-      {
-        "heading": "How to build",
-        "level": 3
-      },
-      {
-        "heading": "How to start",
-        "level": 3
-      },
-      {
-        "heading": "How to add new library",
-        "level": 3
-      },
-      {
-        "heading": "How to add new workspace",
-        "level": 3
-      },
-      {
-        "heading": "How to use common package",
-        "level": 3
-      },
-      {
-        "heading": "Eslint, Lintstaged & Husky",
-        "level": 3
-      },
-      {
-        "heading": "Typescript",
-        "level": 3
-      },
-      {
-        "heading": "Issues",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "How to start",
-    "relativePath": "Working/GGJ monorepo/How to start.md",
-    "headings": [
-      {
-        "heading": "Run using turbo",
-        "level": 3
-      },
-      {
-        "heading": "✅ Start group of service",
-        "level": 3
-      },
-      {
-        "heading": "✅ Start a separate service",
-        "level": 3
-      },
-      {
-        "heading": "In the long run.",
-        "level": 3
-      },
-      {
-        "heading": "Conclude",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "R&D GGJ Turbo Repo",
-        "link": "How to start",
-        "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
-      }
-    ]
-  },
-  {
-    "fileName": "pnpm Research",
-    "relativePath": "Working/GGJ monorepo/Archived/pnpm Research.md",
-    "headings": [
-      {
-        "heading": "Breakdown",
-        "level": 3
-      },
-      {
-        "heading": "Test",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "R&D GGJ Turbo Repo",
-        "link": "pnpm Research",
-        "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
-      }
-    ]
-  },
-  {
-    "fileName": "tsconfig.json",
-    "relativePath": "Working/GGJ monorepo/Archived/tsconfig.json.md",
-    "headings": [
-      {
-        "heading": "`base.tsconfig.json`",
-        "level": 4
-      },
-      {
-        "heading": "`nestjs` ---  api-skijan-vi ,  api-skijan",
-        "level": 4
-      },
-      {
-        "heading": "`nextjs` --- gui-skijan-vi, gui-skijan",
-        "level": 4
-      },
-      {
-        "heading": "`react-lib`",
-        "level": 3
-      },
-      {
-        "heading": "base",
-        "level": 3
-      },
-      {
-        "heading": "api",
-        "level": 3
-      },
-      {
-        "heading": "gui",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "R&D Strategy",
-    "relativePath": "Working/GGJ monorepo/Archived/R&D Strategy.md",
-    "headings": [
-      {
-        "heading": "R&D Strategy",
-        "level": 1
-      },
-      {
-        "heading": "Typescript (Nam)",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "How to build",
-    "relativePath": "Working/GGJ monorepo/How to build.md",
-    "headings": [
-      {
-        "heading": "Code build",
-        "level": 2
-      },
-      {
-        "heading": "Need to do",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "How to build 2023-06-20 17.56.29.excalidraw",
-        "relativePath": "Excalidraw/How to build 2023-06-20 17.56.29.excalidraw.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "R&D GGJ Turbo Repo",
-        "link": "How to build",
-        "relativePath": "Working/GGJ monorepo/R&D GGJ Turbo Repo.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Payment Result VNPay",
-    "relativePath": "Working/Payment Result VNPay.md",
-    "headings": [
-      {
-        "heading": "1. Prototype",
-        "level": 1
-      },
-      {
-        "heading": "Done",
-        "level": 2
-      },
-      {
-        "heading": "Basic information",
-        "level": 2
-      },
-      {
-        "heading": "Section",
-        "level": 2
-      },
-      {
-        "heading": "Response VNPAY `payment-complete`",
-        "level": 2
-      },
-      {
-        "heading": "2. Integration",
-        "level": 1
-      },
-      {
-        "heading": "Integrate Strategy",
-        "level": 3
-      },
-      {
-        "heading": "Set timeout case VNPay pending",
-        "level": 3
-      },
-      {
-        "heading": "Remains:",
-        "level": 1
-      },
-      {
-        "heading": "Centralize code for multiple language",
-        "level": 2
-      },
-      {
-        "heading": "What currently has on `payment`",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Sketch VNPay Result",
-        "displayText": "UI Sketch",
-        "relativePath": "Excalidraw/Sketch VNPay Result.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Proxy move to API",
-    "relativePath": "Working/Proxy move to API.md",
-    "headings": [
-      {
-        "heading": "proxy-labo & proxy-sf",
-        "level": 3
-      },
-      {
-        "heading": "Change build config",
-        "level": 3
-      },
-      {
-        "heading": "Docker context size",
-        "level": 4
-      }
-    ]
-  },
-  {
-    "fileName": "Infinite scroll in community attachment",
-    "relativePath": "Working/Infinite scroll in community attachment.md",
-    "headings": [
-      {
-        "heading": "New WorkFlow",
-        "level": 3
-      },
-      {
-        "heading": "Some test case:",
-        "level": 3
-      },
-      {
-        "heading": "What we need",
-        "level": 3
-      },
-      {
-        "heading": "How to append",
-        "level": 3
-      },
-      {
-        "heading": "Concern",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "GGJ coupons",
-    "relativePath": "Working/GGJ coupons.md",
-    "headings": [
-      {
-        "heading": "Prototype",
-        "level": 2
-      },
-      {
-        "heading": "Some test case",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Community LazyImage",
-    "relativePath": "Working/Community LazyImage.md",
-    "headings": [
-      {
-        "heading": "Specification",
-        "level": 2
-      },
-      {
-        "heading": "Issues",
-        "level": 2
-      },
-      {
-        "heading": "Solution",
-        "level": 2
-      },
-      {
-        "heading": "Final solution:",
-        "level": 2
-      },
-      {
-        "heading": "Fix requests:",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "Add Paging for EA list",
-    "relativePath": "Working/Add Paging for EA list.md"
-  },
-  {
     "fileName": "Roadmap",
     "relativePath": "Roadmap.md"
   },
   {
-    "fileName": "Sketch VNPay Result",
-    "relativePath": "Excalidraw/Sketch VNPay Result.md",
-    "tags": [
-      "excalidraw"
-    ],
-    "frontmatter": {
-      "excalidraw-plugin": "parsed",
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 54
-        }
-      }
-    },
+    "fileName": "Just Write Down WIT",
+    "relativePath": "Just Write Down WIT.md",
     "headings": [
       {
-        "heading": "Text Elements",
-        "level": 1
+        "heading": "Plan to do it",
+        "level": 3
       }
     ],
-    "backlinks": [
+    "links": [
       {
-        "fileName": "Payment Result VNPay",
-        "link": "Sketch VNPay Result",
-        "relativePath": "Working/Payment Result VNPay.md",
-        "displayText": "UI Sketch"
+        "link": "First step",
+        "relativePath": "Youtube/First step.md"
       }
     ]
   },
@@ -754,6 +722,42 @@
         "fileName": "Step to implement",
         "link": "Step to implement 2023-06-26 10.20.15.excalidraw",
         "relativePath": "Working/GGJ monorepo/Step to implement.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sketch VNPay Result",
+    "relativePath": "Excalidraw/Sketch VNPay Result.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Text Elements",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Payment Result VNPay",
+        "link": "Sketch VNPay Result",
+        "relativePath": "Working/Payment Result VNPay.md",
+        "displayText": "UI Sketch"
       }
     ]
   },

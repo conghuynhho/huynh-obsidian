@@ -2,8 +2,11 @@
 nmap j gj
 nmap k gk
 " I like using H and L for beginning/end of line
-nmap H ^
-nmap L $
+" nmap H ^
+" nmap L $
+"
+
+
 " Quickly remove search highlights
 nmap <F9> :nohl
 
@@ -44,6 +47,8 @@ exmap gotoTab6 obcommand workspace:goto-tab-6
 exmap gotoTab7 obcommand workspace:goto-tab-7
 exmap gotoTab8 obcommand workspace:goto-tab-8
 exmap gotoLastTab obcommand workspace:goto-last-tab
+exmap nextTab obcommand workspace:next-tab
+exmap prevTab obcommand workspace:previous-tab
 
 nmap <Space>1 :gotoTab1
 nmap <Space>2 :gotoTab2
@@ -54,5 +59,32 @@ nmap <Space>6 :gotoTab6
 nmap <Space>7 :gotoTab7
 nmap <Space>8 :gotoTab8
 nmap <Space>9 :gotoLastTab
+nmap H :prevTab
+nmap L :nextTab
+
+
+"surround
+exmap surround_wiki surround [[ ]]
+exmap surround_double_quotes surround " "
+exmap surround_single_quotes surround ' '
+exmap surround_backticks surround ` `
+exmap surround_brackets surround ( )
+exmap surround_square_brackets surround [ ]
+exmap surround_curly_brackets surround { }
+
+" NOTE: must use 'map' and not 'nmap'
+map [[ :surround_wiki
+nunmap s
+vunmap s
+map s" :surround_double_quotes
+map s' :surround_single_quotes
+map s` :surround_backticks
+map sb :surround_brackets
+map s( :surround_brackets
+map s) :surround_brackets
+map s[ :surround_square_brackets
+map s[ :surround_square_brackets
+map s{ :surround_curly_brackets
+map s} :surround_curly_brackets
 
 
