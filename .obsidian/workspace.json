@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working/GGJ coupons.md",
+                "file": "Today I Learned/Akko 5075B Plus with MacOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/GGJ coupons.md",
+                "file": "Today I Learned/Akko 5075B Plus with MacOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/GGJ coupons.md",
+                "file": "Today I Learned/Akko 5075B Plus with MacOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/GGJ coupons.md"
+                "file": "Today I Learned/Akko 5075B Plus with MacOS.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "1e39b19a7e2551cd",
   "lastOpenFiles": [
-    "Working/GGJ monorepo/Step to implement.md",
     "Working/GGJ coupons.md",
+    "Today I Learned/Akko 5075B Plus with MacOS.md",
+    "Working/GGJ monorepo/Step to implement.md",
     "Attachments/CleanShot 2023-07-13 at 11.54.59@2x.png",
     "Today I Learned/Git Alias (Multiple Command).md",
     "Today I Learned/Create an alfred workflow.md",
