@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c9b570e4ff068a4",
+        "id": "5964245c09a5ba3c",
         "type": "tabs",
         "children": [
           {
-            "id": "1e39b19a7e2551cd",
+            "id": "e2ef90a2da5ff469",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,10 +157,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e39b19a7e2551cd",
+  "active": "e2ef90a2da5ff469",
   "lastOpenFiles": [
-    "Working/GGJ coupons.md",
     "Today I Learned/Akko 5075B Plus with MacOS.md",
+    "Working/GGJ coupons.md",
     "Working/GGJ monorepo/Step to implement.md",
     "Attachments/CleanShot 2023-07-13 at 11.54.59@2x.png",
     "Today I Learned/Git Alias (Multiple Command).md",
