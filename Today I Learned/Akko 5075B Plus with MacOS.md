@@ -30,6 +30,26 @@ Config will be post to [.dotfiles repo](https://github.com/conghuynhho/.dotfiles
 
 This is bonus key mapping to `disable CMD+M`
 ```json
+{
+  "title": "Emacs",
+  "rules": [
+    {
+      "description": "Emacs Shortcuts",
+      "manipulators": [
+        {
+          "from": {
+            "key_code": "m",
+            "modifiers": { "mandatory": ["command"] }
+          },
+          "to": [{
+            "key_code": "m",
+            "modifiers": ["left_command", "left_shift", "left_control"]
+          }],
+          "type": "basic"
+        }
+      ]
+    }
+  ]
+}
 
 ```
-

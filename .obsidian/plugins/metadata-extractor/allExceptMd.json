@@ -13,10 +13,6 @@
       "relativePath": "Excalidraw"
     },
     {
-      "name": "Temp",
-      "relativePath": "Temp"
-    },
-    {
       "name": "Templates",
       "relativePath": "Templates"
     },
@@ -27,6 +23,10 @@
     {
       "name": "Working",
       "relativePath": "Working"
+    },
+    {
+      "name": "Temp",
+      "relativePath": "Temp"
     },
     {
       "name": "Youtube",
